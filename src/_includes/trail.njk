@@ -1,0 +1,15 @@
+{# Stepping stones, one per part. Set `current` before including to mark progress. #}
+<nav class="trail" aria-label="Parts of the book">
+  <ol>
+    {%- for p in book.parts %}
+    <li>
+      <a href="/part/{{ p.part }}/"
+         class="stone{% if current and p.part < current %} is-done{% elif p.part == current %} is-current{% endif %}"
+         title="Part {{ p.part }}"
+         {%- if p.part == current %} aria-current="page"{% endif %}>
+        <span class="visually-hidden">Part {{ p.part }}</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ol>
+</nav>

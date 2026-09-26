@@ -1,0 +1,87 @@
+---
+layout: base.njk
+pagination:
+  data: book.parts
+  size: 1
+  alias: part
+permalink: "/part/{{ part.part }}/"
+eleventyComputed:
+  title: "Part {{ part.part }}"
+---
+{% set current = part.part %}
+{% include "trail.njk" %}
+
+<article class="part">
+  <header class="part-header">
+    <p class="eyebrow">Part {{ part.part }} of {{ book.parts | length }} · {{ part.chapterRange }}</p>
+    <h1>Part {{ part.part }}</h1>
+    <p class="lede">{{ part.chapterNames | join(" · ") }}</p>
+  </header>
+
+  <figure class="picture{% if not part.image %} picture--placeholder{% endif %}">
+    {%- if part.image %}
+    <img src="{{ part.image }}" alt="{{ part.imageAlt }}">
+    {%- else %}
+    {% include "svg/island-scene.svg" %}
+    {%- endif %}
+  </figure>
+
+  <section class="section" aria-labelledby="words-heading">
+    <h2 id="words-heading">Words to know</h2>
+    {% set words = part.glossary %}
+    {% include "words.njk" %}
+  </section>
+
+  {% include "divider.njk" %}
+
+  <section class="section" aria-labelledby="questions-heading">
+    <h2 id="questions-heading">Let’s think</h2>
+    <ol class="question-cards">
+      {%- for q in part.questions %}
+      <li>{{ q }}</li>
+      {%- endfor %}
+    </ol>
+  </section>
+
+  {% include "divider.njk" %}
+
+  <section class="section" aria-labelledby="chapters-heading">
+    <h2 id="chapters-heading">Chapter by chapter</h2>
+    {%- for ch in part.chapters %}
+    <details class="chapter">
+      <summary>
+        <span class="chapter-num">Chapter {{ ch.chapter }}</span>
+        <span class="chapter-title">{{ ch.title }}</span>
+      </summary>
+      <div class="chapter-body">
+        {%- if ch.glossary.length %}
+        <h3>Words</h3>
+        {% set words = ch.glossary %}
+        {% include "words.njk" %}
+        {%- endif %}
+        {%- if ch.questions.length %}
+        <h3>Questions</h3>
+        <ol class="question-list">
+          {%- for q in ch.questions %}
+          <li>{{ q }}</li>
+          {%- endfor %}
+        </ol>
+        {%- endif %}
+      </div>
+    </details>
+    {%- endfor %}
+  </section>
+</article>
+
+<nav class="pager" aria-label="Parts">
+  {%- if pagination.href.previous %}
+  <a class="button" rel="prev" href="{{ pagination.href.previous }}">← Part {{ part.part - 1 }}</a>
+  {%- else %}
+  <a class="button" href="/">← All parts</a>
+  {%- endif %}
+  {%- if pagination.href.next %}
+  <a class="button button--primary" rel="next" href="{{ pagination.href.next }}">Part {{ part.part + 1 }} →</a>
+  {%- else %}
+  <a class="button button--primary" href="/">The end · All parts</a>
+  {%- endif %}
+</nav>

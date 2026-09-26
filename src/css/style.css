@@ -1,0 +1,532 @@
+/* The Wild Robot – "morning on the island"
+   Calm, warm paper page. One accent colour (sunset), used sparingly. */
+
+:root {
+  --paper: #f6f1e7;
+  --paper-deep: #ede5d4;
+  --ink: #2e3a33;
+  --ink-soft: #55625a;
+  --forest: #4f6b4a;
+  --forest-deep: #3e5a3b;
+  --moss: #dce5d0;
+  --moss-deep: #b9c9a8;
+  --sky: #e3ecee;
+  --sea: #c9dadc;
+  --sand: #e9dfc9;
+  --bark: #7a5c43;
+  --sunset: #d08a4e;
+
+  --font-body: "Atkinson Hyperlegible", system-ui, sans-serif;
+  --font-heading: "Fraunces", Georgia, serif;
+
+  --measure: 40rem;
+  --gutter: 1rem;
+  --radius: 1rem;
+  --space: 1.5rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 112.5%; /* 18px on phones */
+  -webkit-text-size-adjust: 100%;
+}
+
+@media (min-width: 40em) {
+  html {
+    font-size: 125%; /* 20px */
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading);
+  font-variation-settings: "SOFT" 100;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--forest-deep);
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2.25rem, 7vw, 3rem);
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+a {
+  color: var(--forest);
+}
+
+:focus-visible {
+  outline: 3px solid var(--sunset);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- Header: a horizon line with a small island on it ---------- */
+
+.site-header {
+  max-width: calc(var(--measure) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 1rem var(--gutter) 0;
+}
+
+.home {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 0.6rem;
+  text-decoration: none;
+  color: var(--forest-deep);
+  font-family: var(--font-heading);
+  font-variation-settings: "SOFT" 100;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.site-header::after {
+  content: "";
+  display: block;
+  height: 2px;
+  margin-top: -1px;
+  background: var(--moss-deep);
+  border-radius: 2px;
+}
+
+.island-mark {
+  display: block;
+  margin-bottom: -1px;
+}
+
+.mark-hill {
+  fill: var(--forest);
+}
+
+.mark-tree {
+  fill: var(--forest-deep);
+}
+
+/* ---------- Page ---------- */
+
+.page {
+  max-width: calc(var(--measure) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 0 var(--gutter) 4rem;
+}
+
+/* ---------- Trail of stepping stones ---------- */
+
+.trail ol {
+  list-style: none;
+  margin: 1.25rem 0 2rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.45rem;
+}
+
+.stone {
+  display: block;
+  width: 0.8rem;
+  height: 0.7rem;
+  border-radius: 50% 50% 45% 45%;
+  background: var(--paper-deep);
+  border: 2px solid var(--moss-deep);
+}
+
+.stone:hover {
+  border-color: var(--forest);
+}
+
+.stone.is-done {
+  background: var(--moss-deep);
+}
+
+.stone.is-current {
+  background: var(--sunset);
+  border-color: var(--sunset);
+  transform: scale(1.3);
+}
+
+/* ---------- Part header ---------- */
+
+.part-header {
+  margin: 1rem 0 1.5rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.35rem;
+  color: var(--bark);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.lede {
+  margin: 0.6rem 0 0;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+}
+
+/* ---------- Picture slot ---------- */
+
+.picture {
+  margin: 0 0 2.5rem;
+  aspect-ratio: 3 / 2;
+  border-radius: calc(var(--radius) * 1.25);
+  overflow: hidden;
+  background: var(--sky);
+  border: 1px solid var(--moss-deep);
+}
+
+.picture img,
+.picture svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.scene-sky { fill: var(--sky); }
+.scene-sun { fill: var(--sunset); opacity: 0.3; }
+.scene-sea { fill: var(--sea); }
+.scene-sand { fill: var(--sand); }
+.scene-hill-back { fill: var(--moss-deep); }
+.scene-hill-front { fill: var(--forest); }
+.scene-trees { fill: var(--forest-deep); }
+
+.scene-waves path,
+.scene-geese path {
+  fill: none;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.scene-waves path { stroke: var(--paper); opacity: 0.7; }
+.scene-geese path { stroke: var(--ink-soft); opacity: 0.55; }
+
+/* ---------- Sections ---------- */
+
+.section {
+  margin: 0 0 1rem;
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  margin: 2.5rem 0;
+}
+
+.divider path {
+  fill: none;
+  stroke: var(--moss-deep);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ---------- Words to know ---------- */
+
+.chips {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.35em 1em;
+  border-radius: 999px;
+  background: var(--moss);
+  border: 1px solid var(--moss-deep);
+  color: var(--forest-deep);
+  font-weight: 700;
+}
+
+.chip--meaning summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.chip--meaning summary::-webkit-details-marker {
+  display: none;
+}
+
+.chip--meaning[open] {
+  border-radius: var(--radius);
+}
+
+.meaning {
+  display: block;
+  padding: 0.25rem 0 0.2rem;
+  font-weight: 400;
+  color: var(--ink);
+}
+
+/* ---------- Let's think ---------- */
+
+.question-cards {
+  list-style: none;
+  counter-reset: q;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.question-cards li {
+  counter-increment: q;
+  position: relative;
+  padding: 1.1rem 1.25rem 1.1rem 4rem;
+  background: var(--sky);
+  border-radius: var(--radius);
+  font-size: 1.05rem;
+}
+
+.question-cards li::before {
+  content: counter(q);
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  width: 2rem;
+  height: 2rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--paper);
+  color: var(--forest-deep);
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1;
+}
+
+/* ---------- Chapter by chapter ---------- */
+
+.chapter {
+  border-top: 1px solid var(--moss-deep);
+}
+
+.chapter:last-of-type {
+  border-bottom: 1px solid var(--moss-deep);
+}
+
+.chapter summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.9rem 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.chapter summary::-webkit-details-marker {
+  display: none;
+}
+
+.chapter summary::after {
+  content: "+";
+  margin-left: auto;
+  color: var(--forest);
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+.chapter[open] summary::after {
+  content: "–";
+}
+
+.chapter-num {
+  flex: none;
+  color: var(--bark);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.chapter-title {
+  font-family: var(--font-heading);
+  font-variation-settings: "SOFT" 100;
+  font-weight: 600;
+  color: var(--forest-deep);
+}
+
+.chapter-body {
+  padding: 0 0 1.25rem;
+}
+
+.chapter-body h3:first-child {
+  margin-top: 0;
+}
+
+.chapter-body .chip {
+  font-size: 0.9rem;
+}
+
+.question-list {
+  margin: 0;
+  padding-left: 1.4rem;
+}
+
+.question-list li + li {
+  margin-top: 0.4rem;
+}
+
+/* ---------- Previous / next ---------- */
+
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  border: 2px solid var(--forest);
+  color: var(--forest-deep);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--moss);
+}
+
+.button--primary {
+  margin-left: auto;
+  background: var(--forest);
+  color: var(--paper);
+}
+
+.button--primary:hover {
+  background: var(--forest-deep);
+}
+
+/* ---------- Index: list of parts ---------- */
+
+.part-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.part-list a {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  column-gap: 1rem;
+  padding: 0.9rem 1.1rem;
+  border-radius: var(--radius);
+  background: var(--paper-deep);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.part-list a:hover {
+  background: var(--moss);
+}
+
+.part-list-num {
+  grid-row: span 2;
+  font-family: var(--font-heading);
+  font-variation-settings: "SOFT" 100;
+  font-weight: 600;
+  color: var(--forest-deep);
+}
+
+.part-list-range {
+  color: var(--bark);
+  font-size: 0.85rem;
+}
+
+/* ---------- Print: a plain worksheet ---------- */
+
+@media print {
+  @page {
+    margin: 1.5cm;
+  }
+
+  html {
+    font-size: 12pt;
+  }
+
+  body {
+    background: none;
+    color: #000;
+  }
+
+  .site-header,
+  .trail,
+  .pager,
+  .divider,
+  .picture--placeholder,
+  .chapter summary::after {
+    display: none;
+  }
+
+  .question-cards li {
+    background: none;
+    border: 1px solid #999;
+    break-inside: avoid;
+  }
+
+  /* Lines to write the answer on */
+  .question-cards li::after {
+    content: "";
+    display: block;
+    height: 4.8em;
+    margin-top: 0.5em;
+    background: repeating-linear-gradient(transparent 0 1.55em, #bbb 1.55em 1.6em);
+  }
+
+  .question-cards li::before {
+    border: 1px solid #999;
+  }
+
+  .chip {
+    background: none;
+    border-color: #999;
+  }
+
+  .chapter {
+    break-inside: avoid;
+  }
+}

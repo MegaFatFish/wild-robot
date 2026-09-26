@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+<header class="part-header">
+  <p class="eyebrow">Our reading trail</p>
+  <h1>The Wild Robot</h1>
+  <p class="lede">A page for each part of the book, with words to know and questions to think about.</p>
+</header>
+
+{% include "trail.njk" %}
+
+<ul class="part-list">
+  {%- for p in book.parts %}
+  <li>
+    <a href="/part/{{ p.part }}/">
+      <span class="part-list-num">Part {{ p.part }}</span>
+      <span class="part-list-names">{{ p.chapterNames | join(" · ") }}</span>
+      <span class="part-list-range">{{ p.chapterRange }}</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

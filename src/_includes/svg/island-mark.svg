@@ -1,0 +1,5 @@
+<svg class="island-mark" viewBox="0 0 48 24" width="48" height="24" aria-hidden="true">
+  <path class="mark-hill" d="M2 22 C 10 10, 20 6, 28 12 C 34 8, 42 12, 46 22 Z" />
+  <path class="mark-tree" d="M17 12 l4 -8 l4 8 Z" />
+  <path class="mark-tree" d="M31 13 l3 -6 l3 6 Z" />
+</svg>

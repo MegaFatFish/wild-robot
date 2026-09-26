@@ -1,0 +1,15 @@
+{# Expects `words`: a list of { word, meaning? }. Words with a meaning open on tap. #}
+<ul class="chips">
+  {%- for w in words %}
+  <li>
+    {%- if w.meaning %}
+    <details class="chip chip--meaning">
+      <summary>{{ w.word }}</summary>
+      <span class="meaning">{{ w.meaning }}</span>
+    </details>
+    {%- else %}
+    <span class="chip">{{ w.word }}</span>
+    {%- endif %}
+  </li>
+  {%- endfor %}
+</ul>

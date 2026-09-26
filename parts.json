@@ -1,0 +1,1521 @@
+{
+  "parts": [
+    {
+      "part": 1,
+      "glossary": [
+        "brand",
+        "chaos",
+        "sparkled"
+      ],
+      "questions": [
+        "How did the robot end up on the island?",
+        "What part did the otters play in waking Roz up?",
+        "What does Roz say about herself when she is first activated?"
+      ],
+      "chapters": [
+        {
+          "chapter": 1,
+          "title": "THE OCEAN",
+          "glossary": [
+            "transporting",
+            "smudge",
+            "skittered"
+          ],
+          "questions": [
+            "What caused the cargo ship to sink?",
+            "How many crates were left floating when the hurricane was over?",
+            "Why did the robot in the last crate survive when the others broke?"
+          ]
+        },
+        {
+          "chapter": 2,
+          "title": "THE OTTERS",
+          "glossary": [
+            "romping",
+            "clinking",
+            "overlooking"
+          ],
+          "questions": [
+            "What made the otters notice the robot parts on the shore?",
+            "What did the otters find inside the crate that was still in one piece?",
+            "How was the robot switched on by accident?"
+          ]
+        },
+        {
+          "chapter": 3,
+          "title": "THE ROBOT",
+          "glossary": [
+            "activating",
+            "communicate",
+            "online"
+          ],
+          "questions": [
+            "What is the robot's full name, and what may you call her?",
+            "What does Roz say she can do once she is fully activated?",
+            "What does Roz say she will do when she is not needed?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "glossary": [
+        "technique",
+        "motors",
+        "awkwardly"
+      ],
+      "questions": [
+        "How did Roz get out of her crate and take her first steps?",
+        "What did Roz discover at the robot gravesite?",
+        "How did Roz learn to climb the sea cliffs?"
+      ],
+      "chapters": [
+        {
+          "chapter": 4,
+          "title": "THE ROBOT HATCHES",
+          "glossary": [
+            "curiosity",
+            "absorbing",
+            "restrained"
+          ],
+          "questions": [
+            "What was the first thing Roz felt curious about?",
+            "Where does Roz get her energy from?",
+            "How did Roz get out of the crate?"
+          ]
+        },
+        {
+          "chapter": 5,
+          "title": "THE ROBOT GRAVESITE",
+          "glossary": [
+            "lingered",
+            "functioning",
+            "urging"
+          ],
+          "questions": [
+            "Why did the otters run away from Roz?",
+            "What word was written on all the robot torsos, including Roz's?",
+            "What did Roz's Survival Instincts tell her to do after the big wave?"
+          ]
+        },
+        {
+          "chapter": 6,
+          "title": "THE CLIMB",
+          "glossary": [
+            "scuttled",
+            "standoff",
+            "footholds"
+          ],
+          "questions": [
+            "Which animal taught Roz how to climb?",
+            "What was special about the way the crab moved over the rocks?",
+            "What did Roz find at the top of the cliffs?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "glossary": [
+        "teeming",
+        "speck",
+        "backtrack"
+      ],
+      "questions": [
+        "Why did Roz keep cleaning herself?",
+        "What drove Roz out of the forest and up the mountain?",
+        "What did Roz see and learn from the top of the mountain?"
+      ],
+      "chapters": [
+        {
+          "chapter": 7,
+          "title": "THE WILDERNESS",
+          "glossary": [
+            "jagged",
+            "timber",
+            "irregular"
+          ],
+          "questions": [
+            "Why was the forest hard for Roz to walk through?",
+            "What did Roz do right after she fell over?",
+            "Where did Roz finally stop, and why did she choose that place?"
+          ]
+        },
+        {
+          "chapter": 8,
+          "title": "THE PINECONES",
+          "glossary": [
+            "gust",
+            "towered",
+            "trunks"
+          ],
+          "questions": [
+            "What kept falling on Roz's head in the forest?",
+            "How did Roz feel about the pinecones?",
+            "Where did Roz decide to go to get away from the pinecones?"
+          ]
+        },
+        {
+          "chapter": 9,
+          "title": "THE MOUNTAIN",
+          "glossary": [
+            "outcrops",
+            "foothills",
+            "artificial"
+          ],
+          "questions": [
+            "What did Roz finally realize when she stood on top of the mountain?",
+            "Name three animals Roz saw from the mountain peak.",
+            "Why was the mountaintop a good place for Roz to be?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "glossary": [
+        "mountaintop",
+        "mudflow",
+        "anchored"
+      ],
+      "questions": [
+        "What did Roz not know about how she came to the island?",
+        "How did Roz spend her first nights on the mountain?",
+        "How did Roz survive the storm?"
+      ],
+      "chapters": [
+        {
+          "chapter": 10,
+          "title": "THE REMINDER",
+          "glossary": [
+            "warehouse",
+            "ashore",
+            "stored"
+          ],
+          "questions": [
+            "Where was Roz built and kept before she crossed the ocean?",
+            "Who activated Roz by accident?",
+            "Where did Roz believe her home was?"
+          ]
+        },
+        {
+          "chapter": 11,
+          "title": "THE ROBOT SLEEPS",
+          "glossary": [
+            "conserve",
+            "illuminating",
+            "nonessential"
+          ],
+          "questions": [
+            "What happened when Roz first turned on her headlights?",
+            "Why did Roz decide to go to sleep?",
+            "How did Roz keep herself steady while she slept on the peak?"
+          ]
+        },
+        {
+          "chapter": 12,
+          "title": "THE STORM",
+          "glossary": [
+            "mudslide",
+            "frantically",
+            "pelting"
+          ],
+          "questions": [
+            "What signs showed Roz that a storm was coming?",
+            "What happened to Roz as she ran down the mountain?",
+            "What stopped Roz from falling over the cliff?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "glossary": [
+        "lowland",
+        "trove",
+        "lumbering"
+      ],
+      "questions": [
+        "What did the storm show about the difference between Roz and the animals?",
+        "How did Roz end up in trouble with the bears?",
+        "How did Roz defend herself without being violent?"
+      ],
+      "chapters": [
+        {
+          "chapter": 13,
+          "title": "THE AFTERMATH",
+          "glossary": [
+            "debris",
+            "submerged",
+            "refuge"
+          ],
+          "questions": [
+            "How had the island animals survived the storm?",
+            "What did Roz look like after the storm?",
+            "What place did Roz find that she thought looked safe?"
+          ]
+        },
+        {
+          "chapter": 14,
+          "title": "THE BEARS",
+          "glossary": [
+            "instinct",
+            "outrun",
+            "attackers"
+          ],
+          "questions": [
+            "Why did the bears chase Roz?",
+            "Why didn't Roz fight back against the bears?",
+            "What happened when Roz tripped over a tree root?"
+          ]
+        },
+        {
+          "chapter": 15,
+          "title": "THE ESCAPE",
+          "glossary": [
+            "lobbed",
+            "frenzy",
+            "accuracy"
+          ],
+          "questions": [
+            "How did Roz get away from the bears?",
+            "What idea did the falling pinecones give Roz?",
+            "Why did the young bears finally leave?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "glossary": [
+        "ferns",
+        "robin",
+        "blend"
+      ],
+      "questions": [
+        "What went wrong for Roz while she was sitting in the pine tree?",
+        "What gave Roz the idea to camouflage herself?",
+        "How did camouflage change the way Roz lived on the island?"
+      ],
+      "chapters": [
+        {
+          "chapter": 16,
+          "title": "THE PINE TREE",
+          "glossary": [
+            "delicate",
+            "screeching",
+            "messier"
+          ],
+          "questions": [
+            "What sticky stuff from the pine tree got all over Roz?",
+            "Why was the robin so upset with Roz?",
+            "What happened when Roz scooted farther out on the branch?"
+          ]
+        },
+        {
+          "chapter": 17,
+          "title": "THE CAMOUFLAGED INSECT",
+          "glossary": [
+            "antennae",
+            "spindly",
+            "rigorous"
+          ],
+          "questions": [
+            "What was strange about the twig Roz noticed?",
+            "How does the stick insect hide from others?",
+            "What important lesson did Roz learn from the stick insect?"
+          ]
+        },
+        {
+          "chapter": 18,
+          "title": "THE CAMOUFLAGED ROBOT",
+          "glossary": [
+            "disguise",
+            "bramble",
+            "unseen"
+          ],
+          "questions": [
+            "What did Roz use to camouflage herself?",
+            "Which animals were the only ones to notice the new tuft of plants?",
+            "What other things did Roz disguise herself as over the following weeks?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "glossary": [
+        "salamanders",
+        "mushrooms",
+        "gatherings"
+      ],
+      "questions": [
+        "What kinds of things did Roz observe while she was camouflaged?",
+        "How did Roz learn to understand the animals' language?",
+        "Why did Roz's introduction to the animals go badly?"
+      ],
+      "chapters": [
+        {
+          "chapter": 19,
+          "title": "THE OBSERVATIONS",
+          "glossary": [
+            "intricate",
+            "carcasses",
+            "tadpoles"
+          ],
+          "questions": [
+            "What were the spiders doing?",
+            "What do tadpoles and caterpillars turn into?",
+            "How was Roz able to watch all of this without being noticed?"
+          ]
+        },
+        {
+          "chapter": 20,
+          "title": "THE LANGUAGE OF THE ANIMALS",
+          "glossary": [
+            "species",
+            "accent",
+            "nectar"
+          ],
+          "questions": [
+            "How did camouflage help Roz learn the animals' language?",
+            "What did Roz discover about the way different animals speak?",
+            "How do deer mostly communicate with each other?"
+          ]
+        },
+        {
+          "chapter": 21,
+          "title": "THE INTRODUCTION",
+          "glossary": [
+            "residents",
+            "disbelief",
+            "unnatural"
+          ],
+          "questions": [
+            "What is the Dawn Truce?",
+            "What did Roz ask the animals to teach her?",
+            "How did the animals react when Roz introduced herself?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "glossary": [
+        "newborns",
+        "rubble",
+        "agony"
+      ],
+      "questions": [
+        "How did the animals treat Roz after she introduced herself?",
+        "How did Roz help Fink, and why did he let her?",
+        "What accident happened, and what did Roz realize afterward?"
+      ],
+      "chapters": [
+        {
+          "chapter": 22,
+          "title": "THE NEW WORD",
+          "glossary": [
+            "prowl",
+            "camouflages",
+            "spreading"
+          ],
+          "questions": [
+            "What new word was spreading across the island?",
+            "How did the animals feel about Roz?",
+            "Why didn't the unfriendly words make Roz sad?"
+          ]
+        },
+        {
+          "chapter": 23,
+          "title": "THE WOUNDED FOX",
+          "glossary": [
+            "quills",
+            "winced",
+            "yelped"
+          ],
+          "questions": [
+            "How did Fink the fox get quills in his face?",
+            "How did Roz help Fink?",
+            "What did Fink say to Roz after she helped him?"
+          ]
+        },
+        {
+          "chapter": 24,
+          "title": "THE ACCIDENT",
+          "glossary": [
+            "plummeting",
+            "pulverized",
+            "carnage"
+          ],
+          "questions": [
+            "What caused Roz to fall from the cliff?",
+            "What did Roz find in the rubble on the forest floor?",
+            "What did Roz realize she had done?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 9,
+      "glossary": [
+        "moonlight",
+        "performers",
+        "delicately"
+      ],
+      "questions": [
+        "Why did Roz decide to save the goose egg?",
+        "What did Roz learn from Pinktail the opossum?",
+        "What happened when the gosling hatched?"
+      ],
+      "chapters": [
+        {
+          "chapter": 25,
+          "title": "THE EGG",
+          "glossary": [
+            "fragile",
+            "unhatched",
+            "cradled"
+          ],
+          "questions": [
+            "How did Roz find the goose egg?",
+            "Why wouldn't Roz let Fink eat the egg?",
+            "What did Roz build for the egg, and where did she take it?"
+          ]
+        },
+        {
+          "chapter": 26,
+          "title": "THE PERFORMER",
+          "glossary": [
+            "marsupial",
+            "stench",
+            "acquaintance"
+          ],
+          "questions": [
+            "How did the opossum escape from the badger?",
+            "What survival strategy did Roz learn from the opossum?",
+            "What is the opossum's name?"
+          ]
+        },
+        {
+          "chapter": 27,
+          "title": "THE GOSLING",
+          "glossary": [
+            "eggshell",
+            "crunch",
+            "helpful"
+          ],
+          "questions": [
+            "What was the first thing the gosling saw when he opened his eyes?",
+            "What did the gosling call Roz?",
+            "Why did Roz go looking for a grown goose?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 10,
+      "glossary": [
+        "sturdy",
+        "stumps",
+        "gruff"
+      ],
+      "questions": [
+        "How did Loudwing help Roz and Brightbill?",
+        "How did Roz win over the beavers?",
+        "What special features does the Nest have?"
+      ],
+      "chapters": [
+        {
+          "chapter": 28,
+          "title": "THE OLD GOOSE",
+          "glossary": [
+            "orphan",
+            "motherhood",
+            "miracle"
+          ],
+          "questions": [
+            "Why wouldn't Loudwing take care of the gosling?",
+            "According to Loudwing, what does a mother need to do?",
+            "How did Brightbill get his name?"
+          ]
+        },
+        {
+          "chapter": 29,
+          "title": "THE BEAVERS",
+          "glossary": [
+            "policy",
+            "stubborn",
+            "trickle"
+          ],
+          "questions": [
+            "What gift did Roz bring the beavers?",
+            "What did Mrs. Beaver say when Mr. Beaver refused the gift?",
+            "What did Mr. Beaver ask for in return for his help?"
+          ]
+        },
+        {
+          "chapter": 30,
+          "title": "THE NEST",
+          "glossary": [
+            "campfire",
+            "trench",
+            "handiwork"
+          ],
+          "questions": [
+            "How did Roz teach herself to make fire?",
+            "Why did Mr. Beaver think Roz should grow a garden?",
+            "What did Roz name the lodge, and why?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "glossary": [
+        "woodland",
+        "festive",
+        "neighbor"
+      ],
+      "questions": [
+        "How did Brightbill's first night in the Nest go?",
+        "What did Tawny want in return for helping with the garden?",
+        "How did the garden help Roz make friends?"
+      ],
+      "chapters": [
+        {
+          "chapter": 31,
+          "title": "THE FIRST NIGHT",
+          "glossary": [
+            "cushion",
+            "settling"
+          ],
+          "questions": [
+            "What did Brightbill like about his new home?",
+            "Where did Brightbill not want to sleep?",
+            "Where did Brightbill end up sleeping on the first night?"
+          ]
+        },
+        {
+          "chapter": 32,
+          "title": "THE DEER",
+          "glossary": [
+            "agreement"
+          ],
+          "questions": [
+            "Why weren't the deer afraid of Roz?",
+            "Who is Tawny?",
+            "What deal did Tawny make with Roz?"
+          ]
+        },
+        {
+          "chapter": 33,
+          "title": "THE GARDEN",
+          "glossary": [
+            "fertilized",
+            "transplanted",
+            "burrowing"
+          ],
+          "questions": [
+            "Why did Tawny ask the neighbors to leave droppings around the Nest?",
+            "How did the garden project help Roz make friends?",
+            "What did Roz bring back from the meadow to plant around the Nest?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 12,
+      "glossary": [
+        "willow",
+        "tranquil",
+        "rescue"
+      ],
+      "questions": [
+        "How did Roz become a good mother?",
+        "What happened on Swimming Day?",
+        "How did Brightbill change as he grew up?"
+      ],
+      "chapters": [
+        {
+          "chapter": 34,
+          "title": "THE MOTHER",
+          "glossary": [
+            "parenting",
+            "attentive",
+            "tottering"
+          ],
+          "questions": [
+            "Which animals became regular visitors to the garden?",
+            "How had the animals' behavior toward Roz changed?",
+            "Give one piece of advice the other mothers gave Roz."
+          ]
+        },
+        {
+          "chapter": 35,
+          "title": "THE FIRST SWIM",
+          "glossary": [
+            "paddle",
+            "gratitude",
+            "conflicted"
+          ],
+          "questions": [
+            "Why couldn't Roz go out on the pond with Brightbill?",
+            "Who attacked the goslings on Swimming Day?",
+            "Who rescued Brightbill?"
+          ]
+        },
+        {
+          "chapter": 36,
+          "title": "THE GOSLING GROWS",
+          "glossary": [
+            "edible",
+            "digest",
+            "nightmares"
+          ],
+          "questions": [
+            "Why did Roz hold Brightbill upside down?",
+            "Why is it okay for geese to eat a few pebbles?",
+            "What did Roz do for Brightbill at night?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 13,
+      "glossary": [
+        "speechless",
+        "twelve",
+        "silky"
+      ],
+      "questions": [
+        "How did Brightbill and Chitchat become friends?",
+        "What makes Chitchat a good friend?",
+        "How did Brightbill learn to fly?"
+      ],
+      "chapters": [
+        {
+          "chapter": 37,
+          "title": "THE SQUIRREL",
+          "glossary": [
+            "patience",
+            "rambled",
+            "spying"
+          ],
+          "questions": [
+            "What is the squirrel's name?",
+            "What is special about the way the squirrel talks?",
+            "What did Brightbill say to the squirrel after she finished talking?"
+          ]
+        },
+        {
+          "chapter": 38,
+          "title": "THE NEW FRIENDSHIP",
+          "glossary": [
+            "hollow",
+            "listener",
+            "amusement"
+          ],
+          "questions": [
+            "What is a squirrel's nest called?",
+            "What does Chitchat like to eat?",
+            "How did Roz feel about Brightbill's new friendship?"
+          ]
+        },
+        {
+          "chapter": 39,
+          "title": "THE FIRST FLIGHT",
+          "glossary": [
+            "adjustments",
+            "veering",
+            "seagull"
+          ],
+          "questions": [
+            "Where did Roz take Brightbill to show him the ocean?",
+            "What did Roz tell Brightbill she had learned from watching the seagull?",
+            "What did Brightbill wish for at the end of the day?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 14,
+      "glossary": [
+        "universe",
+        "batteries",
+        "rainbows"
+      ],
+      "questions": [
+        "What mysterious thing did Roz and Brightbill see from the ridge?",
+        "How did Roz, Brightbill, and Chitchat spend the summer?",
+        "What did Roz tell Brightbill about being a robot and being his mother?"
+      ],
+      "chapters": [
+        {
+          "chapter": 40,
+          "title": "THE SHIP",
+          "glossary": [
+            "vessel",
+            "fanatic",
+            "transport"
+          ],
+          "questions": [
+            "Where were Roz and Brightbill when they spotted the ship?",
+            "How did Roz explain what a ship is?",
+            "Why couldn't Roz and Brightbill answer their questions about the ship?"
+          ]
+        },
+        {
+          "chapter": 41,
+          "title": "THE SUMMER",
+          "glossary": [
+            "celestial",
+            "astronomer",
+            "fireflies"
+          ],
+          "questions": [
+            "What did the friends do when they met a bear by the river?",
+            "What game did Brightbill and Chitchat play on a drizzly afternoon?",
+            "What does the word \"celestial\" mean?"
+          ]
+        },
+        {
+          "chapter": 42,
+          "title": "THE STRANGE FAMILY",
+          "glossary": [
+            "offspring",
+            "sweltering",
+            "weathered"
+          ],
+          "questions": [
+            "Why did Brightbill come home upset?",
+            "How does Roz say she has changed since she first woke up?",
+            "What did Roz and Brightbill decide about him calling her \"Mama\"?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 15,
+      "glossary": [
+        "moody",
+        "columns",
+        "inhabited"
+      ],
+      "questions": [
+        "Why did Brightbill run away?",
+        "Where did Roz find Brightbill?",
+        "What did Brightbill learn about robots at the gravesite?"
+      ],
+      "chapters": [
+        {
+          "chapter": 43,
+          "title": "THE GOSLING TAKES OFF",
+          "glossary": [
+            "inoperative",
+            "puffed",
+            "shadow"
+          ],
+          "questions": [
+            "What does \"inoperative\" mean for a robot?",
+            "Why did Roz say Brightbill could not see the dead robots yet?",
+            "What did Brightbill do when he got angry?"
+          ]
+        },
+        {
+          "chapter": 44,
+          "title": "THE RUNAWAY",
+          "glossary": [
+            "adolescent",
+            "predator",
+            "northward"
+          ],
+          "questions": [
+            "What did Loudwing tell Roz about goslings at Brightbill's age?",
+            "Where did Roz go to look for Brightbill, and why?",
+            "Why hadn't Brightbill gone down to the robots by himself?"
+          ]
+        },
+        {
+          "chapter": 45,
+          "title": "THE DEAD ROBOTS",
+          "glossary": [
+            "machinery",
+            "orphaned",
+            "furrowed"
+          ],
+          "questions": [
+            "What did Brightbill find on the back of the dead robot's head?",
+            "What happened when Roz tried to press her own button?",
+            "Who is Shelly, and why did her story upset Brightbill?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 16,
+      "glossary": [
+        "parade",
+        "wildlife",
+        "strolled"
+      ],
+      "questions": [
+        "How did the fight with the bears end?",
+        "How did the bears make up for attacking Roz?",
+        "How did Roz's friends make her a new foot?"
+      ],
+      "chapters": [
+        {
+          "chapter": 46,
+          "title": "THE FIGHT",
+          "glossary": [
+            "sarcasm",
+            "intimidated",
+            "stupor"
+          ],
+          "questions": [
+            "What are the names of the two young bears?",
+            "How did Roz lose her foot?",
+            "How did Roz save Thorn?"
+          ]
+        },
+        {
+          "chapter": 47,
+          "title": "THE PARADE",
+          "glossary": [
+            "procession",
+            "forgiveness",
+            "undergrowth"
+          ],
+          "questions": [
+            "Why was it hard for Roz to walk through the forest?",
+            "How did Roz get back home?",
+            "Why did the parade keep growing?"
+          ]
+        },
+        {
+          "chapter": 48,
+          "title": "THE NEW FOOT",
+          "glossary": [
+            "durable",
+            "modifications",
+            "indestructible"
+          ],
+          "questions": [
+            "What three problems did Mr. Beaver need to solve to build a new foot?",
+            "Which animals helped make the foot, and what did each of them do?",
+            "Why did they have to make the foot a second time?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 17,
+      "glossary": [
+        "autumn",
+        "frost",
+        "coaching"
+      ],
+      "questions": [
+        "How did Brightbill become such a great flier?",
+        "What did Roz and Brightbill find out by pressing the button?",
+        "How did the island change in autumn?"
+      ],
+      "chapters": [
+        {
+          "chapter": 49,
+          "title": "THE FLIER",
+          "glossary": [
+            "updraft",
+            "gaggle",
+            "exceptional"
+          ],
+          "questions": [
+            "How did Brightbill become such a good flier?",
+            "What did Brightbill teach the other goslings about warm air?",
+            "What happened when the goslings tried to fly in formation?"
+          ]
+        },
+        {
+          "chapter": 50,
+          "title": "THE BUTTON",
+          "glossary": [
+            "switch",
+            "wondering",
+            "heart"
+          ],
+          "questions": [
+            "What happened when Brightbill pressed Roz's button?",
+            "Why was Brightbill afraid to press the button again?",
+            "What did Roz say when she woke up again?"
+          ]
+        },
+        {
+          "chapter": 51,
+          "title": "THE AUTUMN",
+          "glossary": [
+            "withered",
+            "destined",
+            "edibles"
+          ],
+          "questions": [
+            "What were some signs that autumn had come to the island?",
+            "What were the frogs getting ready for?",
+            "What do migratory birds do in autumn?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 18,
+      "glossary": [
+        "snowflakes",
+        "temperature",
+        "firewood"
+      ],
+      "questions": [
+        "Why did Brightbill have to leave the island?",
+        "How did Roz and Brightbill say good-bye?",
+        "What did Roz find when she woke up in the middle of winter?"
+      ],
+      "chapters": [
+        {
+          "chapter": 52,
+          "title": "THE FLOCK",
+          "glossary": [
+            "migrate",
+            "upcoming",
+            "depending"
+          ],
+          "questions": [
+            "Why couldn't Roz go on the migration with Brightbill?",
+            "How long did Loudwing say the migration would take?",
+            "What did Roz explain to Brightbill about instincts?"
+          ]
+        },
+        {
+          "chapter": 53,
+          "title": "THE MIGRATION",
+          "glossary": [
+            "takeoff",
+            "disorganized",
+            "preparations"
+          ],
+          "questions": [
+            "What did Chitchat promise Brightbill before he left?",
+            "Who led the migration?",
+            "Where in the formation did Brightbill fly, and why?"
+          ]
+        },
+        {
+          "chapter": 54,
+          "title": "THE WINTER",
+          "glossary": [
+            "hibernated",
+            "latticework",
+            "devastating"
+          ],
+          "questions": [
+            "How did Roz spend the first part of the winter?",
+            "What woke Roz up from her hibernation?",
+            "What did Roz find when she went out into the snow?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 19,
+      "glossary": [
+        "predators",
+        "construction",
+        "daughter"
+      ],
+      "questions": [
+        "How did the Nest become a shelter for the island animals?",
+        "How did Roz help the island survive the winter?",
+        "What did the animals learn about fire?"
+      ],
+      "chapters": [
+        {
+          "chapter": 55,
+          "title": "THE LODGERS",
+          "glossary": [
+            "kindling",
+            "carnivorous",
+            "coziness"
+          ],
+          "questions": [
+            "Which animals came to the Nest to get out of the cold?",
+            "What rule did Roz ask everyone in her lodge to follow?",
+            "How did Roz teach the animals about fire?"
+          ]
+        },
+        {
+          "chapter": 56,
+          "title": "THE NEW LODGES",
+          "glossary": [
+            "frigid",
+            "snowdrifts",
+            "expertise"
+          ],
+          "questions": [
+            "Why did the second lodge need to be bigger than the first?",
+            "How did Roz test whether it was safe to cross the pond?",
+            "How many lodges did Roz build that winter?"
+          ]
+        },
+        {
+          "chapter": 57,
+          "title": "THE FIRE",
+          "glossary": [
+            "foundation",
+            "smothering",
+            "emergencies"
+          ],
+          "questions": [
+            "What caused the fire in the second lodge?",
+            "How did Roz save the young hare?",
+            "How did Roz put out the fire?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 20,
+      "glossary": [
+        "grandfather",
+        "flatlands",
+        "container"
+      ],
+      "questions": [
+        "What did the lodgers talk about by the fire?",
+        "What was the island like when spring arrived?",
+        "How did Roz help Rockmouth?"
+      ],
+      "chapters": [
+        {
+          "chapter": 58,
+          "title": "THE CONVERSATIONS",
+          "glossary": [
+            "famine",
+            "harmonious",
+            "scavenge"
+          ],
+          "questions": [
+            "What did Digdown wish she had done more of in her life?",
+            "What did Crag say about how the island was formed?",
+            "What did the animals think Roz's purpose was?"
+          ]
+        },
+        {
+          "chapter": 59,
+          "title": "THE SPRING",
+          "glossary": [
+            "nourished",
+            "dazzling",
+            "bitterest"
+          ],
+          "questions": [
+            "Why was it a quiet spring?",
+            "How did the animals that died in winter help the island?",
+            "What did Roz do once spring arrived?"
+          ]
+        },
+        {
+          "chapter": 60,
+          "title": "THE FISH",
+          "glossary": [
+            "barrel",
+            "nuisance",
+            "waterways"
+          ],
+          "questions": [
+            "Why was Rockmouth so angry?",
+            "How did the beavers help Rockmouth in the end?",
+            "Where did Roz take Rockmouth?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 21,
+      "glossary": [
+        "humans",
+        "buildings",
+        "pigeon"
+      ],
+      "questions": [
+        "How did Roz's behavior change during the spring?",
+        "How did Brightbill return to the island?",
+        "What did Brightbill learn about robots and humans on his journey?"
+      ],
+      "chapters": [
+        {
+          "chapter": 61,
+          "title": "THE ROBOT STORIES",
+          "glossary": [
+            "barren",
+            "sunbathed",
+            "romped"
+          ],
+          "questions": [
+            "What kinds of stories were told about Roz?",
+            "Why did Roz start acting wilder?",
+            "Give two examples of Roz acting wild."
+          ]
+        },
+        {
+          "chapter": 62,
+          "title": "THE RETURN",
+          "glossary": [
+            "overtaken",
+            "honk"
+          ],
+          "questions": [
+            "What was special about the flock that arrived at the pond?",
+            "Who was leading the flock?",
+            "What did Brightbill now call his mother?"
+          ]
+        },
+        {
+          "chapter": 63,
+          "title": "THE JOURNEY",
+          "glossary": [
+            "greenhouse",
+            "mainland",
+            "snowstorm"
+          ],
+          "questions": [
+            "What happened to Longneck?",
+            "Who is Snooks, and how did she help the flock?",
+            "What did Brightbill see inside the factory?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 22,
+      "glossary": [
+        "party",
+        "celebrate",
+        "torch"
+      ],
+      "questions": [
+        "How did Brightbill see his mother differently after his journey?",
+        "What did Roz plan for the animals?",
+        "What happened at the celebration, and who saw it?"
+      ],
+      "chapters": [
+        {
+          "chapter": 64,
+          "title": "THE SPECIAL ROBOT",
+          "glossary": [
+            "blizzards",
+            "forged",
+            "gestures"
+          ],
+          "questions": [
+            "What did Roz tell Brightbill about her winter?",
+            "What did Roz learn about being alone while Brightbill was away?",
+            "Why did Brightbill realize his mother was special?"
+          ]
+        },
+        {
+          "chapter": 65,
+          "title": "THE INVITATION",
+          "glossary": [
+            "announcement",
+            "generation",
+            "moonless"
+          ],
+          "questions": [
+            "What did Roz announce at the Dawn Truce?",
+            "What problem did Mr. Beaver point out with Roz's plan?",
+            "What is the Party Truce?"
+          ]
+        },
+        {
+          "chapter": 66,
+          "title": "THE CELEBRATION",
+          "glossary": [
+            "embers",
+            "tornado",
+            "slithered"
+          ],
+          "questions": [
+            "What was the giant stack of wood for?",
+            "What was Roz's party dress made of?",
+            "Who saw the party from the ocean?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 23,
+      "glossary": [
+        "techlab",
+        "units",
+        "sleek"
+      ],
+      "questions": [
+        "What happened on the mountain the morning after the party?",
+        "Who are the RECOs?",
+        "Why did the RECOs decide that Roz was defective?"
+      ],
+      "chapters": [
+        {
+          "chapter": 67,
+          "title": "THE SUNRISE",
+          "glossary": [
+            "smoldering",
+            "dwindled",
+            "rays"
+          ],
+          "questions": [
+            "Where did Roz and Brightbill go the morning after the party?",
+            "What did Roz say she had been wrong about?",
+            "What did Brightbill see flying toward the island?"
+          ]
+        },
+        {
+          "chapter": 68,
+          "title": "THE RECOS",
+          "glossary": [
+            "identical",
+            "bulkier",
+            "triangle"
+          ],
+          "questions": [
+            "What did the airship look like?",
+            "How were the RECOs different from Roz?",
+            "What did the RECOs see as they flew around the island?"
+          ]
+        },
+        {
+          "chapter": 69,
+          "title": "THE DEFECTIVE ROBOT",
+          "glossary": [
+            "refurbish",
+            "defectiveness",
+            "deactivation"
+          ],
+          "questions": [
+            "Why had the RECOs come to the island?",
+            "What did the RECOs plan to do with Roz?",
+            "How did the geese help Roz escape?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 24,
+      "glossary": [
+        "assault",
+        "distracted",
+        "falls"
+      ],
+      "questions": [
+        "How did the hunt for Roz begin?",
+        "How did the forest animals defeat RECO 3?",
+        "How did the bears and the fish defeat RECO 2?"
+      ],
+      "chapters": [
+        {
+          "chapter": 70,
+          "title": "THE HUNT BEGINS",
+          "glossary": [
+            "intruders",
+            "pattern",
+            "surfaces"
+          ],
+          "questions": [
+            "Why couldn't Brightbill shut down the RECOs?",
+            "What did the RECOs get from the airship?",
+            "Where did each of the three RECOs go to search for Roz?"
+          ]
+        },
+        {
+          "chapter": 71,
+          "title": "THE FOREST ASSAULT",
+          "glossary": [
+            "bombardment",
+            "coordinated",
+            "antlers"
+          ],
+          "questions": [
+            "Who gave the orders during the attack on RECO 3?",
+            "How did the animals take RECO 3's rifle?",
+            "How was RECO 3 finally destroyed?"
+          ]
+        },
+        {
+          "chapter": 72,
+          "title": "THE MOUNTAIN RUMBLE",
+          "glossary": [
+            "torpedoes",
+            "scruff",
+            "rapids"
+          ],
+          "questions": [
+            "What happened when the bears attacked RECO 2 in the cave?",
+            "How did Thorn use logs to fight RECO 2?",
+            "Who saved Nettle from going over the waterfall?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 25,
+      "glossary": [
+        "hunter",
+        "signal",
+        "cable"
+      ],
+      "questions": [
+        "How did RECO 1 hunt Roz?",
+        "How was Roz captured?",
+        "How was RECO 1 defeated?"
+      ],
+      "chapters": [
+        {
+          "chapter": 73,
+          "title": "THE CHASE",
+          "glossary": [
+            "stampede",
+            "craters",
+            "relentless"
+          ],
+          "questions": [
+            "How was RECO 1 able to keep tracking Roz?",
+            "Name two traps the animals set for RECO 1.",
+            "What happened to Roz's wooden foot?"
+          ]
+        },
+        {
+          "chapter": 74,
+          "title": "THE CLICK",
+          "glossary": [
+            "explosion",
+            "grappled",
+            "combat"
+          ],
+          "questions": [
+            "Where was Roz hiding when RECO 1 found her?",
+            "What happened when the rifle was pulled apart?",
+            "What did RECO 1 do to Roz at the end of the chapter?"
+          ]
+        },
+        {
+          "chapter": 75,
+          "title": "THE LAST RIFLE",
+          "glossary": [
+            "talons",
+            "rebooted",
+            "mission"
+          ],
+          "questions": [
+            "How did Brightbill bring Roz back to life?",
+            "How did the animals get a rifle to use against RECO 1?",
+            "What did RECO 1 tell Roz before he died?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 26,
+      "glossary": [
+        "rifles",
+        "frail",
+        "decisions"
+      ],
+      "questions": [
+        "How badly was Roz damaged?",
+        "What did Roz and her friends decide at the meeting?",
+        "How did the animals say good-bye to Roz?"
+      ],
+      "chapters": [
+        {
+          "chapter": 76,
+          "title": "THE BROKEN ROBOT",
+          "glossary": [
+            "mangled",
+            "sadness",
+            "trembling"
+          ],
+          "questions": [
+            "What were the geese and otters trying to do for Roz?",
+            "Why didn't it work?",
+            "What did Roz ask for at the end of the chapter?"
+          ]
+        },
+        {
+          "chapter": 77,
+          "title": "THE MEETING",
+          "glossary": [
+            "eternally",
+            "tempers",
+            "wisest"
+          ],
+          "questions": [
+            "Which friends came to the meeting in the Nest?",
+            "Where was the Dawn Truce held that morning?",
+            "Why did Roz decide she had to leave the island?"
+          ]
+        },
+        {
+          "chapter": 78,
+          "title": "THE FAREWELL",
+          "glossary": [
+            "retrieving",
+            "scraps",
+            "hollering"
+          ],
+          "questions": [
+            "Why did every robot part and rifle have to go on the airship?",
+            "How did the animals say good-bye to Roz?",
+            "What did Roz promise Brightbill?"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 27,
+      "glossary": [
+        "speeding",
+        "memories",
+        "earliest"
+      ],
+      "questions": [
+        "Where did the airship take Roz?",
+        "What does Roz think about as she flies away?",
+        "What does Roz plan to do?"
+      ],
+      "chapters": [
+        {
+          "chapter": 79,
+          "title": "THE DEPARTURE",
+          "glossary": [],
+          "questions": [
+            "What started the airship's engines?",
+            "In which direction did the airship fly?",
+            "Where did the airship disappear?"
+          ]
+        },
+        {
+          "chapter": 80,
+          "title": "THE SKY",
+          "glossary": [
+            "glitch",
+            "miraculous",
+            "recorded"
+          ],
+          "questions": [
+            "What two explanations does the narrator give for how Roz became a wild robot?",
+            "What early memories could Roz still see, hear, and smell?",
+            "What plan did Roz begin computing as she flew away?"
+          ]
+        }
+      ]
+    }
+  ]
+}

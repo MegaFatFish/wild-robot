@@ -1,0 +1,29 @@
+<svg class="scene" viewBox="0 0 600 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <rect class="scene-sky" width="600" height="400" />
+  <circle class="scene-sun" cx="440" cy="160" r="48" />
+
+  <g class="scene-geese">
+    <path d="M140 92 l9 7 l9 -7" />
+    <path d="M166 76 l11 8 l11 -8" />
+    <path d="M196 94 l9 7 l9 -7" />
+  </g>
+
+  <rect class="scene-sea" y="262" width="600" height="138" />
+  <g class="scene-waves">
+    <path d="M40 310 q 20 -8 40 0 t 40 0" />
+    <path d="M420 300 q 20 -8 40 0 t 40 0" />
+    <path d="M250 350 q 20 -8 40 0 t 40 0" />
+    <path d="M500 360 q 16 -6 32 0" />
+  </g>
+
+  <path class="scene-sand" d="M90 272 C 200 288, 420 288, 520 272 C 440 262, 180 262, 90 272 Z" />
+  <path class="scene-hill-back" d="M70 272 C 130 170, 230 146, 300 190 C 370 150, 470 172, 540 272 Z" />
+  <path class="scene-hill-front" d="M120 274 C 180 214, 262 206, 330 236 C 390 214, 452 232, 498 274 Z" />
+
+  <g class="scene-trees">
+    <path d="M226 214 l12 -34 l12 34 Z" />
+    <path d="M250 212 l9 -26 l9 26 Z" />
+    <path d="M372 222 l10 -28 l10 28 Z" />
+    <path d="M300 166 l8 -22 l8 22 Z" />
+  </g>
+</svg>
