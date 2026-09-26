@@ -4,3 +4,10 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Keep every file (pages and pictures) out of search engines.
+# No robots.txt block on purpose: crawlers must be able to fetch pages to see noindex.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
