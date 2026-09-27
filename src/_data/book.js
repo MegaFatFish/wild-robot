@@ -35,7 +35,7 @@ function findImage(partNumber) {
 }
 
 export default function () {
-  const { parts } = JSON.parse(readFileSync(new URL("parts.json", root), "utf8"));
+  const { parts } = JSON.parse(readFileSync(new URL("parts-size-4.json", root), "utf8"));
 
   return {
     parts: parts.map((part) => {

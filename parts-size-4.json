@@ -3,15 +3,18 @@
     {
       "part": 1,
       "glossary": [
-        "brand",
-        "chaos",
-        "sparkled"
+        "hurricane",
+        "torsos",
+        "gash",
+        "hatchling"
       ],
       "questions": [
         "How did the robot end up on the island?",
-        "What part did the otters play in waking Roz up?",
-        "What does Roz say about herself when she is first activated?"
+        "Why did Roz survive when the other four robots were broken?",
+        "How did the otters accidentally switch Roz on?",
+        "How did Roz get out of her crate?"
       ],
+      "imageAlt": "Roz stands beside a cracked wooden crate on top of a rock in the sea while three otters peek over its edge. Broken robot parts lie on the rocks below.",
       "chapters": [
         {
           "chapter": 1,
@@ -54,22 +57,7 @@
             "What does Roz say she can do once she is fully activated?",
             "What does Roz say she will do when she is not needed?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 2,
-      "glossary": [
-        "technique",
-        "motors",
-        "awkwardly"
-      ],
-      "questions": [
-        "How did Roz get out of her crate and take her first steps?",
-        "What did Roz discover at the robot gravesite?",
-        "How did Roz learn to climb the sea cliffs?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 4,
           "title": "THE ROBOT HATCHES",
@@ -83,7 +71,25 @@
             "Where does Roz get her energy from?",
             "How did Roz get out of the crate?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "glossary": [
+        "gravesite",
+        "engulfed",
+        "technique",
+        "awkwardly"
+      ],
+      "questions": [
+        "Why did the otters run away from Roz?",
+        "What happened to Roz when the giant wave crashed over the gravesite?",
+        "Which animal taught Roz how to climb, and how?",
+        "Why did Roz leave the forest and head for the mountain?"
+      ],
+      "imageAlt": "Roz climbs a steep cliff with her long arms, while seagulls fly over a shore scattered with robot parts.",
+      "chapters": [
         {
           "chapter": 5,
           "title": "THE ROBOT GRAVESITE",
@@ -111,22 +117,7 @@
             "What was special about the way the crab moved over the rocks?",
             "What did Roz find at the top of the cliffs?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 3,
-      "glossary": [
-        "teeming",
-        "speck",
-        "backtrack"
-      ],
-      "questions": [
-        "Why did Roz keep cleaning herself?",
-        "What drove Roz out of the forest and up the mountain?",
-        "What did Roz see and learn from the top of the mountain?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 7,
           "title": "THE WILDERNESS",
@@ -154,7 +145,25 @@
             "How did Roz feel about the pinecones?",
             "Where did Roz decide to go to get away from the pinecones?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "glossary": [
+        "teeming",
+        "shelter",
+        "anchored",
+        "whisked"
+      ],
+      "questions": [
+        "What did Roz realize when she stood on top of the mountain?",
+        "What did Roz not know about how she came to the island?",
+        "How did Roz sleep on her first night?",
+        "What saved Roz from going over the cliff during the storm?"
+      ],
+      "imageAlt": "Roz stands alone on a mountain peak, looking out over the island and the misty sea.",
+      "chapters": [
         {
           "chapter": 9,
           "title": "THE MOUNTAIN",
@@ -168,22 +177,7 @@
             "Name three animals Roz saw from the mountain peak.",
             "Why was the mountaintop a good place for Roz to be?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 4,
-      "glossary": [
-        "mountaintop",
-        "mudflow",
-        "anchored"
-      ],
-      "questions": [
-        "What did Roz not know about how she came to the island?",
-        "How did Roz spend her first nights on the mountain?",
-        "How did Roz survive the storm?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 10,
           "title": "THE REMINDER",
@@ -229,17 +223,20 @@
       ]
     },
     {
-      "part": 5,
+      "part": 4,
       "glossary": [
-        "lowland",
-        "trove",
-        "lumbering"
+        "aftermath",
+        "lurking",
+        "vanished",
+        "resin"
       ],
       "questions": [
-        "What did the storm show about the difference between Roz and the animals?",
-        "How did Roz end up in trouble with the bears?",
-        "How did Roz defend herself without being violent?"
+        "How had the animals survived the storm so well?",
+        "Why did the bears chase Roz?",
+        "Why couldn't Roz fight back against the bears, and how did she escape them?",
+        "Why was the robin so angry with Roz?"
       ],
+      "imageAlt": "Roz sits in a pine tree hung with pinecones while two young bears look up at her from the ground.",
       "chapters": [
         {
           "chapter": 13,
@@ -282,22 +279,7 @@
             "What idea did the falling pinecones give Roz?",
             "Why did the young bears finally leave?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 6,
-      "glossary": [
-        "ferns",
-        "robin",
-        "blend"
-      ],
-      "questions": [
-        "What went wrong for Roz while she was sitting in the pine tree?",
-        "What gave Roz the idea to camouflage herself?",
-        "How did camouflage change the way Roz lived on the island?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 16,
           "title": "THE PINE TREE",
@@ -311,7 +293,25 @@
             "Why was the robin so upset with Roz?",
             "What happened when Roz scooted farther out on the branch?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "glossary": [
+        "camouflaged",
+        "peculiar",
+        "observed",
+        "landscape"
+      ],
+      "questions": [
+        "What lesson did Roz learn from the stick insect?",
+        "How did Roz camouflage herself?",
+        "What did Roz do while she was hidden in the wilderness?",
+        "How did Roz learn to understand the language of the animals?"
+      ],
+      "imageAlt": "Roz sits covered in mud, moss, leaves and flowers, with only her eye showing, as bees fly around her.",
+      "chapters": [
         {
           "chapter": 17,
           "title": "THE CAMOUFLAGED INSECT",
@@ -339,22 +339,7 @@
             "Which animals were the only ones to notice the new tuft of plants?",
             "What other things did Roz disguise herself as over the following weeks?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 7,
-      "glossary": [
-        "salamanders",
-        "mushrooms",
-        "gatherings"
-      ],
-      "questions": [
-        "What kinds of things did Roz observe while she was camouflaged?",
-        "How did Roz learn to understand the animals' language?",
-        "Why did Roz's introduction to the animals go badly?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 19,
           "title": "THE OBSERVATIONS",
@@ -382,7 +367,25 @@
             "What did Roz discover about the way different animals speak?",
             "How do deer mostly communicate with each other?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "glossary": [
+        "truce",
+        "gathering",
+        "agony",
+        "rubble"
+      ],
+      "questions": [
+        "What is the Dawn Truce?",
+        "How did the animals react when Roz introduced herself?",
+        "How did Roz help Fink the fox?",
+        "What did Roz realize after the rocks fell from the cliff?"
+      ],
+      "imageAlt": "Roz stands up out of a crumbling grassy mound while an owl, a fox, a weasel, a groundhog and a deer stare at her.",
+      "chapters": [
         {
           "chapter": 21,
           "title": "THE INTRODUCTION",
@@ -396,22 +399,7 @@
             "What did Roz ask the animals to teach her?",
             "How did the animals react when Roz introduced herself?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 8,
-      "glossary": [
-        "newborns",
-        "rubble",
-        "agony"
-      ],
-      "questions": [
-        "How did the animals treat Roz after she introduced herself?",
-        "How did Roz help Fink, and why did he let her?",
-        "What accident happened, and what did Roz realize afterward?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 22,
           "title": "THE NEW WORD",
@@ -457,17 +445,20 @@
       ]
     },
     {
-      "part": 9,
+      "part": 7,
       "glossary": [
-        "moonlight",
-        "performers",
-        "delicately"
+        "performer",
+        "demeanor",
+        "adopted",
+        "runt"
       ],
       "questions": [
-        "Why did Roz decide to save the goose egg?",
-        "What did Roz learn from Pinktail the opossum?",
-        "What happened when the gosling hatched?"
+        "Why did Roz decide to keep the goose egg?",
+        "What did Pinktail the opossum teach Roz about survival?",
+        "What was the first thing the gosling saw when he hatched?",
+        "What did Loudwing tell Roz she must do to be a mother, and how did Brightbill get his name?"
       ],
+      "imageAlt": "At night under a full moon, Roz sits on an oak branch holding a small nest with one egg in it.",
       "chapters": [
         {
           "chapter": 25,
@@ -510,22 +501,7 @@
             "What did the gosling call Roz?",
             "Why did Roz go looking for a grown goose?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 10,
-      "glossary": [
-        "sturdy",
-        "stumps",
-        "gruff"
-      ],
-      "questions": [
-        "How did Loudwing help Roz and Brightbill?",
-        "How did Roz win over the beavers?",
-        "What special features does the Nest have?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 28,
           "title": "THE OLD GOOSE",
@@ -539,7 +515,25 @@
             "According to Loudwing, what does a mother need to do?",
             "How did Brightbill get his name?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "glossary": [
+        "dam",
+        "lodge",
+        "ignited",
+        "inspecting"
+      ],
+      "questions": [
+        "What gift did Roz bring to the beavers, and why?",
+        "How did Roz learn to make fire?",
+        "Why did Roz name the lodge the Nest?",
+        "What did Tawny ask for in return for helping with the garden?"
+      ],
+      "imageAlt": "Roz, with a tiny gosling on her shoulder, stands next to a beaver in front of a round lodge by a pond. Smoke rises from the top of the lodge.",
+      "chapters": [
         {
           "chapter": 29,
           "title": "THE BEAVERS",
@@ -567,22 +561,7 @@
             "Why did Mr. Beaver think Roz should grow a garden?",
             "What did Roz name the lodge, and why?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 11,
-      "glossary": [
-        "woodland",
-        "festive",
-        "neighbor"
-      ],
-      "questions": [
-        "How did Brightbill's first night in the Nest go?",
-        "What did Tawny want in return for helping with the garden?",
-        "How did the garden help Roz make friends?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 31,
           "title": "THE FIRST NIGHT",
@@ -607,7 +586,25 @@
             "Who is Tawny?",
             "What deal did Tawny make with Roz?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 9,
+      "glossary": [
+        "festive",
+        "meandering",
+        "tranquil",
+        "escorted"
+      ],
+      "questions": [
+        "How did the animals help make the soil rich for the garden?",
+        "How did the garden help Roz make friends?",
+        "Why couldn't Roz go swimming with Brightbill, and who saved him from Rockmouth?",
+        "What did Loudwing say about Brightbill eating pebbles?"
+      ],
+      "imageAlt": "Roz stands in the shallows of a pond while a line of goslings swims behind an adult goose.",
+      "chapters": [
         {
           "chapter": 33,
           "title": "THE GARDEN",
@@ -621,22 +618,7 @@
             "How did the garden project help Roz make friends?",
             "What did Roz bring back from the meadow to plant around the Nest?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 12,
-      "glossary": [
-        "willow",
-        "tranquil",
-        "rescue"
-      ],
-      "questions": [
-        "How did Roz become a good mother?",
-        "What happened on Swimming Day?",
-        "How did Brightbill change as he grew up?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 34,
           "title": "THE MOTHER",
@@ -682,17 +664,20 @@
       ]
     },
     {
-      "part": 13,
+      "part": 10,
       "glossary": [
+        "drey",
         "speechless",
-        "twelve",
-        "silky"
+        "soar",
+        "horizon"
       ],
       "questions": [
         "How did Brightbill and Chitchat become friends?",
-        "What makes Chitchat a good friend?",
-        "How did Brightbill learn to fly?"
+        "Why did Roz enjoy listening to Chitchat and Brightbill?",
+        "How did Roz help Brightbill learn to fly?",
+        "What mysterious thing did Roz and Brightbill see far out at sea?"
       ],
+      "imageAlt": "A young goose takes off from a grassy hill by the sea while Roz watches. A small ship sits far out on the water.",
       "chapters": [
         {
           "chapter": 37,
@@ -735,22 +720,7 @@
             "What did Roz tell Brightbill she had learned from watching the seagull?",
             "What did Brightbill wish for at the end of the day?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 14,
-      "glossary": [
-        "universe",
-        "batteries",
-        "rainbows"
-      ],
-      "questions": [
-        "What mysterious thing did Roz and Brightbill see from the ridge?",
-        "How did Roz, Brightbill, and Chitchat spend the summer?",
-        "What did Roz tell Brightbill about being a robot and being his mother?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 40,
           "title": "THE SHIP",
@@ -764,7 +734,25 @@
             "How did Roz explain what a ship is?",
             "Why couldn't Roz and Brightbill answer their questions about the ship?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "glossary": [
+        "marveled",
+        "dreary",
+        "moody",
+        "galloped"
+      ],
+      "questions": [
+        "What did Roz, Brightbill, and Chitchat do together during the summer?",
+        "Why were the other goslings teasing Brightbill?",
+        "What did Roz tell Brightbill about his birth mother?",
+        "Why did Brightbill fly away, and where did Roz find him?"
+      ],
+      "imageAlt": "At night by the pond, Roz, a goose and a squirrel sit in the grass among fireflies under a starry sky.",
+      "chapters": [
         {
           "chapter": 41,
           "title": "THE SUMMER",
@@ -792,22 +780,7 @@
             "How does Roz say she has changed since she first woke up?",
             "What did Roz and Brightbill decide about him calling her \"Mama\"?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 15,
-      "glossary": [
-        "moody",
-        "columns",
-        "inhabited"
-      ],
-      "questions": [
-        "Why did Brightbill run away?",
-        "Where did Roz find Brightbill?",
-        "What did Brightbill learn about robots at the gravesite?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 43,
           "title": "THE GOSLING TAKES OFF",
@@ -835,7 +808,25 @@
             "Where did Roz go to look for Brightbill, and why?",
             "Why hadn't Brightbill gone down to the robots by himself?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 12,
+      "glossary": [
+        "looming",
+        "rumors",
+        "detached",
+        "nimble"
+      ],
+      "questions": [
+        "What did Brightbill discover on the back of the dead robot's head?",
+        "Why did Nettle and Thorn attack Roz on the clifftop?",
+        "How did Roz save Thorn after he fell off the cliff?",
+        "Who made Roz's new foot, and how did each of them help?"
+      ],
+      "imageAlt": "A big bear walks through the forest carrying Roz and a goose on its back, followed by a fox, a fawn, a rabbit and a small bird.",
+      "chapters": [
         {
           "chapter": 45,
           "title": "THE DEAD ROBOTS",
@@ -849,22 +840,7 @@
             "What happened when Roz tried to press her own button?",
             "Who is Shelly, and why did her story upset Brightbill?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 16,
-      "glossary": [
-        "parade",
-        "wildlife",
-        "strolled"
-      ],
-      "questions": [
-        "How did the fight with the bears end?",
-        "How did the bears make up for attacking Roz?",
-        "How did Roz's friends make her a new foot?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 46,
           "title": "THE FIGHT",
@@ -910,17 +886,20 @@
       ]
     },
     {
-      "part": 17,
+      "part": 13,
       "glossary": [
-        "autumn",
-        "frost",
-        "coaching"
+        "formation",
+        "airborne",
+        "hibernation",
+        "migratory"
       ],
       "questions": [
-        "How did Brightbill become such a great flier?",
-        "What did Roz and Brightbill find out by pressing the button?",
-        "How did the island change in autumn?"
+        "How did Brightbill become such a good flier?",
+        "What happened when Brightbill pressed the button on Roz's head?",
+        "How did the animals on the island get ready for winter?",
+        "Why couldn't Roz migrate with the geese?"
       ],
+      "imageAlt": "Roz stands at the top of a bare tree as a V of geese flies away across the sky and autumn leaves fall.",
       "chapters": [
         {
           "chapter": 49,
@@ -963,22 +942,7 @@
             "What were the frogs getting ready for?",
             "What do migratory birds do in autumn?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 18,
-      "glossary": [
-        "snowflakes",
-        "temperature",
-        "firewood"
-      ],
-      "questions": [
-        "Why did Brightbill have to leave the island?",
-        "How did Roz and Brightbill say good-bye?",
-        "What did Roz find when she woke up in the middle of winter?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 52,
           "title": "THE FLOCK",
@@ -992,7 +956,25 @@
             "How long did Loudwing say the migration would take?",
             "What did Roz explain to Brightbill about instincts?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 14,
+      "glossary": [
+        "fitfully",
+        "brittle",
+        "lodgers",
+        "roused"
+      ],
+      "questions": [
+        "Where did Brightbill fly in the V formation, and why?",
+        "What happened to Roz and the Nest during the winter?",
+        "How did Roz help the animals survive the cold?",
+        "What rule did Roz make for all the animals staying in her lodges?"
+      ],
+      "imageAlt": "In deep snow, animals huddle around a fire inside a round lodge while Roz stands outside.",
+      "chapters": [
         {
           "chapter": 53,
           "title": "THE MIGRATION",
@@ -1020,22 +1002,7 @@
             "What woke Roz up from her hibernation?",
             "What did Roz find when she went out into the snow?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 19,
-      "glossary": [
-        "predators",
-        "construction",
-        "daughter"
-      ],
-      "questions": [
-        "How did the Nest become a shelter for the island animals?",
-        "How did Roz help the island survive the winter?",
-        "What did the animals learn about fire?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 55,
           "title": "THE LODGERS",
@@ -1063,7 +1030,25 @@
             "How did Roz test whether it was safe to cross the pond?",
             "How many lodges did Roz build that winter?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 15,
+      "glossary": [
+        "plume",
+        "charred",
+        "purpose",
+        "remedied"
+      ],
+      "questions": [
+        "How did Roz rescue the young hare and put out the fire?",
+        "What did Crag the turtle say about how the island was formed?",
+        "What did the animals think Roz's purpose was?",
+        "Why was Rockmouth so angry, and how did Roz help him?"
+      ],
+      "imageAlt": "In early spring, animals walk out of the lodge among melting snow and small white flowers while Roz waves from the doorway.",
+      "chapters": [
         {
           "chapter": 57,
           "title": "THE FIRE",
@@ -1077,22 +1062,7 @@
             "How did Roz save the young hare?",
             "How did Roz put out the fire?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 20,
-      "glossary": [
-        "grandfather",
-        "flatlands",
-        "container"
-      ],
-      "questions": [
-        "What did the lodgers talk about by the fire?",
-        "What was the island like when spring arrived?",
-        "How did Roz help Rockmouth?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 58,
           "title": "THE CONVERSATIONS",
@@ -1138,17 +1108,20 @@
       ]
     },
     {
-      "part": 21,
+      "part": 16,
       "glossary": [
+        "wildness",
+        "separation",
         "humans",
-        "buildings",
-        "pigeon"
+        "factory"
       ],
       "questions": [
-        "How did Roz's behavior change during the spring?",
-        "How did Brightbill return to the island?",
-        "What did Brightbill learn about robots and humans on his journey?"
+        "How did Roz act wilder in the spring, and why?",
+        "How did Brightbill become the leader of the flock?",
+        "What did Brightbill see at the farm and in the city?",
+        "Why did Brightbill realize how special his mother was?"
       ],
+      "imageAlt": "Inside the lodge at night, a goose stands by the fire with its wings raised, telling a story, while Roz sits and listens.",
       "chapters": [
         {
           "chapter": 61,
@@ -1190,22 +1163,7 @@
             "Who is Snooks, and how did she help the flock?",
             "What did Brightbill see inside the factory?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 22,
-      "glossary": [
-        "party",
-        "celebrate",
-        "torch"
-      ],
-      "questions": [
-        "How did Brightbill see his mother differently after his journey?",
-        "What did Roz plan for the animals?",
-        "What happened at the celebration, and who saw it?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 64,
           "title": "THE SPECIAL ROBOT",
@@ -1219,7 +1177,25 @@
             "What did Roz learn about being alone while Brightbill was away?",
             "Why did Brightbill realize his mother was special?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 17,
+      "glossary": [
+        "celebration",
+        "bonfire",
+        "sleek",
+        "flush"
+      ],
+      "questions": [
+        "What did Roz invite the animals to, and how did she keep her promise that it would not be dark?",
+        "What did Roz say to the animals before she lit the bonfire?",
+        "Who saw the bonfire, and why was that important?",
+        "Who were the RECOs, and what did they look like?"
+      ],
+      "imageAlt": "At night, Roz dances in a dress of leaves and flowers beside a huge bonfire. Animals sit around it and birds swirl up through the smoke.",
+      "chapters": [
         {
           "chapter": 65,
           "title": "THE INVITATION",
@@ -1247,22 +1223,7 @@
             "What was Roz's party dress made of?",
             "Who saw the party from the ocean?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 23,
-      "glossary": [
-        "techlab",
-        "units",
-        "sleek"
-      ],
-      "questions": [
-        "What happened on the mountain the morning after the party?",
-        "Who are the RECOs?",
-        "Why did the RECOs decide that Roz was defective?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 67,
           "title": "THE SUNRISE",
@@ -1290,7 +1251,25 @@
             "How were the RECOs different from Roz?",
             "What did the RECOs see as they flew around the island?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 18,
+      "glossary": [
+        "property",
+        "defective",
+        "assault",
+        "avalanche"
+      ],
+      "questions": [
+        "Why had the RECOs come to the island?",
+        "Why did RECO 1 decide that Roz was defective?",
+        "How did the forest animals defeat RECO 3?",
+        "How did the bears defeat RECO 2, and who saved Nettle at the waterfall?"
+      ],
+      "imageAlt": "Three large robots stand side by side in a meadow, with a triangular airship behind them at the foot of a mountain.",
+      "chapters": [
         {
           "chapter": 69,
           "title": "THE DEFECTIVE ROBOT",
@@ -1304,22 +1283,7 @@
             "What did the RECOs plan to do with Roz?",
             "How did the geese help Roz escape?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 24,
-      "glossary": [
-        "assault",
-        "distracted",
-        "falls"
-      ],
-      "questions": [
-        "How did the hunt for Roz begin?",
-        "How did the forest animals defeat RECO 3?",
-        "How did the bears and the fish defeat RECO 2?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 70,
           "title": "THE HUNT BEGINS",
@@ -1365,17 +1329,20 @@
       ]
     },
     {
-      "part": 25,
+      "part": 19,
       "glossary": [
-        "hunter",
         "signal",
-        "cable"
+        "malfunctioning",
+        "deactivated",
+        "garbled"
       ],
       "questions": [
-        "How did RECO 1 hunt Roz?",
-        "How was Roz captured?",
-        "How was RECO 1 defeated?"
+        "How was RECO 1 able to keep tracking Roz?",
+        "What traps did the animals set for RECO 1?",
+        "What happened when Roz and RECO 1 fought over the rifle?",
+        "How did Brightbill and the animals save Roz from RECO 1?"
       ],
+      "imageAlt": "On a foggy, rocky shore, Roz lies half-hidden under seaweed while a large robot stands over her. Birds fly through the mist.",
       "chapters": [
         {
           "chapter": 73,
@@ -1418,22 +1385,7 @@
             "How did the animals get a rifle to use against RECO 1?",
             "What did RECO 1 tell Roz before he died?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 26,
-      "glossary": [
-        "rifles",
-        "frail",
-        "decisions"
-      ],
-      "questions": [
-        "How badly was Roz damaged?",
-        "What did Roz and her friends decide at the meeting?",
-        "How did the animals say good-bye to Roz?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 76,
           "title": "THE BROKEN ROBOT",
@@ -1447,7 +1399,25 @@
             "Why didn't it work?",
             "What did Roz ask for at the end of the chapter?"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "part": 20,
+      "glossary": [
+        "frail",
+        "decisions",
+        "send-off",
+        "stark"
+      ],
+      "questions": [
+        "What did Roz's closest friends talk about at their meeting?",
+        "Why did Roz decide she had to leave the island?",
+        "Why did the animals load every robot part onto the airship?",
+        "What plan was Roz computing as the airship flew away?"
+      ],
+      "imageAlt": "A triangular airship rises into the clouds while a crowd of animals and a single goose watch from a hill.",
+      "chapters": [
         {
           "chapter": 77,
           "title": "THE MEETING",
@@ -1475,22 +1445,7 @@
             "How did the animals say good-bye to Roz?",
             "What did Roz promise Brightbill?"
           ]
-        }
-      ]
-    },
-    {
-      "part": 27,
-      "glossary": [
-        "speeding",
-        "memories",
-        "earliest"
-      ],
-      "questions": [
-        "Where did the airship take Roz?",
-        "What does Roz think about as she flies away?",
-        "What does Roz plan to do?"
-      ],
-      "chapters": [
+        },
         {
           "chapter": 79,
           "title": "THE DEPARTURE",
