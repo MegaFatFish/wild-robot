@@ -1,10 +1,12 @@
-{# Stepping stones, one per part. Set `current` before including to mark progress. #}
+{# Stepping stones, one per part. Set `current` before including to mark the page you are on.
+   Parts marked as read are filled in by the script in base.njk. #}
 <nav class="trail" aria-label="Parts of the book">
   <ol>
     {%- for p in book.parts %}
     <li>
       <a href="/part/{{ p.part }}/"
-         class="stone{% if current and p.part < current %} is-done{% elif p.part == current %} is-current{% endif %}"
+         class="stone{% if p.part == current %} is-current{% endif %}"
+         data-part="{{ p.part }}"
          title="Part {{ p.part }}"
          {%- if p.part == current %} aria-current="page"{% endif %}>
         <span class="visually-hidden">Part {{ p.part }}</span>

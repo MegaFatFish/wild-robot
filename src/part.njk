@@ -20,7 +20,10 @@ eleventyComputed:
 
   <figure class="picture{% if not part.image %} picture--placeholder{% endif %}">
     {%- if part.image %}
-    <img src="{{ part.image }}" alt="{{ part.imageAlt }}">
+    <img src="{{ part.image.src }}"
+         {%- if part.image.srcset %} srcset="{{ part.image.srcset }}" sizes="(min-width: 42rem) 40rem, calc(100vw - 2rem)"{% endif %}
+         width="1536" height="1024" fetchpriority="high" decoding="async"
+         alt="{{ part.imageAlt }}">
     {%- else %}
     {% include "svg/island-scene.svg" %}
     {%- endif %}
@@ -43,34 +46,12 @@ eleventyComputed:
     </ol>
   </section>
 
-  {% include "divider.njk" %}
-
-  <section class="section" aria-labelledby="chapters-heading">
-    <h2 id="chapters-heading">Chapter by chapter</h2>
-    {%- for ch in part.chapters %}
-    <details class="chapter">
-      <summary>
-        <span class="chapter-num">Chapter {{ ch.chapter }}</span>
-        <span class="chapter-title">{{ ch.title }}</span>
-      </summary>
-      <div class="chapter-body">
-        {%- if ch.glossary.length %}
-        <h3>Words</h3>
-        {% set words = ch.glossary %}
-        {% include "words.njk" %}
-        {%- endif %}
-        {%- if ch.questions.length %}
-        <h3>Questions</h3>
-        <ol class="question-list">
-          {%- for q in ch.questions %}
-          <li>{{ q }}</li>
-          {%- endfor %}
-        </ol>
-        {%- endif %}
-      </div>
-    </details>
-    {%- endfor %}
-  </section>
+  <div class="read-toggle">
+    <button type="button" class="button" data-read-toggle="{{ part.part }}" aria-pressed="false" hidden>
+      <span class="read-toggle-off">I’ve read Part {{ part.part }}</span>
+      <span class="read-toggle-on">✓ Part {{ part.part }} read</span>
+    </button>
+  </div>
 </article>
 
 <nav class="pager" aria-label="Parts">

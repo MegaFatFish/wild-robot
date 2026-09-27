@@ -24,10 +24,49 @@
   </main>
 
   <script>
-    // Chapter sections are collapsed on screen; open them all when printing.
+    // Word meanings are collapsed on screen; open them all when printing.
     addEventListener("beforeprint", () => {
       document.querySelectorAll("details").forEach((d) => (d.open = true));
     });
+
+    // "I've read this part" is remembered in this browser only.
+    // Storage can be blocked (private windows), so the page works without it.
+    (() => {
+      const KEY = "wild-robot:read";
+      const load = () => {
+        try { return new Set(JSON.parse(localStorage.getItem(KEY)) ?? []); } catch { return new Set(); }
+      };
+      const save = (read) => {
+        try { localStorage.setItem(KEY, JSON.stringify([...read])); return true; } catch { return false; }
+      };
+
+      function paint(read) {
+        document.querySelectorAll("[data-part]").forEach((el) => {
+          const isRead = read.has(Number(el.dataset.part));
+          el.classList.toggle("is-read", isRead);
+          if (el.classList.contains("stone")) {
+            el.title = `Part ${el.dataset.part}${isRead ? " · read" : ""}`;
+            el.querySelector(".visually-hidden").textContent = el.title;
+          }
+        });
+        document.querySelectorAll("[data-read-toggle]").forEach((btn) => {
+          btn.setAttribute("aria-pressed", read.has(Number(btn.dataset.readToggle)));
+        });
+      }
+
+      const read = load();
+      paint(read);
+
+      document.querySelectorAll("[data-read-toggle]").forEach((btn) => {
+        const part = Number(btn.dataset.readToggle);
+        btn.hidden = !save(read); // no storage, no button
+        btn.addEventListener("click", () => {
+          read.has(part) ? read.delete(part) : read.add(part);
+          save(read);
+          paint(read);
+        });
+      });
+    })();
   </script>
 </body>
 </html>

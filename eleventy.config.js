@@ -3,8 +3,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/favicon.svg");
 
-  // parts.json lives in the project root, outside src/
-  eleventyConfig.addWatchTarget("./parts.json");
+  // parts-size-4.json lives in the project root, outside src/
+  eleventyConfig.addWatchTarget("./parts-size-4.json");
 
   return {
     dir: {

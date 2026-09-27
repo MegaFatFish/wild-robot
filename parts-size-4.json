@@ -3,10 +3,22 @@
     {
       "part": 1,
       "glossary": [
-        "hurricane",
-        "torsos",
-        "gash",
-        "hatchling"
+        {
+          "word": "hurricane",
+          "meaning": "a huge storm with very strong winds and heavy rain"
+        },
+        {
+          "word": "torsos",
+          "meaning": "the middle parts of bodies, without the head, arms or legs"
+        },
+        {
+          "word": "gash",
+          "meaning": "a long, deep cut or crack"
+        },
+        {
+          "word": "hatchling",
+          "meaning": "a baby animal that has just come out of its egg"
+        }
       ],
       "questions": [
         "How did the robot end up on the island?",
@@ -20,9 +32,18 @@
           "chapter": 1,
           "title": "THE OCEAN",
           "glossary": [
-            "transporting",
-            "smudge",
-            "skittered"
+            {
+              "word": "transporting",
+              "meaning": "carrying things from one place to another"
+            },
+            {
+              "word": "smudge",
+              "meaning": "a small, blurry mark"
+            },
+            {
+              "word": "skittered",
+              "meaning": "moved quickly and lightly, bouncing along"
+            }
           ],
           "questions": [
             "What caused the cargo ship to sink?",
@@ -34,9 +55,18 @@
           "chapter": 2,
           "title": "THE OTTERS",
           "glossary": [
-            "romping",
-            "clinking",
-            "overlooking"
+            {
+              "word": "romping",
+              "meaning": "playing in a rough, happy, lively way"
+            },
+            {
+              "word": "clinking",
+              "meaning": "making a short, light ringing sound, like glass or metal tapping"
+            },
+            {
+              "word": "overlooking",
+              "meaning": "sitting above something, with a view down onto it"
+            }
           ],
           "questions": [
             "What made the otters notice the robot parts on the shore?",
@@ -48,9 +78,18 @@
           "chapter": 3,
           "title": "THE ROBOT",
           "glossary": [
-            "activating",
-            "communicate",
-            "online"
+            {
+              "word": "activating",
+              "meaning": "switching on and starting to work"
+            },
+            {
+              "word": "communicate",
+              "meaning": "to share ideas and information by talking, signing or writing"
+            },
+            {
+              "word": "online",
+              "meaning": "switched on and working"
+            }
           ],
           "questions": [
             "What is the robot's full name, and what may you call her?",
@@ -62,9 +101,18 @@
           "chapter": 4,
           "title": "THE ROBOT HATCHES",
           "glossary": [
-            "curiosity",
-            "absorbing",
-            "restrained"
+            {
+              "word": "curiosity",
+              "meaning": "the wish to find out about something"
+            },
+            {
+              "word": "absorbing",
+              "meaning": "taking something in, like a sponge takes in water"
+            },
+            {
+              "word": "restrained",
+              "meaning": "held back so it could not move"
+            }
           ],
           "questions": [
             "What was the first thing Roz felt curious about?",
@@ -77,10 +125,22 @@
     {
       "part": 2,
       "glossary": [
-        "gravesite",
-        "engulfed",
-        "technique",
-        "awkwardly"
+        {
+          "word": "gravesite",
+          "meaning": "a place where the dead lie"
+        },
+        {
+          "word": "engulfed",
+          "meaning": "completely covered or swallowed up"
+        },
+        {
+          "word": "technique",
+          "meaning": "a special way of doing something"
+        },
+        {
+          "word": "awkwardly",
+          "meaning": "in a clumsy, not very smooth way"
+        }
       ],
       "questions": [
         "Why did the otters run away from Roz?",
@@ -94,9 +154,18 @@
           "chapter": 5,
           "title": "THE ROBOT GRAVESITE",
           "glossary": [
-            "lingered",
-            "functioning",
-            "urging"
+            {
+              "word": "lingered",
+              "meaning": "stayed a bit longer than needed"
+            },
+            {
+              "word": "functioning",
+              "meaning": "working the way it should"
+            },
+            {
+              "word": "urging",
+              "meaning": "strongly pushing someone to do something"
+            }
           ],
           "questions": [
             "Why did the otters run away from Roz?",
@@ -108,9 +177,18 @@
           "chapter": 6,
           "title": "THE CLIMB",
           "glossary": [
-            "scuttled",
-            "standoff",
-            "footholds"
+            {
+              "word": "scuttled",
+              "meaning": "ran with short, quick steps"
+            },
+            {
+              "word": "standoff",
+              "meaning": "a moment when two sides face each other and neither moves"
+            },
+            {
+              "word": "footholds",
+              "meaning": "places where a foot can rest safely while climbing"
+            }
           ],
           "questions": [
             "Which animal taught Roz how to climb?",
@@ -122,9 +200,18 @@
           "chapter": 7,
           "title": "THE WILDERNESS",
           "glossary": [
-            "jagged",
-            "timber",
-            "irregular"
+            {
+              "word": "jagged",
+              "meaning": "rough and sharp, with uneven points"
+            },
+            {
+              "word": "timber",
+              "meaning": "wood from trees, or a fallen tree"
+            },
+            {
+              "word": "irregular",
+              "meaning": "uneven, not in a neat or regular shape"
+            }
           ],
           "questions": [
             "Why was the forest hard for Roz to walk through?",
@@ -136,9 +223,18 @@
           "chapter": 8,
           "title": "THE PINECONES",
           "glossary": [
-            "gust",
-            "towered",
-            "trunks"
+            {
+              "word": "gust",
+              "meaning": "a sudden, strong rush of wind"
+            },
+            {
+              "word": "towered",
+              "meaning": "stood very tall above everything else"
+            },
+            {
+              "word": "trunks",
+              "meaning": "the thick main stems of trees"
+            }
           ],
           "questions": [
             "What kept falling on Roz's head in the forest?",
@@ -151,10 +247,22 @@
     {
       "part": 3,
       "glossary": [
-        "teeming",
-        "shelter",
-        "anchored",
-        "whisked"
+        {
+          "word": "teeming",
+          "meaning": "full of lots of living things moving around"
+        },
+        {
+          "word": "shelter",
+          "meaning": "a place that keeps you safe from danger or bad weather"
+        },
+        {
+          "word": "anchored",
+          "meaning": "held firmly in place so it would not move"
+        },
+        {
+          "word": "whisked",
+          "meaning": "carried away very quickly"
+        }
       ],
       "questions": [
         "What did Roz realize when she stood on top of the mountain?",
@@ -168,9 +276,18 @@
           "chapter": 9,
           "title": "THE MOUNTAIN",
           "glossary": [
-            "outcrops",
-            "foothills",
-            "artificial"
+            {
+              "word": "outcrops",
+              "meaning": "big rocks that stick up out of the ground"
+            },
+            {
+              "word": "foothills",
+              "meaning": "low hills at the bottom of a mountain"
+            },
+            {
+              "word": "artificial",
+              "meaning": "made by people or machines, not by nature"
+            }
           ],
           "questions": [
             "What did Roz finally realize when she stood on top of the mountain?",
@@ -182,9 +299,18 @@
           "chapter": 10,
           "title": "THE REMINDER",
           "glossary": [
-            "warehouse",
-            "ashore",
-            "stored"
+            {
+              "word": "warehouse",
+              "meaning": "a large building where goods are kept before they are sold"
+            },
+            {
+              "word": "ashore",
+              "meaning": "onto the land from the sea"
+            },
+            {
+              "word": "stored",
+              "meaning": "kept somewhere until it was needed"
+            }
           ],
           "questions": [
             "Where was Roz built and kept before she crossed the ocean?",
@@ -196,9 +322,18 @@
           "chapter": 11,
           "title": "THE ROBOT SLEEPS",
           "glossary": [
-            "conserve",
-            "illuminating",
-            "nonessential"
+            {
+              "word": "conserve",
+              "meaning": "to save something so it is not used up"
+            },
+            {
+              "word": "illuminating",
+              "meaning": "lighting something up"
+            },
+            {
+              "word": "nonessential",
+              "meaning": "not really needed"
+            }
           ],
           "questions": [
             "What happened when Roz first turned on her headlights?",
@@ -210,9 +345,18 @@
           "chapter": 12,
           "title": "THE STORM",
           "glossary": [
-            "mudslide",
-            "frantically",
-            "pelting"
+            {
+              "word": "mudslide",
+              "meaning": "a large amount of wet mud sliding quickly down a hill"
+            },
+            {
+              "word": "frantically",
+              "meaning": "in a wild, panicked hurry"
+            },
+            {
+              "word": "pelting",
+              "meaning": "hitting over and over again"
+            }
           ],
           "questions": [
             "What signs showed Roz that a storm was coming?",
@@ -225,10 +369,22 @@
     {
       "part": 4,
       "glossary": [
-        "aftermath",
-        "lurking",
-        "vanished",
-        "resin"
+        {
+          "word": "aftermath",
+          "meaning": "what is left after something bad has happened"
+        },
+        {
+          "word": "lurking",
+          "meaning": "hiding and waiting, often up to no good"
+        },
+        {
+          "word": "vanished",
+          "meaning": "disappeared suddenly"
+        },
+        {
+          "word": "resin",
+          "meaning": "a thick, sticky liquid that comes out of pine trees"
+        }
       ],
       "questions": [
         "How had the animals survived the storm so well?",
@@ -242,9 +398,18 @@
           "chapter": 13,
           "title": "THE AFTERMATH",
           "glossary": [
-            "debris",
-            "submerged",
-            "refuge"
+            {
+              "word": "debris",
+              "meaning": "broken pieces and rubbish lying around"
+            },
+            {
+              "word": "submerged",
+              "meaning": "completely under water"
+            },
+            {
+              "word": "refuge",
+              "meaning": "a safe place to go when there is danger"
+            }
           ],
           "questions": [
             "How had the island animals survived the storm?",
@@ -256,9 +421,18 @@
           "chapter": 14,
           "title": "THE BEARS",
           "glossary": [
-            "instinct",
-            "outrun",
-            "attackers"
+            {
+              "word": "instinct",
+              "meaning": "something an animal knows how to do without being taught"
+            },
+            {
+              "word": "outrun",
+              "meaning": "to run faster than someone and get away"
+            },
+            {
+              "word": "attackers",
+              "meaning": "those who attack or try to hurt someone"
+            }
           ],
           "questions": [
             "Why did the bears chase Roz?",
@@ -270,9 +444,18 @@
           "chapter": 15,
           "title": "THE ESCAPE",
           "glossary": [
-            "lobbed",
-            "frenzy",
-            "accuracy"
+            {
+              "word": "lobbed",
+              "meaning": "threw something gently in a high curve"
+            },
+            {
+              "word": "frenzy",
+              "meaning": "a state of wild excitement or anger"
+            },
+            {
+              "word": "accuracy",
+              "meaning": "the skill of hitting exactly what you aim at"
+            }
           ],
           "questions": [
             "How did Roz get away from the bears?",
@@ -284,9 +467,18 @@
           "chapter": 16,
           "title": "THE PINE TREE",
           "glossary": [
-            "delicate",
-            "screeching",
-            "messier"
+            {
+              "word": "delicate",
+              "meaning": "fine and easy to break"
+            },
+            {
+              "word": "screeching",
+              "meaning": "making a loud, high, harsh sound"
+            },
+            {
+              "word": "messier",
+              "meaning": "even more untidy and dirty"
+            }
           ],
           "questions": [
             "What sticky stuff from the pine tree got all over Roz?",
@@ -299,10 +491,22 @@
     {
       "part": 5,
       "glossary": [
-        "camouflaged",
-        "peculiar",
-        "observed",
-        "landscape"
+        {
+          "word": "camouflaged",
+          "meaning": "colored or covered so it blends in and is hard to see"
+        },
+        {
+          "word": "peculiar",
+          "meaning": "strange or unusual"
+        },
+        {
+          "word": "observed",
+          "meaning": "watched carefully"
+        },
+        {
+          "word": "landscape",
+          "meaning": "everything you can see in an area of land, like hills, trees and rocks"
+        }
       ],
       "questions": [
         "What lesson did Roz learn from the stick insect?",
@@ -316,9 +520,18 @@
           "chapter": 17,
           "title": "THE CAMOUFLAGED INSECT",
           "glossary": [
-            "antennae",
-            "spindly",
-            "rigorous"
+            {
+              "word": "antennae",
+              "meaning": "the two thin feelers on an insect's head"
+            },
+            {
+              "word": "spindly",
+              "meaning": "long, thin and weak-looking"
+            },
+            {
+              "word": "rigorous",
+              "meaning": "very careful and thorough"
+            }
           ],
           "questions": [
             "What was strange about the twig Roz noticed?",
@@ -330,9 +543,18 @@
           "chapter": 18,
           "title": "THE CAMOUFLAGED ROBOT",
           "glossary": [
-            "disguise",
-            "bramble",
-            "unseen"
+            {
+              "word": "disguise",
+              "meaning": "to change how something looks so no one recognizes it"
+            },
+            {
+              "word": "bramble",
+              "meaning": "a prickly bush, like a blackberry bush"
+            },
+            {
+              "word": "unseen",
+              "meaning": "not seen by anyone"
+            }
           ],
           "questions": [
             "What did Roz use to camouflage herself?",
@@ -344,9 +566,18 @@
           "chapter": 19,
           "title": "THE OBSERVATIONS",
           "glossary": [
-            "intricate",
-            "carcasses",
-            "tadpoles"
+            {
+              "word": "intricate",
+              "meaning": "having lots of small, detailed parts"
+            },
+            {
+              "word": "carcasses",
+              "meaning": "the bodies of dead animals"
+            },
+            {
+              "word": "tadpoles",
+              "meaning": "baby frogs that live in water and have tails"
+            }
           ],
           "questions": [
             "What were the spiders doing?",
@@ -358,9 +589,18 @@
           "chapter": 20,
           "title": "THE LANGUAGE OF THE ANIMALS",
           "glossary": [
-            "species",
-            "accent",
-            "nectar"
+            {
+              "word": "species",
+              "meaning": "a kind or type of animal or plant"
+            },
+            {
+              "word": "accent",
+              "meaning": "the special way a group of people or animals pronounce words"
+            },
+            {
+              "word": "nectar",
+              "meaning": "the sweet liquid inside flowers that bees collect"
+            }
           ],
           "questions": [
             "How did camouflage help Roz learn the animals' language?",
@@ -373,10 +613,22 @@
     {
       "part": 6,
       "glossary": [
-        "truce",
-        "gathering",
-        "agony",
-        "rubble"
+        {
+          "word": "truce",
+          "meaning": "an agreement to stop fighting for a while"
+        },
+        {
+          "word": "gathering",
+          "meaning": "a meeting where many come together"
+        },
+        {
+          "word": "agony",
+          "meaning": "very great pain"
+        },
+        {
+          "word": "rubble",
+          "meaning": "broken pieces of rock, stone or wood"
+        }
       ],
       "questions": [
         "What is the Dawn Truce?",
@@ -390,9 +642,18 @@
           "chapter": 21,
           "title": "THE INTRODUCTION",
           "glossary": [
-            "residents",
-            "disbelief",
-            "unnatural"
+            {
+              "word": "residents",
+              "meaning": "those who live in a place"
+            },
+            {
+              "word": "disbelief",
+              "meaning": "the feeling of not being able to believe something"
+            },
+            {
+              "word": "unnatural",
+              "meaning": "not normal, not what you find in nature"
+            }
           ],
           "questions": [
             "What is the Dawn Truce?",
@@ -404,9 +665,18 @@
           "chapter": 22,
           "title": "THE NEW WORD",
           "glossary": [
-            "prowl",
-            "camouflages",
-            "spreading"
+            {
+              "word": "prowl",
+              "meaning": "moving around quietly, as if hunting"
+            },
+            {
+              "word": "camouflages",
+              "meaning": "hides by blending in with the surroundings"
+            },
+            {
+              "word": "spreading",
+              "meaning": "moving out to reach more and more places"
+            }
           ],
           "questions": [
             "What new word was spreading across the island?",
@@ -418,9 +688,18 @@
           "chapter": 23,
           "title": "THE WOUNDED FOX",
           "glossary": [
-            "quills",
-            "winced",
-            "yelped"
+            {
+              "word": "quills",
+              "meaning": "long, sharp spines on a porcupine's body"
+            },
+            {
+              "word": "winced",
+              "meaning": "made a quick face because of pain"
+            },
+            {
+              "word": "yelped",
+              "meaning": "gave a short, sharp cry of pain"
+            }
           ],
           "questions": [
             "How did Fink the fox get quills in his face?",
@@ -432,9 +711,18 @@
           "chapter": 24,
           "title": "THE ACCIDENT",
           "glossary": [
-            "plummeting",
-            "pulverized",
-            "carnage"
+            {
+              "word": "plummeting",
+              "meaning": "falling straight down very fast"
+            },
+            {
+              "word": "pulverized",
+              "meaning": "crushed into tiny pieces or powder"
+            },
+            {
+              "word": "carnage",
+              "meaning": "a scene where many have been killed or badly hurt"
+            }
           ],
           "questions": [
             "What caused Roz to fall from the cliff?",
@@ -447,10 +735,22 @@
     {
       "part": 7,
       "glossary": [
-        "performer",
-        "demeanor",
-        "adopted",
-        "runt"
+        {
+          "word": "performer",
+          "meaning": "someone who acts, sings or dances for others to watch"
+        },
+        {
+          "word": "demeanor",
+          "meaning": "the way someone looks and behaves"
+        },
+        {
+          "word": "adopted",
+          "meaning": "took someone else's child into your family as your own"
+        },
+        {
+          "word": "runt",
+          "meaning": "the smallest and weakest baby in a family of animals"
+        }
       ],
       "questions": [
         "Why did Roz decide to keep the goose egg?",
@@ -464,9 +764,18 @@
           "chapter": 25,
           "title": "THE EGG",
           "glossary": [
-            "fragile",
-            "unhatched",
-            "cradled"
+            {
+              "word": "fragile",
+              "meaning": "easily broken"
+            },
+            {
+              "word": "unhatched",
+              "meaning": "still inside the egg"
+            },
+            {
+              "word": "cradled",
+              "meaning": "held gently and carefully, like a baby"
+            }
           ],
           "questions": [
             "How did Roz find the goose egg?",
@@ -478,9 +787,18 @@
           "chapter": 26,
           "title": "THE PERFORMER",
           "glossary": [
-            "marsupial",
-            "stench",
-            "acquaintance"
+            {
+              "word": "marsupial",
+              "meaning": "an animal whose mother carries her babies in a pouch, like a kangaroo or opossum"
+            },
+            {
+              "word": "stench",
+              "meaning": "a very strong, bad smell"
+            },
+            {
+              "word": "acquaintance",
+              "meaning": "knowing someone a little, after meeting them"
+            }
           ],
           "questions": [
             "How did the opossum escape from the badger?",
@@ -492,9 +810,18 @@
           "chapter": 27,
           "title": "THE GOSLING",
           "glossary": [
-            "eggshell",
-            "crunch",
-            "helpful"
+            {
+              "word": "eggshell",
+              "meaning": "the hard outer covering of an egg"
+            },
+            {
+              "word": "crunch",
+              "meaning": "a loud cracking sound, like something being crushed"
+            },
+            {
+              "word": "helpful",
+              "meaning": "able to help"
+            }
           ],
           "questions": [
             "What was the first thing the gosling saw when he opened his eyes?",
@@ -506,9 +833,18 @@
           "chapter": 28,
           "title": "THE OLD GOOSE",
           "glossary": [
-            "orphan",
-            "motherhood",
-            "miracle"
+            {
+              "word": "orphan",
+              "meaning": "a child whose parents have died"
+            },
+            {
+              "word": "motherhood",
+              "meaning": "being a mother and doing a mother's job"
+            },
+            {
+              "word": "miracle",
+              "meaning": "something amazing that seems almost impossible"
+            }
           ],
           "questions": [
             "Why wouldn't Loudwing take care of the gosling?",
@@ -521,10 +857,22 @@
     {
       "part": 8,
       "glossary": [
-        "dam",
-        "lodge",
-        "ignited",
-        "inspecting"
+        {
+          "word": "dam",
+          "meaning": "a wall built across a stream or river to hold back the water"
+        },
+        {
+          "word": "lodge",
+          "meaning": "a beaver's home, built from sticks and mud"
+        },
+        {
+          "word": "ignited",
+          "meaning": "caught fire"
+        },
+        {
+          "word": "inspecting",
+          "meaning": "looking at something very carefully to check it"
+        }
       ],
       "questions": [
         "What gift did Roz bring to the beavers, and why?",
@@ -538,9 +886,18 @@
           "chapter": 29,
           "title": "THE BEAVERS",
           "glossary": [
-            "policy",
-            "stubborn",
-            "trickle"
+            {
+              "word": "policy",
+              "meaning": "a rule someone always follows"
+            },
+            {
+              "word": "stubborn",
+              "meaning": "refusing to change your mind"
+            },
+            {
+              "word": "trickle",
+              "meaning": "a very small, thin flow of water"
+            }
           ],
           "questions": [
             "What gift did Roz bring the beavers?",
@@ -552,9 +909,18 @@
           "chapter": 30,
           "title": "THE NEST",
           "glossary": [
-            "campfire",
-            "trench",
-            "handiwork"
+            {
+              "word": "campfire",
+              "meaning": "a small outdoor fire for warmth or cooking"
+            },
+            {
+              "word": "trench",
+              "meaning": "a long, narrow ditch dug in the ground"
+            },
+            {
+              "word": "handiwork",
+              "meaning": "something you have made with your own hands"
+            }
           ],
           "questions": [
             "How did Roz teach herself to make fire?",
@@ -566,8 +932,14 @@
           "chapter": 31,
           "title": "THE FIRST NIGHT",
           "glossary": [
-            "cushion",
-            "settling"
+            {
+              "word": "cushion",
+              "meaning": "a soft pad to sit or lie on"
+            },
+            {
+              "word": "settling",
+              "meaning": "getting comfortable in a new place"
+            }
           ],
           "questions": [
             "What did Brightbill like about his new home?",
@@ -579,7 +951,10 @@
           "chapter": 32,
           "title": "THE DEER",
           "glossary": [
-            "agreement"
+            {
+              "word": "agreement",
+              "meaning": "saying yes to a plan or deal together"
+            }
           ],
           "questions": [
             "Why weren't the deer afraid of Roz?",
@@ -592,10 +967,22 @@
     {
       "part": 9,
       "glossary": [
-        "festive",
-        "meandering",
-        "tranquil",
-        "escorted"
+        {
+          "word": "festive",
+          "meaning": "happy and cheerful, like a party"
+        },
+        {
+          "word": "meandering",
+          "meaning": "wandering slowly with no hurry, taking a winding path"
+        },
+        {
+          "word": "tranquil",
+          "meaning": "calm and peaceful"
+        },
+        {
+          "word": "escorted",
+          "meaning": "went with someone to keep them safe"
+        }
       ],
       "questions": [
         "How did the animals help make the soil rich for the garden?",
@@ -609,9 +996,18 @@
           "chapter": 33,
           "title": "THE GARDEN",
           "glossary": [
-            "fertilized",
-            "transplanted",
-            "burrowing"
+            {
+              "word": "fertilized",
+              "meaning": "made the soil richer so plants grow better"
+            },
+            {
+              "word": "transplanted",
+              "meaning": "dug up a plant and planted it somewhere else"
+            },
+            {
+              "word": "burrowing",
+              "meaning": "digging holes or tunnels in the ground"
+            }
           ],
           "questions": [
             "Why did Tawny ask the neighbors to leave droppings around the Nest?",
@@ -623,9 +1019,18 @@
           "chapter": 34,
           "title": "THE MOTHER",
           "glossary": [
-            "parenting",
-            "attentive",
-            "tottering"
+            {
+              "word": "parenting",
+              "meaning": "taking care of and raising children"
+            },
+            {
+              "word": "attentive",
+              "meaning": "paying close attention and caring"
+            },
+            {
+              "word": "tottering",
+              "meaning": "walking in a wobbly, unsteady way"
+            }
           ],
           "questions": [
             "Which animals became regular visitors to the garden?",
@@ -637,9 +1042,18 @@
           "chapter": 35,
           "title": "THE FIRST SWIM",
           "glossary": [
-            "paddle",
-            "gratitude",
-            "conflicted"
+            {
+              "word": "paddle",
+              "meaning": "to move your feet or hands through water to swim"
+            },
+            {
+              "word": "gratitude",
+              "meaning": "the feeling of being thankful"
+            },
+            {
+              "word": "conflicted",
+              "meaning": "torn between two different choices"
+            }
           ],
           "questions": [
             "Why couldn't Roz go out on the pond with Brightbill?",
@@ -651,9 +1065,18 @@
           "chapter": 36,
           "title": "THE GOSLING GROWS",
           "glossary": [
-            "edible",
-            "digest",
-            "nightmares"
+            {
+              "word": "edible",
+              "meaning": "safe to eat"
+            },
+            {
+              "word": "digest",
+              "meaning": "to break down food in your body"
+            },
+            {
+              "word": "nightmares",
+              "meaning": "scary dreams"
+            }
           ],
           "questions": [
             "Why did Roz hold Brightbill upside down?",
@@ -666,10 +1089,22 @@
     {
       "part": 10,
       "glossary": [
-        "drey",
-        "speechless",
-        "soar",
-        "horizon"
+        {
+          "word": "drey",
+          "meaning": "a squirrel's nest"
+        },
+        {
+          "word": "speechless",
+          "meaning": "so surprised or happy that you can't say anything"
+        },
+        {
+          "word": "soar",
+          "meaning": "to fly high in the air without flapping much"
+        },
+        {
+          "word": "horizon",
+          "meaning": "the line far away where the sky seems to meet the land or sea"
+        }
       ],
       "questions": [
         "How did Brightbill and Chitchat become friends?",
@@ -683,9 +1118,18 @@
           "chapter": 37,
           "title": "THE SQUIRREL",
           "glossary": [
-            "patience",
-            "rambled",
-            "spying"
+            {
+              "word": "patience",
+              "meaning": "being able to wait calmly without getting annoyed"
+            },
+            {
+              "word": "rambled",
+              "meaning": "talked on and on, jumping from one thing to another"
+            },
+            {
+              "word": "spying",
+              "meaning": "secretly watching someone"
+            }
           ],
           "questions": [
             "What is the squirrel's name?",
@@ -697,9 +1141,18 @@
           "chapter": 38,
           "title": "THE NEW FRIENDSHIP",
           "glossary": [
-            "hollow",
-            "listener",
-            "amusement"
+            {
+              "word": "hollow",
+              "meaning": "empty inside"
+            },
+            {
+              "word": "listener",
+              "meaning": "someone who listens"
+            },
+            {
+              "word": "amusement",
+              "meaning": "the feeling of finding something funny"
+            }
           ],
           "questions": [
             "What is a squirrel's nest called?",
@@ -711,9 +1164,18 @@
           "chapter": 39,
           "title": "THE FIRST FLIGHT",
           "glossary": [
-            "adjustments",
-            "veering",
-            "seagull"
+            {
+              "word": "adjustments",
+              "meaning": "small changes to make something work better"
+            },
+            {
+              "word": "veering",
+              "meaning": "turning suddenly to one side"
+            },
+            {
+              "word": "seagull",
+              "meaning": "a gray and white bird that lives near the sea"
+            }
           ],
           "questions": [
             "Where did Roz take Brightbill to show him the ocean?",
@@ -725,9 +1187,18 @@
           "chapter": 40,
           "title": "THE SHIP",
           "glossary": [
-            "vessel",
-            "fanatic",
-            "transport"
+            {
+              "word": "vessel",
+              "meaning": "a ship or large boat"
+            },
+            {
+              "word": "fanatic",
+              "meaning": "someone who loves something extremely much"
+            },
+            {
+              "word": "transport",
+              "meaning": "moving people or things from one place to another"
+            }
           ],
           "questions": [
             "Where were Roz and Brightbill when they spotted the ship?",
@@ -740,10 +1211,22 @@
     {
       "part": 11,
       "glossary": [
-        "marveled",
-        "dreary",
-        "moody",
-        "galloped"
+        {
+          "word": "marveled",
+          "meaning": "looked at something with amazement"
+        },
+        {
+          "word": "dreary",
+          "meaning": "gray, dull and gloomy"
+        },
+        {
+          "word": "moody",
+          "meaning": "having feelings that change quickly, often grumpy"
+        },
+        {
+          "word": "galloped",
+          "meaning": "ran very fast"
+        }
       ],
       "questions": [
         "What did Roz, Brightbill, and Chitchat do together during the summer?",
@@ -757,9 +1240,18 @@
           "chapter": 41,
           "title": "THE SUMMER",
           "glossary": [
-            "celestial",
-            "astronomer",
-            "fireflies"
+            {
+              "word": "celestial",
+              "meaning": "in or from the sky or outer space"
+            },
+            {
+              "word": "astronomer",
+              "meaning": "a scientist who studies stars and planets"
+            },
+            {
+              "word": "fireflies",
+              "meaning": "small beetles whose bodies glow in the dark"
+            }
           ],
           "questions": [
             "What did the friends do when they met a bear by the river?",
@@ -771,9 +1263,18 @@
           "chapter": 42,
           "title": "THE STRANGE FAMILY",
           "glossary": [
-            "offspring",
-            "sweltering",
-            "weathered"
+            {
+              "word": "offspring",
+              "meaning": "an animal's babies or young"
+            },
+            {
+              "word": "sweltering",
+              "meaning": "uncomfortably hot"
+            },
+            {
+              "word": "weathered",
+              "meaning": "worn and marked from being out in the wind, rain and sun"
+            }
           ],
           "questions": [
             "Why did Brightbill come home upset?",
@@ -785,9 +1286,18 @@
           "chapter": 43,
           "title": "THE GOSLING TAKES OFF",
           "glossary": [
-            "inoperative",
-            "puffed",
-            "shadow"
+            {
+              "word": "inoperative",
+              "meaning": "not working"
+            },
+            {
+              "word": "puffed",
+              "meaning": "pushed out and made bigger"
+            },
+            {
+              "word": "shadow",
+              "meaning": "the dark shape made when something blocks the light"
+            }
           ],
           "questions": [
             "What does \"inoperative\" mean for a robot?",
@@ -799,9 +1309,18 @@
           "chapter": 44,
           "title": "THE RUNAWAY",
           "glossary": [
-            "adolescent",
-            "predator",
-            "northward"
+            {
+              "word": "adolescent",
+              "meaning": "a young person or animal who is growing up, between child and adult"
+            },
+            {
+              "word": "predator",
+              "meaning": "an animal that hunts and eats other animals"
+            },
+            {
+              "word": "northward",
+              "meaning": "towards the north"
+            }
           ],
           "questions": [
             "What did Loudwing tell Roz about goslings at Brightbill's age?",
@@ -814,10 +1333,22 @@
     {
       "part": 12,
       "glossary": [
-        "looming",
-        "rumors",
-        "detached",
-        "nimble"
+        {
+          "word": "looming",
+          "meaning": "standing tall above, in a big and scary way"
+        },
+        {
+          "word": "rumors",
+          "meaning": "stories passed around that may or may not be true"
+        },
+        {
+          "word": "detached",
+          "meaning": "came loose and separated"
+        },
+        {
+          "word": "nimble",
+          "meaning": "quick and clever with movements"
+        }
       ],
       "questions": [
         "What did Brightbill discover on the back of the dead robot's head?",
@@ -831,9 +1362,18 @@
           "chapter": 45,
           "title": "THE DEAD ROBOTS",
           "glossary": [
-            "machinery",
-            "orphaned",
-            "furrowed"
+            {
+              "word": "machinery",
+              "meaning": "machines, or the moving parts inside a machine"
+            },
+            {
+              "word": "orphaned",
+              "meaning": "left without parents because they have died"
+            },
+            {
+              "word": "furrowed",
+              "meaning": "wrinkled up in a frown"
+            }
           ],
           "questions": [
             "What did Brightbill find on the back of the dead robot's head?",
@@ -845,9 +1385,18 @@
           "chapter": 46,
           "title": "THE FIGHT",
           "glossary": [
-            "sarcasm",
-            "intimidated",
-            "stupor"
+            {
+              "word": "sarcasm",
+              "meaning": "saying the opposite of what you mean, in a mocking way"
+            },
+            {
+              "word": "intimidated",
+              "meaning": "made to feel frightened"
+            },
+            {
+              "word": "stupor",
+              "meaning": "a dazed state where you can hardly think or move"
+            }
           ],
           "questions": [
             "What are the names of the two young bears?",
@@ -859,9 +1408,18 @@
           "chapter": 47,
           "title": "THE PARADE",
           "glossary": [
-            "procession",
-            "forgiveness",
-            "undergrowth"
+            {
+              "word": "procession",
+              "meaning": "a group moving forward in a line, like a parade"
+            },
+            {
+              "word": "forgiveness",
+              "meaning": "stopping being angry with someone for what they did"
+            },
+            {
+              "word": "undergrowth",
+              "meaning": "bushes and plants growing low under the trees"
+            }
           ],
           "questions": [
             "Why was it hard for Roz to walk through the forest?",
@@ -873,9 +1431,18 @@
           "chapter": 48,
           "title": "THE NEW FOOT",
           "glossary": [
-            "durable",
-            "modifications",
-            "indestructible"
+            {
+              "word": "durable",
+              "meaning": "strong and long-lasting"
+            },
+            {
+              "word": "modifications",
+              "meaning": "small changes to make something better"
+            },
+            {
+              "word": "indestructible",
+              "meaning": "impossible to break or destroy"
+            }
           ],
           "questions": [
             "What three problems did Mr. Beaver need to solve to build a new foot?",
@@ -888,10 +1455,22 @@
     {
       "part": 13,
       "glossary": [
-        "formation",
-        "airborne",
-        "hibernation",
-        "migratory"
+        {
+          "word": "formation",
+          "meaning": "a special shape that a group makes, like geese flying in a V"
+        },
+        {
+          "word": "airborne",
+          "meaning": "up in the air, flying"
+        },
+        {
+          "word": "hibernation",
+          "meaning": "a long, deep sleep some animals have through the winter"
+        },
+        {
+          "word": "migratory",
+          "meaning": "travelling to a different place each season"
+        }
       ],
       "questions": [
         "How did Brightbill become such a good flier?",
@@ -905,9 +1484,18 @@
           "chapter": 49,
           "title": "THE FLIER",
           "glossary": [
-            "updraft",
-            "gaggle",
-            "exceptional"
+            {
+              "word": "updraft",
+              "meaning": "air moving upward, which birds can ride"
+            },
+            {
+              "word": "gaggle",
+              "meaning": "a group of geese"
+            },
+            {
+              "word": "exceptional",
+              "meaning": "much better than usual"
+            }
           ],
           "questions": [
             "How did Brightbill become such a good flier?",
@@ -919,9 +1507,18 @@
           "chapter": 50,
           "title": "THE BUTTON",
           "glossary": [
-            "switch",
-            "wondering",
-            "heart"
+            {
+              "word": "switch",
+              "meaning": "to turn something on or off"
+            },
+            {
+              "word": "wondering",
+              "meaning": "thinking about something and asking yourself questions about it"
+            },
+            {
+              "word": "heart",
+              "meaning": "the part of the body that pumps blood; it races when you're scared"
+            }
           ],
           "questions": [
             "What happened when Brightbill pressed Roz's button?",
@@ -933,9 +1530,18 @@
           "chapter": 51,
           "title": "THE AUTUMN",
           "glossary": [
-            "withered",
-            "destined",
-            "edibles"
+            {
+              "word": "withered",
+              "meaning": "dried up and shrank"
+            },
+            {
+              "word": "destined",
+              "meaning": "certain to do something, as if it had been planned"
+            },
+            {
+              "word": "edibles",
+              "meaning": "things that are safe to eat"
+            }
           ],
           "questions": [
             "What were some signs that autumn had come to the island?",
@@ -947,9 +1553,18 @@
           "chapter": 52,
           "title": "THE FLOCK",
           "glossary": [
-            "migrate",
-            "upcoming",
-            "depending"
+            {
+              "word": "migrate",
+              "meaning": "to travel to another place when the seasons change"
+            },
+            {
+              "word": "upcoming",
+              "meaning": "happening soon"
+            },
+            {
+              "word": "depending",
+              "meaning": "changing because of something else"
+            }
           ],
           "questions": [
             "Why couldn't Roz go on the migration with Brightbill?",
@@ -962,10 +1577,22 @@
     {
       "part": 14,
       "glossary": [
-        "fitfully",
-        "brittle",
-        "lodgers",
-        "roused"
+        {
+          "word": "fitfully",
+          "meaning": "restlessly, often waking up"
+        },
+        {
+          "word": "brittle",
+          "meaning": "hard but easily snapped"
+        },
+        {
+          "word": "lodgers",
+          "meaning": "those who stay in someone else's home for a while"
+        },
+        {
+          "word": "roused",
+          "meaning": "woken up"
+        }
       ],
       "questions": [
         "Where did Brightbill fly in the V formation, and why?",
@@ -979,9 +1606,18 @@
           "chapter": 53,
           "title": "THE MIGRATION",
           "glossary": [
-            "takeoff",
-            "disorganized",
-            "preparations"
+            {
+              "word": "takeoff",
+              "meaning": "the moment a bird or aircraft leaves the ground"
+            },
+            {
+              "word": "disorganized",
+              "meaning": "messy and without order"
+            },
+            {
+              "word": "preparations",
+              "meaning": "things done to get ready"
+            }
           ],
           "questions": [
             "What did Chitchat promise Brightbill before he left?",
@@ -993,9 +1629,18 @@
           "chapter": 54,
           "title": "THE WINTER",
           "glossary": [
-            "hibernated",
-            "latticework",
-            "devastating"
+            {
+              "word": "hibernated",
+              "meaning": "slept deeply through the winter"
+            },
+            {
+              "word": "latticework",
+              "meaning": "strips crossed over each other in a criss-cross pattern"
+            },
+            {
+              "word": "devastating",
+              "meaning": "causing terrible damage"
+            }
           ],
           "questions": [
             "How did Roz spend the first part of the winter?",
@@ -1007,9 +1652,18 @@
           "chapter": 55,
           "title": "THE LODGERS",
           "glossary": [
-            "kindling",
-            "carnivorous",
-            "coziness"
+            {
+              "word": "kindling",
+              "meaning": "small sticks and twigs used to start a fire"
+            },
+            {
+              "word": "carnivorous",
+              "meaning": "eating meat"
+            },
+            {
+              "word": "coziness",
+              "meaning": "a warm, comfortable, safe feeling"
+            }
           ],
           "questions": [
             "Which animals came to the Nest to get out of the cold?",
@@ -1021,9 +1675,18 @@
           "chapter": 56,
           "title": "THE NEW LODGES",
           "glossary": [
-            "frigid",
-            "snowdrifts",
-            "expertise"
+            {
+              "word": "frigid",
+              "meaning": "freezing cold"
+            },
+            {
+              "word": "snowdrifts",
+              "meaning": "deep piles of snow blown together by the wind"
+            },
+            {
+              "word": "expertise",
+              "meaning": "special skill or knowledge"
+            }
           ],
           "questions": [
             "Why did the second lodge need to be bigger than the first?",
@@ -1036,10 +1699,22 @@
     {
       "part": 15,
       "glossary": [
-        "plume",
-        "charred",
-        "purpose",
-        "remedied"
+        {
+          "word": "plume",
+          "meaning": "a long cloud of smoke rising into the air"
+        },
+        {
+          "word": "charred",
+          "meaning": "burned and blackened"
+        },
+        {
+          "word": "purpose",
+          "meaning": "the reason something exists or what it is meant to do"
+        },
+        {
+          "word": "remedied",
+          "meaning": "fixed or put right"
+        }
       ],
       "questions": [
         "How did Roz rescue the young hare and put out the fire?",
@@ -1053,9 +1728,18 @@
           "chapter": 57,
           "title": "THE FIRE",
           "glossary": [
-            "foundation",
-            "smothering",
-            "emergencies"
+            {
+              "word": "foundation",
+              "meaning": "the bottom part a building stands on"
+            },
+            {
+              "word": "smothering",
+              "meaning": "covering something so completely that it gets no air"
+            },
+            {
+              "word": "emergencies",
+              "meaning": "sudden, dangerous situations that need help fast"
+            }
           ],
           "questions": [
             "What caused the fire in the second lodge?",
@@ -1067,9 +1751,18 @@
           "chapter": 58,
           "title": "THE CONVERSATIONS",
           "glossary": [
-            "famine",
-            "harmonious",
-            "scavenge"
+            {
+              "word": "famine",
+              "meaning": "a time when there is not enough food"
+            },
+            {
+              "word": "harmonious",
+              "meaning": "peaceful and friendly, getting along well"
+            },
+            {
+              "word": "scavenge",
+              "meaning": "to search for food or useful things others have left"
+            }
           ],
           "questions": [
             "What did Digdown wish she had done more of in her life?",
@@ -1081,9 +1774,18 @@
           "chapter": 59,
           "title": "THE SPRING",
           "glossary": [
-            "nourished",
-            "dazzling",
-            "bitterest"
+            {
+              "word": "nourished",
+              "meaning": "gave what is needed to grow and be healthy"
+            },
+            {
+              "word": "dazzling",
+              "meaning": "so bright and beautiful it amazes you"
+            },
+            {
+              "word": "bitterest",
+              "meaning": "the coldest and harshest"
+            }
           ],
           "questions": [
             "Why was it a quiet spring?",
@@ -1095,9 +1797,18 @@
           "chapter": 60,
           "title": "THE FISH",
           "glossary": [
-            "barrel",
-            "nuisance",
-            "waterways"
+            {
+              "word": "barrel",
+              "meaning": "a big round container made of wood"
+            },
+            {
+              "word": "nuisance",
+              "meaning": "someone or something that is annoying"
+            },
+            {
+              "word": "waterways",
+              "meaning": "rivers, streams and other water that boats or fish can travel along"
+            }
           ],
           "questions": [
             "Why was Rockmouth so angry?",
@@ -1110,10 +1821,22 @@
     {
       "part": 16,
       "glossary": [
-        "wildness",
-        "separation",
-        "humans",
-        "factory"
+        {
+          "word": "wildness",
+          "meaning": "being wild and free, not tame"
+        },
+        {
+          "word": "separation",
+          "meaning": "being apart from each other"
+        },
+        {
+          "word": "humans",
+          "meaning": "people"
+        },
+        {
+          "word": "factory",
+          "meaning": "a building where things are made by machines"
+        }
       ],
       "questions": [
         "How did Roz act wilder in the spring, and why?",
@@ -1127,9 +1850,18 @@
           "chapter": 61,
           "title": "THE ROBOT STORIES",
           "glossary": [
-            "barren",
-            "sunbathed",
-            "romped"
+            {
+              "word": "barren",
+              "meaning": "dry and empty, where almost nothing grows"
+            },
+            {
+              "word": "sunbathed",
+              "meaning": "lay in the sun to get warm"
+            },
+            {
+              "word": "romped",
+              "meaning": "played in a rough, happy way"
+            }
           ],
           "questions": [
             "What kinds of stories were told about Roz?",
@@ -1141,8 +1873,14 @@
           "chapter": 62,
           "title": "THE RETURN",
           "glossary": [
-            "overtaken",
-            "honk"
+            {
+              "word": "overtaken",
+              "meaning": "slowly taken over or replaced"
+            },
+            {
+              "word": "honk",
+              "meaning": "the loud call a goose makes"
+            }
           ],
           "questions": [
             "What was special about the flock that arrived at the pond?",
@@ -1154,9 +1892,18 @@
           "chapter": 63,
           "title": "THE JOURNEY",
           "glossary": [
-            "greenhouse",
-            "mainland",
-            "snowstorm"
+            {
+              "word": "greenhouse",
+              "meaning": "a glass building that keeps plants warm so they can grow"
+            },
+            {
+              "word": "mainland",
+              "meaning": "the large main land of a country, not an island"
+            },
+            {
+              "word": "snowstorm",
+              "meaning": "a storm with lots of snow and strong wind"
+            }
           ],
           "questions": [
             "What happened to Longneck?",
@@ -1168,9 +1915,18 @@
           "chapter": 64,
           "title": "THE SPECIAL ROBOT",
           "glossary": [
-            "blizzards",
-            "forged",
-            "gestures"
+            {
+              "word": "blizzards",
+              "meaning": "very bad snowstorms with strong wind"
+            },
+            {
+              "word": "forged",
+              "meaning": "made or built with effort"
+            },
+            {
+              "word": "gestures",
+              "meaning": "movements of the body used to show meaning"
+            }
           ],
           "questions": [
             "What did Roz tell Brightbill about her winter?",
@@ -1183,10 +1939,22 @@
     {
       "part": 17,
       "glossary": [
-        "celebration",
-        "bonfire",
-        "sleek",
-        "flush"
+        {
+          "word": "celebration",
+          "meaning": "a happy event, like a party, to mark something special"
+        },
+        {
+          "word": "bonfire",
+          "meaning": "a very big outdoor fire"
+        },
+        {
+          "word": "sleek",
+          "meaning": "smooth, shiny and neatly shaped"
+        },
+        {
+          "word": "flush",
+          "meaning": "lined up perfectly, with no gaps"
+        }
       ],
       "questions": [
         "What did Roz invite the animals to, and how did she keep her promise that it would not be dark?",
@@ -1200,9 +1968,18 @@
           "chapter": 65,
           "title": "THE INVITATION",
           "glossary": [
-            "announcement",
-            "generation",
-            "moonless"
+            {
+              "word": "announcement",
+              "meaning": "an important message told to everyone"
+            },
+            {
+              "word": "generation",
+              "meaning": "all the young born around the same time"
+            },
+            {
+              "word": "moonless",
+              "meaning": "without the moon in the sky"
+            }
           ],
           "questions": [
             "What did Roz announce at the Dawn Truce?",
@@ -1214,9 +1991,18 @@
           "chapter": 66,
           "title": "THE CELEBRATION",
           "glossary": [
-            "embers",
-            "tornado",
-            "slithered"
+            {
+              "word": "embers",
+              "meaning": "small glowing pieces left from a fire"
+            },
+            {
+              "word": "tornado",
+              "meaning": "a spinning column of wind shaped like a funnel"
+            },
+            {
+              "word": "slithered",
+              "meaning": "moved by sliding along the ground, like a snake"
+            }
           ],
           "questions": [
             "What was the giant stack of wood for?",
@@ -1228,9 +2014,18 @@
           "chapter": 67,
           "title": "THE SUNRISE",
           "glossary": [
-            "smoldering",
-            "dwindled",
-            "rays"
+            {
+              "word": "smoldering",
+              "meaning": "burning slowly with smoke but no flames"
+            },
+            {
+              "word": "dwindled",
+              "meaning": "got smaller and smaller"
+            },
+            {
+              "word": "rays",
+              "meaning": "narrow beams of light"
+            }
           ],
           "questions": [
             "Where did Roz and Brightbill go the morning after the party?",
@@ -1242,9 +2037,18 @@
           "chapter": 68,
           "title": "THE RECOS",
           "glossary": [
-            "identical",
-            "bulkier",
-            "triangle"
+            {
+              "word": "identical",
+              "meaning": "exactly the same"
+            },
+            {
+              "word": "bulkier",
+              "meaning": "bigger and heavier"
+            },
+            {
+              "word": "triangle",
+              "meaning": "a shape with three sides and three corners"
+            }
           ],
           "questions": [
             "What did the airship look like?",
@@ -1257,10 +2061,22 @@
     {
       "part": 18,
       "glossary": [
-        "property",
-        "defective",
-        "assault",
-        "avalanche"
+        {
+          "word": "property",
+          "meaning": "something that belongs to someone"
+        },
+        {
+          "word": "defective",
+          "meaning": "not working properly, faulty"
+        },
+        {
+          "word": "assault",
+          "meaning": "a violent attack"
+        },
+        {
+          "word": "avalanche",
+          "meaning": "a huge amount of snow or rock falling down all at once"
+        }
       ],
       "questions": [
         "Why had the RECOs come to the island?",
@@ -1274,9 +2090,18 @@
           "chapter": 69,
           "title": "THE DEFECTIVE ROBOT",
           "glossary": [
-            "refurbish",
-            "defectiveness",
-            "deactivation"
+            {
+              "word": "refurbish",
+              "meaning": "to repair and make like new again"
+            },
+            {
+              "word": "defectiveness",
+              "meaning": "being faulty or broken"
+            },
+            {
+              "word": "deactivation",
+              "meaning": "switching something off so it stops working"
+            }
           ],
           "questions": [
             "Why had the RECOs come to the island?",
@@ -1288,9 +2113,18 @@
           "chapter": 70,
           "title": "THE HUNT BEGINS",
           "glossary": [
-            "intruders",
-            "pattern",
-            "surfaces"
+            {
+              "word": "intruders",
+              "meaning": "those who come into a place where they are not welcome"
+            },
+            {
+              "word": "pattern",
+              "meaning": "a set way that something is done again and again"
+            },
+            {
+              "word": "surfaces",
+              "meaning": "the outside layers or tops of things"
+            }
           ],
           "questions": [
             "Why couldn't Brightbill shut down the RECOs?",
@@ -1302,9 +2136,18 @@
           "chapter": 71,
           "title": "THE FOREST ASSAULT",
           "glossary": [
-            "bombardment",
-            "coordinated",
-            "antlers"
+            {
+              "word": "bombardment",
+              "meaning": "a heavy, continuous attack"
+            },
+            {
+              "word": "coordinated",
+              "meaning": "planned so everyone works together"
+            },
+            {
+              "word": "antlers",
+              "meaning": "the branch-like horns on a deer's head"
+            }
           ],
           "questions": [
             "Who gave the orders during the attack on RECO 3?",
@@ -1316,9 +2159,18 @@
           "chapter": 72,
           "title": "THE MOUNTAIN RUMBLE",
           "glossary": [
-            "torpedoes",
-            "scruff",
-            "rapids"
+            {
+              "word": "torpedoes",
+              "meaning": "fast weapons that shoot through water"
+            },
+            {
+              "word": "scruff",
+              "meaning": "the loose skin on the back of an animal's neck"
+            },
+            {
+              "word": "rapids",
+              "meaning": "a part of a river where water flows very fast over rocks"
+            }
           ],
           "questions": [
             "What happened when the bears attacked RECO 2 in the cave?",
@@ -1331,10 +2183,22 @@
     {
       "part": 19,
       "glossary": [
-        "signal",
-        "malfunctioning",
-        "deactivated",
-        "garbled"
+        {
+          "word": "signal",
+          "meaning": "a message sent out, like a beep or a radio wave"
+        },
+        {
+          "word": "malfunctioning",
+          "meaning": "not working properly"
+        },
+        {
+          "word": "deactivated",
+          "meaning": "switched off"
+        },
+        {
+          "word": "garbled",
+          "meaning": "jumbled up and hard to understand"
+        }
       ],
       "questions": [
         "How was RECO 1 able to keep tracking Roz?",
@@ -1348,9 +2212,18 @@
           "chapter": 73,
           "title": "THE CHASE",
           "glossary": [
-            "stampede",
-            "craters",
-            "relentless"
+            {
+              "word": "stampede",
+              "meaning": "a crowd of animals running together in a rush"
+            },
+            {
+              "word": "craters",
+              "meaning": "big holes in the ground"
+            },
+            {
+              "word": "relentless",
+              "meaning": "never stopping or giving up"
+            }
           ],
           "questions": [
             "How was RECO 1 able to keep tracking Roz?",
@@ -1362,9 +2235,18 @@
           "chapter": 74,
           "title": "THE CLICK",
           "glossary": [
-            "explosion",
-            "grappled",
-            "combat"
+            {
+              "word": "explosion",
+              "meaning": "a sudden, loud burst that blows things apart"
+            },
+            {
+              "word": "grappled",
+              "meaning": "struggled and wrestled"
+            },
+            {
+              "word": "combat",
+              "meaning": "fighting"
+            }
           ],
           "questions": [
             "Where was Roz hiding when RECO 1 found her?",
@@ -1376,9 +2258,18 @@
           "chapter": 75,
           "title": "THE LAST RIFLE",
           "glossary": [
-            "talons",
-            "rebooted",
-            "mission"
+            {
+              "word": "talons",
+              "meaning": "the sharp claws of a bird of prey"
+            },
+            {
+              "word": "rebooted",
+              "meaning": "switched back on and started up again"
+            },
+            {
+              "word": "mission",
+              "meaning": "an important job someone has been sent to do"
+            }
           ],
           "questions": [
             "How did Brightbill bring Roz back to life?",
@@ -1390,9 +2281,18 @@
           "chapter": 76,
           "title": "THE BROKEN ROBOT",
           "glossary": [
-            "mangled",
-            "sadness",
-            "trembling"
+            {
+              "word": "mangled",
+              "meaning": "badly crushed and twisted"
+            },
+            {
+              "word": "sadness",
+              "meaning": "the feeling of being sad"
+            },
+            {
+              "word": "trembling",
+              "meaning": "shaking, often because of fear or strong feelings"
+            }
           ],
           "questions": [
             "What were the geese and otters trying to do for Roz?",
@@ -1405,10 +2305,22 @@
     {
       "part": 20,
       "glossary": [
-        "frail",
-        "decisions",
-        "send-off",
-        "stark"
+        {
+          "word": "frail",
+          "meaning": "weak and easily hurt"
+        },
+        {
+          "word": "decisions",
+          "meaning": "choices you make after thinking"
+        },
+        {
+          "word": "send-off",
+          "meaning": "a goodbye party or gathering for someone who is leaving"
+        },
+        {
+          "word": "stark",
+          "meaning": "very clear and big"
+        }
       ],
       "questions": [
         "What did Roz's closest friends talk about at their meeting?",
@@ -1422,9 +2334,18 @@
           "chapter": 77,
           "title": "THE MEETING",
           "glossary": [
-            "eternally",
-            "tempers",
-            "wisest"
+            {
+              "word": "eternally",
+              "meaning": "forever"
+            },
+            {
+              "word": "tempers",
+              "meaning": "angry moods"
+            },
+            {
+              "word": "wisest",
+              "meaning": "the most wise, knowing the most"
+            }
           ],
           "questions": [
             "Which friends came to the meeting in the Nest?",
@@ -1436,9 +2357,18 @@
           "chapter": 78,
           "title": "THE FAREWELL",
           "glossary": [
-            "retrieving",
-            "scraps",
-            "hollering"
+            {
+              "word": "retrieving",
+              "meaning": "getting something and bringing it back"
+            },
+            {
+              "word": "scraps",
+              "meaning": "small leftover pieces"
+            },
+            {
+              "word": "hollering",
+              "meaning": "shouting loudly"
+            }
           ],
           "questions": [
             "Why did every robot part and rifle have to go on the airship?",
@@ -1460,9 +2390,18 @@
           "chapter": 80,
           "title": "THE SKY",
           "glossary": [
-            "glitch",
-            "miraculous",
-            "recorded"
+            {
+              "word": "glitch",
+              "meaning": "a small fault that makes something not work as it should"
+            },
+            {
+              "word": "miraculous",
+              "meaning": "amazing, like a miracle"
+            },
+            {
+              "word": "recorded",
+              "meaning": "saved so it can be looked at again later"
+            }
           ],
           "questions": [
             "What two explanations does the narrator give for how Roz became a wild robot?",

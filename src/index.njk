@@ -12,10 +12,10 @@ layout: base.njk
 <ul class="part-list">
   {%- for p in book.parts %}
   <li>
-    <a href="/part/{{ p.part }}/">
+    <a href="/part/{{ p.part }}/" data-part="{{ p.part }}">
       <span class="part-list-num">Part {{ p.part }}</span>
       <span class="part-list-names">{{ p.chapterNames | join(" · ") }}</span>
-      <span class="part-list-range">{{ p.chapterRange }}</span>
+      <span class="part-list-range">{{ p.chapterRange }}<span class="read-mark"> · ✓ Read</span></span>
     </a>
   </li>
   {%- endfor %}

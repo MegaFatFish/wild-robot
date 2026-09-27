@@ -6,6 +6,8 @@ import { readFileSync, existsSync } from "node:fs";
 const root = new URL("../../", import.meta.url);
 const imageDir = new URL("src/img/parts/", root);
 const IMAGE_EXTS = ["webp", "jpg", "jpeg", "png"];
+const IMAGE_WIDTHS = [800, 1200];
+const FULL_WIDTH = 1536; // the generated images are 1536×1024
 const SMALL_WORDS = new Set(["a", "an", "and", "the", "of", "in", "on", "to", "for", "at", "by", "or"]);
 const KEEP_UPPERCASE = new Set(["reco", "recos"]);
 
@@ -28,10 +30,19 @@ function toWord(entry) {
 }
 
 // Drop src/img/parts/part-03.jpg (or .webp/.png) in and it shows up on part 3.
+// Smaller copies named part-03-800.jpg / part-03-1200.jpg are offered to phones via srcset.
 function findImage(partNumber) {
   const name = `part-${String(partNumber).padStart(2, "0")}`;
   const ext = IMAGE_EXTS.find((e) => existsSync(new URL(`${name}.${e}`, imageDir)));
-  return ext ? `/img/parts/${name}.${ext}` : null;
+  if (!ext) return null;
+
+  const sizes = IMAGE_WIDTHS.filter((w) => existsSync(new URL(`${name}-${w}.${ext}`, imageDir)));
+  return {
+    src: `/img/parts/${name}.${ext}`,
+    srcset: sizes.length
+      ? [...sizes.map((w) => `/img/parts/${name}-${w}.${ext} ${w}w`), `/img/parts/${name}.${ext} ${FULL_WIDTH}w`].join(", ")
+      : null,
+  };
 }
 
 export default function () {
@@ -55,7 +66,7 @@ export default function () {
         chapterNames: chapters.map((ch) => ch.title),
         glossary: part.glossary.map(toWord),
         questions: part.questions,
-        image: part.image ?? findImage(part.part),
+        image: part.image ? { src: part.image, srcset: null } : findImage(part.part),
         imageAlt: part.imageAlt ?? "",
       };
     }),

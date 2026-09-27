@@ -85,6 +85,10 @@ a {
   border-radius: 4px;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -169,7 +173,7 @@ a {
   border-color: var(--forest);
 }
 
-.stone.is-done {
+.stone.is-read {
   background: var(--moss-deep);
 }
 
@@ -281,6 +285,8 @@ a {
 .chip--meaning summary {
   cursor: pointer;
   list-style: none;
+  text-decoration: underline dotted var(--forest);
+  text-underline-offset: 0.25em;
 }
 
 .chip--meaning summary::-webkit-details-marker {
@@ -335,74 +341,37 @@ a {
   line-height: 1;
 }
 
-/* ---------- Chapter by chapter ---------- */
+/* ---------- I've read this part ---------- */
 
-.chapter {
-  border-top: 1px solid var(--moss-deep);
-}
-
-.chapter:last-of-type {
-  border-bottom: 1px solid var(--moss-deep);
-}
-
-.chapter summary {
+.read-toggle {
   display: flex;
-  align-items: baseline;
-  gap: 0.75rem;
-  padding: 0.9rem 0;
-  cursor: pointer;
-  list-style: none;
+  justify-content: center;
+  margin-top: 2.5rem;
 }
 
-.chapter summary::-webkit-details-marker {
+.read-toggle .button {
+  font: inherit;
+  font-weight: 700;
+  background: var(--paper);
+  cursor: pointer;
+}
+
+.read-toggle .button:hover {
+  background: var(--moss);
+}
+
+.read-toggle .button[aria-pressed="true"] {
+  background: var(--moss);
+  border-color: var(--moss-deep);
+}
+
+.read-toggle-on,
+.read-toggle .button[aria-pressed="true"] .read-toggle-off {
   display: none;
 }
 
-.chapter summary::after {
-  content: "+";
-  margin-left: auto;
-  color: var(--forest);
-  font-size: 1.3rem;
-  line-height: 1;
-}
-
-.chapter[open] summary::after {
-  content: "–";
-}
-
-.chapter-num {
-  flex: none;
-  color: var(--bark);
-  font-size: 0.85rem;
-  font-weight: 700;
-}
-
-.chapter-title {
-  font-family: var(--font-heading);
-  font-variation-settings: "SOFT" 100;
-  font-weight: 600;
-  color: var(--forest-deep);
-}
-
-.chapter-body {
-  padding: 0 0 1.25rem;
-}
-
-.chapter-body h3:first-child {
-  margin-top: 0;
-}
-
-.chapter-body .chip {
-  font-size: 0.9rem;
-}
-
-.question-list {
-  margin: 0;
-  padding-left: 1.4rem;
-}
-
-.question-list li + li {
-  margin-top: 0.4rem;
+.read-toggle .button[aria-pressed="true"] .read-toggle-on {
+  display: inline;
 }
 
 /* ---------- Previous / next ---------- */
@@ -477,6 +446,16 @@ a {
   font-size: 0.85rem;
 }
 
+.read-mark {
+  display: none;
+  color: var(--forest);
+  font-weight: 700;
+}
+
+.part-list a.is-read .read-mark {
+  display: inline;
+}
+
 /* ---------- Print: a plain worksheet ---------- */
 
 @media print {
@@ -496,9 +475,9 @@ a {
   .site-header,
   .trail,
   .pager,
+  .read-toggle,
   .divider,
-  .picture--placeholder,
-  .chapter summary::after {
+  .picture--placeholder {
     display: none;
   }
 
@@ -524,9 +503,5 @@ a {
   .chip {
     background: none;
     border-color: #999;
-  }
-
-  .chapter {
-    break-inside: avoid;
   }
 }
