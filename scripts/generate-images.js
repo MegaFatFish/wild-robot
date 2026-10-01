@@ -17,7 +17,7 @@ const EXISTING_EXTS = ["jpg", "jpeg", "png", "webp"];
 process.loadEnvFile(new URL(".env", root));
 const provider = process.env.IMAGE_PROVIDER ?? (process.env.OPEN_AI_API ? "openai" : "gemini");
 
-const { style, ...prompts } = JSON.parse(readFileSync(new URL("image-prompts.json", root), "utf8"));
+const { style, lodge, ...prompts } = JSON.parse(readFileSync(new URL("image-prompts.json", root), "utf8"));
 const reference = readFileSync(new URL("reference.png", root));
 
 // Both return the image as a Buffer, or throw with the API's error message.
@@ -101,7 +101,9 @@ for (const [part, only] of parts) {
 
     console.log(`${label}: generating with ${provider}…`);
     try {
-      const image = await generate(`Match the art style of the attached reference image.\n\n${style}\n\nScene: ${scene}`);
+      // the lodge description only goes along when the scene has a lodge in it
+      const setting = /lodge/i.test(scene) ? `\n\n${lodge}` : "";
+      const image = await generate(`Match the art style of the attached reference image.\n\n${style}${setting}\n\nScene: ${scene}`);
       mkdirSync(originalsDir, { recursive: true });
       const original = new URL(`${base}.png`, originalsDir).pathname;
       writeFileSync(original, image);
