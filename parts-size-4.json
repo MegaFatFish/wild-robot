@@ -47,9 +47,10 @@
       "questions": [
         "How did the robot end up on the island?",
         "Why did Roz survive when the other four robots were broken?",
-        "How did the otters accidentally switch Roz on?",
-        "How did Roz get out of her crate?"
+        "How did the otters accidentally switch Roz on?"
       ],
+      "thinkingQuestion": "Roz has just climbed out of her crate and knows nothing about the world. What do you think the island animals will think when they see her? What do you think she will do first?",
+      "extraQuestion": "Roz says she will complete any task she is given, but there is nobody on the island to give her one. If you woke up somewhere completely new, what would you do first?",
       "imageAlt": "Roz stands beside a cracked wooden crate on top of a rock in the sea while three otters peek over its edge. Broken robot parts lie on the rocks below.",
       "chapters": [
         {
@@ -191,11 +192,12 @@
         }
       ],
       "questions": [
-        "Why did the otters run away from Roz?",
         "What happened to Roz when the giant wave crashed over the gravesite?",
         "Which animal taught Roz how to climb, and how?",
         "Why did Roz leave the forest and head for the mountain?"
       ],
+      "thinkingQuestion": "Roz is climbing the mountain to get away from the pinecones. What do you think she will see from the top? Do you think the mountain will really be a safe place for her?",
+      "extraQuestion": "Roz cleans off every speck of dirt as soon as she gets dirty. Why do you think that is so important to her? Is there something you like to keep perfect?",
       "imageAlt": "Roz climbs a steep cliff with her long arms, while seagulls fly over a shore scattered with robot parts.",
       "chapters": [
         {
@@ -338,10 +340,11 @@
       ],
       "questions": [
         "What did Roz realize when she stood on top of the mountain?",
-        "What did Roz not know about how she came to the island?",
         "How did Roz sleep on her first night?",
         "What saved Roz from going over the cliff during the storm?"
       ],
+      "thinkingQuestion": "The narrator says that, as far as Roz knew, the island was her home. Do you think a robot really belongs in the wild? What do you think Roz will have to learn to survive there?",
+      "extraQuestion": "Roz watched her very first sunset and saw the stars come out one by one. Think of a time you saw something for the first time. How did it feel?",
       "imageAlt": "Roz stands alone on a mountain peak, looking out over the island and the misty sea.",
       "chapters": [
         {
@@ -484,10 +487,11 @@
       ],
       "questions": [
         "How had the animals survived the storm so well?",
-        "Why did the bears chase Roz?",
         "Why couldn't Roz fight back against the bears, and how did she escape them?",
         "Why was the robin so angry with Roz?"
       ],
+      "thinkingQuestion": "Roz keeps getting hurt, and many animals are afraid of her or angry with her. What do you think she could do to stay safe? What do you think she will try next?",
+      "extraQuestion": "Roz's programming does not let her be violent, not even when the bears attack her. Do you think that is a good rule? Why or why not?",
       "imageAlt": "Roz sits in a pine tree hung with pinecones while two young bears look up at her from the ground.",
       "chapters": [
         {
@@ -631,9 +635,10 @@
       "questions": [
         "What lesson did Roz learn from the stick insect?",
         "How did Roz camouflage herself?",
-        "What did Roz do while she was hidden in the wilderness?",
         "How did Roz learn to understand the language of the animals?"
       ],
+      "thinkingQuestion": "Roz can understand the animals now, but they have never heard her speak. What do you think will happen when she finally talks to them? Will they be friendly?",
+      "extraQuestion": "Roz learned a lot just by sitting still and watching carefully. What do you think you could learn if you sat quietly outside and watched for an hour?",
       "imageAlt": "Roz sits covered in mud, moss, leaves and flowers, with only her eye showing, as bees fly around her.",
       "chapters": [
         {
@@ -777,9 +782,10 @@
       "questions": [
         "What is the Dawn Truce?",
         "How did the animals react when Roz introduced herself?",
-        "How did Roz help Fink the fox?",
-        "What did Roz realize after the rocks fell from the cliff?"
+        "How did Roz help Fink the fox?"
       ],
+      "thinkingQuestion": "Roz has just found out that her accident killed a family of geese. What do you think she will do now? Is there anything she can do to make it right?",
+      "extraQuestion": "The animals said unkind things about Roz just because she was different. Why do you think they did that? How would you have treated her?",
       "imageAlt": "Roz stands up out of a crumbling grassy mound while an owl, a fox, a weasel, a groundhog and a deer stare at her.",
       "chapters": [
         {
@@ -921,11 +927,12 @@
         }
       ],
       "questions": [
-        "Why did Roz decide to keep the goose egg?",
         "What did Pinktail the opossum teach Roz about survival?",
         "What was the first thing the gosling saw when he hatched?",
         "What did Loudwing tell Roz she must do to be a mother, and how did Brightbill get his name?"
       ],
+      "thinkingQuestion": "Loudwing says it will take a miracle for Brightbill to survive with a robot for a mother. Do you think Roz can be a good mother? What do you think will be the hardest part for her?",
+      "extraQuestion": "Pinktail says pretending can help you survive and make friends. Is it okay to act like something you are not? Can acting friendly turn into really being friendly?",
       "imageAlt": "At night under a full moon, Roz sits on an oak branch holding a small nest with one egg in it.",
       "chapters": [
         {
@@ -1069,9 +1076,10 @@
       "questions": [
         "What gift did Roz bring to the beavers, and why?",
         "How did Roz learn to make fire?",
-        "Why did Roz name the lodge the Nest?",
-        "What did Tawny ask for in return for helping with the garden?"
+        "Why did Roz name the lodge the Nest?"
       ],
+      "thinkingQuestion": "Mr. Beaver thinks a garden will help Roz make friends. Do you think it will work? What do you think will happen when Tawny helps her grow it?",
+      "extraQuestion": "On the first night in the Nest, Brightbill only felt safe in his mother's arms. What makes you feel safe and at home?",
       "imageAlt": "Roz, with a tiny gosling on her shoulder, stands next to a beaver in front of a round lodge by a pond. Smoke rises from the top of the lodge.",
       "chapters": [
         {
@@ -1203,9 +1211,10 @@
       "questions": [
         "How did the animals help make the soil rich for the garden?",
         "How did the garden help Roz make friends?",
-        "Why couldn't Roz go swimming with Brightbill, and who saved him from Rockmouth?",
-        "What did Loudwing say about Brightbill eating pebbles?"
+        "Why couldn't Roz go swimming with Brightbill, and who saved him from Rockmouth?"
       ],
+      "thinkingQuestion": "Brightbill is growing bigger every day. What do you think he will learn next? How could Roz help him with something she can't do herself, like flying?",
+      "extraQuestion": "Roz realizes that she needs Brightbill just as much as he needs her. Who do you need, and who needs you?",
       "imageAlt": "Roz stands in the shallows of a pond while a line of goslings swims behind an adult goose.",
       "chapters": [
         {
@@ -1348,10 +1357,11 @@
       ],
       "questions": [
         "How did Brightbill and Chitchat become friends?",
-        "Why did Roz enjoy listening to Chitchat and Brightbill?",
         "How did Roz help Brightbill learn to fly?",
         "What mysterious thing did Roz and Brightbill see far out at sea?"
       ],
+      "thinkingQuestion": "Roz and Brightbill saw a ship, but they don't know who uses it. Where do you think it came from? Could it have something to do with how Roz came to the island?",
+      "extraQuestion": "Chitchat worried that she talked too much, but Brightbill said she talked \"just enough.\" What do you think makes someone a good friend?",
       "imageAlt": "A young goose takes off from a grassy hill by the sea while Roz watches. A small ship sits far out on the water.",
       "chapters": [
         {
@@ -1493,11 +1503,12 @@
         }
       ],
       "questions": [
-        "What did Roz, Brightbill, and Chitchat do together during the summer?",
         "Why were the other goslings teasing Brightbill?",
         "What did Roz tell Brightbill about his birth mother?",
         "Why did Brightbill fly away, and where did Roz find him?"
       ],
+      "thinkingQuestion": "Roz and Brightbill are about to go down to the robot gravesite together. What do you think they will find there? How might it change the way Brightbill feels about his mother?",
+      "extraQuestion": "Brightbill says, \"We're a strange family, but I kind of like it that way.\" What do you think makes a family a family?",
       "imageAlt": "At night by the pond, Roz, a goose and a squirrel sit in the grass among fireflies under a starry sky.",
       "chapters": [
         {
@@ -1640,10 +1651,11 @@
       ],
       "questions": [
         "What did Brightbill discover on the back of the dead robot's head?",
-        "Why did Nettle and Thorn attack Roz on the clifftop?",
         "How did Roz save Thorn after he fell off the cliff?",
         "Who made Roz's new foot, and how did each of them help?"
       ],
+      "thinkingQuestion": "Roz has a button on the back of her head that she cannot press herself. What do you think will happen if someone presses it? Should they try?",
+      "extraQuestion": "Roz saved Thorn, even though he had just pulled off her foot. Why do you think she helped him? Would you have done the same?",
       "imageAlt": "A big bear walks through the forest carrying Roz and a goose on its back, followed by a fox, a fawn, a rabbit and a small bird.",
       "chapters": [
         {
@@ -1787,9 +1799,10 @@
       "questions": [
         "How did Brightbill become such a good flier?",
         "What happened when Brightbill pressed the button on Roz's head?",
-        "How did the animals on the island get ready for winter?",
         "Why couldn't Roz migrate with the geese?"
       ],
+      "thinkingQuestion": "Roz will be alone on the island all winter. She asks, \"How bad could winter be?\" What do you think will happen to Roz and the animals while Brightbill is away?",
+      "extraQuestion": "Brightbill feels a strong urge to fly south, but he also wants to stay with his mother. Have you ever wanted two different things at the same time? What did you do?",
       "imageAlt": "Roz stands at the top of a bare tree as a V of geese flies away across the sky and autumn leaves fall.",
       "chapters": [
         {
@@ -1933,9 +1946,10 @@
       "questions": [
         "Where did Brightbill fly in the V formation, and why?",
         "What happened to Roz and the Nest during the winter?",
-        "How did Roz help the animals survive the cold?",
         "What rule did Roz make for all the animals staying in her lodges?"
       ],
+      "thinkingQuestion": "The lodges are full of animals, and the fires burn day and night. What do you think could go wrong? And how do you think Brightbill and the flock are doing in this cold weather?",
+      "extraQuestion": "In Roz's lodges, hunters slept right next to the animals they usually hunt. Why do you think a hard time can bring very different creatures together?",
       "imageAlt": "In deep snow, animals huddle around a fire inside a round lodge while Roz stands outside.",
       "chapters": [
         {
@@ -2079,9 +2093,10 @@
       "questions": [
         "How did Roz rescue the young hare and put out the fire?",
         "What did Crag the turtle say about how the island was formed?",
-        "What did the animals think Roz's purpose was?",
         "Why was Rockmouth so angry, and how did Roz help him?"
       ],
+      "thinkingQuestion": "The geese will soon come home from the south. What do you think Brightbill has seen on his long journey? Do you think he will have changed?",
+      "extraQuestion": "The animals thought Roz was meant to build, to garden or to care for Brightbill. Roz thought she might be meant \"to help others.\" What do you think you are good at, or meant to do?",
       "imageAlt": "In early spring, animals walk out of the lodge among melting snow and small white flowers while Roz waves from the doorway.",
       "chapters": [
         {
@@ -2225,9 +2240,10 @@
       "questions": [
         "How did Roz act wilder in the spring, and why?",
         "How did Brightbill become the leader of the flock?",
-        "What did Brightbill see at the farm and in the city?",
-        "Why did Brightbill realize how special his mother was?"
+        "What did Brightbill see at the farm and in the city?"
       ],
+      "thinkingQuestion": "Brightbill saw robots like Roz at a farm, in the city and in a factory. Do you think the humans who built Roz will ever come looking for her? What might happen if they do?",
+      "extraQuestion": "Brightbill saw hundreds of robots, but none of them were like Roz. What makes Roz so special? What makes you special?",
       "imageAlt": "Inside the lodge at night, a goose stands by the fire with its wings raised, telling a story, while Roz sits and listens.",
       "chapters": [
         {
@@ -2366,10 +2382,11 @@
       ],
       "questions": [
         "What did Roz invite the animals to, and how did she keep her promise that it would not be dark?",
-        "What did Roz say to the animals before she lit the bonfire?",
         "Who saw the bonfire, and why was that important?",
         "Who were the RECOs, and what did they look like?"
       ],
+      "thinkingQuestion": "The RECOs have landed on the island and are standing face to face with Roz. What do you think they want? What do you think Roz and her animal friends will do?",
+      "extraQuestion": "At the party, Roz said she used to just \"function,\" but the animals taught her how to live. What do you think is the difference between functioning and really living?",
       "imageAlt": "At night, Roz dances in a dress of leaves and flowers beside a huge bonfire. Animals sit around it and birds swirl up through the smoke.",
       "chapters": [
         {
@@ -2511,11 +2528,12 @@
         }
       ],
       "questions": [
-        "Why had the RECOs come to the island?",
         "Why did RECO 1 decide that Roz was defective?",
         "How did the forest animals defeat RECO 3?",
         "How did the bears defeat RECO 2, and who saved Nettle at the waterfall?"
       ],
+      "thinkingQuestion": "Two RECOs are destroyed, but RECO 1 is still hunting Roz, and Roz cannot fight. How do you think she and the animals can stop him? Do you think they will succeed?",
+      "extraQuestion": "Animals that usually hunt each other all worked together to help Roz, and even the fish saved Nettle, a bear. Why do you think everyone helped?",
       "imageAlt": "Three large robots stand side by side in a meadow, with a triangular airship behind them at the foot of a mountain.",
       "chapters": [
         {
@@ -2658,10 +2676,11 @@
       ],
       "questions": [
         "How was RECO 1 able to keep tracking Roz?",
-        "What traps did the animals set for RECO 1?",
         "What happened when Roz and RECO 1 fought over the rifle?",
         "How did Brightbill and the animals save Roz from RECO 1?"
       ],
+      "thinkingQuestion": "Roz is badly broken, and RECO 1 said that more RECOs will come for her. What do you think Roz will decide to do? What would you do if you were her?",
+      "extraQuestion": "Brightbill went into danger to switch his mother back on, even though the flock told him not to. Was he brave or foolish? Why?",
       "imageAlt": "On a foggy, rocky shore, Roz lies half-hidden under seaweed while a large robot stands over her. Birds fly through the mist.",
       "chapters": [
         {
@@ -2803,11 +2822,12 @@
         }
       ],
       "questions": [
-        "What did Roz's closest friends talk about at their meeting?",
         "Why did Roz decide she had to leave the island?",
         "Why did the animals load every robot part onto the airship?",
         "What plan was Roz computing as the airship flew away?"
       ],
+      "thinkingQuestion": "The book ends with Roz flying away to her Makers. What do you think will happen to her when she gets there? Do you think she will ever find her way back to the island and Brightbill?",
+      "extraQuestion": "The narrator asks if Roz was \"defective\" or if she just learned and changed better than anyone imagined. What do you think? Has Roz really become a wild robot?",
       "imageAlt": "A triangular airship rises into the clouds while a crowd of animals and a single goose watch from a hill.",
       "chapters": [
         {

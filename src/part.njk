@@ -43,6 +43,12 @@ eleventyComputed:
       {%- for q in part.questions %}
       <li>{{ q }}</li>
       {%- endfor %}
+      {%- if part.thinkingQuestion %}
+      <li class="question--think"><span class="question-label">Think about it</span>{{ part.thinkingQuestion }}</li>
+      {%- endif %}
+      {%- if part.extraQuestion %}
+      <li class="question--extra"><span class="question-label">Extra</span>{{ part.extraQuestion }}</li>
+      {%- endif %}
     </ol>
   </section>
 

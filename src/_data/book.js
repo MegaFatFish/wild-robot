@@ -66,6 +66,8 @@ export default function () {
         chapterNames: chapters.map((ch) => ch.title),
         glossary: part.glossary.map(toWord),
         questions: part.questions,
+        thinkingQuestion: part.thinkingQuestion ?? null,
+        extraQuestion: part.extraQuestion ?? null,
         image: part.image ? { src: part.image, srcset: null } : findImage(part.part),
         imageAlt: part.imageAlt ?? "",
       };
