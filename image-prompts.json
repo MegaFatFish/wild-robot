@@ -1,23 +1,103 @@
 {
   "style": "Style: Minimalist children's book illustration in grayscale. Simple geometric shapes with soft rounded edges and no outlines. Grainy, speckled texture like gouache or a dry brush on paper. Flat shading with gentle light-to-dark gradients. Lots of empty white or pale background, with the characters isolated and centered. Almost no detail: feathers are shown with a few scalloped lines, eyes are single dots or ovals. Calm, quiet, slightly melancholy mood. Roz the robot: a tall rounded-rectangle head with one pale oval eye and a thin horizontal slit for a mouth; a boxy torso that curves into a rounded bottom; long, smooth, tube-shaped arms; two very tall, thin, straight legs.",
-  "part-1": "A cracked, dented wooden crate rests on a tall shelf of rock above a calm sea. A few sea otters peek curiously over its edge. Scattered robot parts glint on the rocks below.",
-  "part-2": "Roz climbs a steep sea cliff, arms spread wide and gripping the rock. Below her, broken robot parts lie scattered on the shore. Seagulls circle high above.",
-  "part-3": "Roz stands alone on a craggy mountain peak, small against a wide, empty sky. Far below, the island stretches out, surrounded by ocean in every direction.",
-  "part-4": "Roz sits high in a pine tree, looking down. Two young bears glare up at her from the base of the trunk. A few pinecones hang from the branches.",
-  "part-5": "Roz sits perfectly still in a forest clearing, completely covered in mud, ferns, moss and flowers, so she looks like a mound of plants. Only her pale oval eye peeks out. Bees drift around her.",
-  "part-6": "At dawn in a wide meadow, a grassy lump crumbles apart to reveal Roz standing up. A crowd of animals stares at her: an owl on a dead branch, a fox, a weasel, a groundhog and a deer.",
-  "part-7": "Night. Roz sits on a branch of a large, sprawling oak tree, carefully holding a small woven nest with a single goose egg inside. A round moon glows behind her.",
-  "part-8": "Roz and a beaver stand in front of a large, round dome-shaped lodge made of wood and mud, next to a still pond. A tiny gosling sits on Roz's flat shoulder. A thin line of smoke rises from the top of the lodge.",
-  "part-9": "Roz stands in the shallow edge of a pond, watching a line of small goslings paddle across the water behind an old goose. One little gosling trails behind the rest.",
-  "part-10": "On a grassy ridge above the ocean, a young goose rises into the wind with his wings spread, just lifting off the ground. Roz stands nearby watching. A tiny ship sits far out on the horizon.",
-  "part-11": "Evening beside the pond. Roz, a young goose and a small squirrel lie back in the grass, looking up at a sky full of stars. Fireflies float as small glowing dots around them.",
-  "part-12": "A large mother bear walks through the forest carrying Roz on her back. A young goose rides on the bear's broad shoulders. A line of animals follows behind them like a parade.",
-  "part-13": "A V formation of geese flies south across a pale autumn sky. Roz stands at the top of a bare tree, watching them go. A few falling leaves drift in the air.",
-  "part-14": "Winter. The round lodge sits half-buried in deep snow, with warm light glowing from its doorway. Small animals huddle together inside around a fire: a squirrel, hares, an owl, a fox and an opossum.",
-  "part-15": "Early spring. Snow is melting around the round lodge, and small flowers are poking up through the ground. Animals leave the lodge in ones and twos while Roz stands in the doorway watching them go.",
-  "part-16": "Inside the lodge by firelight, a young goose stands and talks with his wings slightly raised, as if telling a long story. Roz sits across the fire, listening closely.",
-  "part-17": "Night in a wide meadow. A huge bonfire burns in the center while Roz dances, wearing a shaggy dress of mud and wildflowers. Animals circle the fire, and birds swirl above it like a tornado of feathers.",
-  "part-18": "Three large, bulky, shiny robots stand side by side in a meadow like a wall, facing the forest edge. A sleek triangular airship rests behind them at the foot of a mountain.",
-  "part-19": "A misty rocky shore scattered with old robot parts. Roz lies camouflaged under a clump of seaweed while a tall, bulky robot looms over her. Geese circle overhead in the fog.",
-  "part-20": "A sleek triangular airship rises into gray, misty clouds above the island. Below, a huge crowd of animals looks up to watch it go, with a single goose in front."
+  "part-1": [
+    "Five wooden crates bob on a calm, empty ocean after a storm. Far away on the horizon, the soft green smudge of an island appears under a clear sky.",
+    "A cracked, dented wooden crate rests on a tall shelf of rock above a calm sea. A few sea otters peek curiously over its edge. Scattered robot parts glint on the rocks below.",
+    "Roz climbs out of her broken wooden crate like a hatchling breaking from a shell, arms raised, with snapped cords and shreds of packing foam around her. The sun shines down on her from above."
+  ],
+  "part-2": [
+    "On a rocky shore, Roz bends over the broken torso of another robot just like her. Robot arms, legs and a head lie scattered on the rocks around her. A few sea otters peek nervously from behind a rock.",
+    "Roz climbs a steep sea cliff, arms spread wide and gripping the rock. Below her, broken robot parts lie scattered on the shore. Seagulls circle high above.",
+    "Roz stands perfectly still in a flat, open patch of pine forest carpeted with needles. Tall pine trunks rise all around her, and a single pinecone bounces off the top of her head."
+  ],
+  "part-3": [
+    "Roz stands alone on a craggy mountain peak, small against a wide, empty sky. Far below, the island stretches out, surrounded by ocean in every direction.",
+    "Night on the mountain peak. Roz sits on the rocks with a bright beam of light shining out from her eye, under a sky filled with countless stars.",
+    "A fierce storm. Rain pours down a steep mountainside as a river of mud rushes toward the edge of a cliff. Right at the edge, Roz clings to the trunk of a lone pine tree with her arms and legs wrapped tightly around it."
+  ],
+  "part-4": [
+    "The morning after a storm. Roz, dented and streaked with mud, walks across a hillside toward the dark mouth of a cave. Below her, the tops of flooded trees poke up out of still water.",
+    "Roz sits high in a pine tree, looking down. Two young bears glare up at her from the base of the trunk. A few pinecones hang from the branches.",
+    "Roz sits on a pine branch while an angry robin flutters and screeches right in her face. A small woven nest sits on the branch just above Roz's head."
+  ],
+  "part-5": [
+    "Roz sits on the forest floor under a heap of broken branches and pine needles, holding a tiny stick insect up close to her eye. The insect looks just like a twig, with two spindly antennae.",
+    "Roz sits perfectly still in a forest clearing, completely covered in mud, ferns, moss and flowers, so she looks like a mound of plants. Only her pale oval eye peeks out. Bees drift around her.",
+    "Sunrise at the edge of a meadow. Roz, camouflaged as a leafy bush, sits completely still while little chickadees perch on her and sing. Two magpies call to each other from across the grass."
+  ],
+  "part-6": [
+    "At dawn in a wide meadow, a grassy lump crumbles apart to reveal Roz standing up. A crowd of animals stares at her: an owl on a dead branch, a fox, a weasel, a groundhog and a deer.",
+    "Roz kneels beside a fox lying on a log and gently pulls long porcupine quills from his face. A neat little pile of quills lies beside them.",
+    "Rain in the forest below a cliff. Roz stands among broken rocks and splintered branches, looking down at a goose nest torn to pieces. One whole egg lies half-hidden under wet leaves nearby."
+  ],
+  "part-7": [
+    "Night. Roz sits on a branch of a large, sprawling oak tree, carefully holding a small woven nest with a single goose egg inside. A round moon glows behind her.",
+    "Up in the oak tree, a tiny fluffy gosling has just hatched in the woven nest, surrounded by bits of broken eggshell. He looks up at Roz, who leans in close to look back at him.",
+    "At the edge of a wide, reedy pond, an old gray goose stands on top of Roz's head and leans down to look at a tiny gosling in the nest on Roz's shoulder. Water drips down Roz's body. Turtles sun themselves on a log nearby."
+  ],
+  "part-8": [
+    "Roz walks carefully along the top of a long beaver dam, carrying a freshly cut birch tree in her hands, with a tiny gosling in a nest on her shoulder. Three beavers float in the pond beside their lodge, staring with open mouths.",
+    "Roz and a beaver stand in front of a large, round dome-shaped lodge made of wood and mud, next to a still pond. A tiny gosling sits on Roz's flat shoulder. A thin line of smoke rises from the top of the lodge.",
+    "Night inside the round lodge. A small fire glows in the fire pit in the middle of the floor. Roz sits on a mossy stone bench, holding a tiny sleeping gosling in her arms."
+  ],
+  "part-9": [
+    "A wild garden full of flowers, berry bushes and herbs surrounds the round lodge. A doe and three spotted fawns nibble the plants while Roz kneels to tend the flowers and a small gosling waddles behind her. Bees and butterflies drift about.",
+    "Roz stands in the shallow edge of a pond, watching a line of small goslings paddle across the water behind an old goose. One little gosling trails behind the rest.",
+    "On a pebbly beach by the pond, Roz holds a young gosling upside down in her hands, trying to get him to drop the pebbles he has swallowed. An old gray goose stands beside them, laughing."
+  ],
+  "part-10": [
+    "In the garden outside the round lodge, a small gosling stands politely on one foot while a tiny squirrel chatters at him with her paws raised. Roz watches from the lodge doorway.",
+    "A young gosling and a small squirrel peek out from either end of a hollow log lying beside the pond. Roz stands among the trees in the background, watching over them.",
+    "On a grassy ridge above the ocean, a young goose rises into the wind with his wings spread, just lifting off the ground. Roz stands nearby watching. A tiny ship sits far out on the horizon."
+  ],
+  "part-11": [
+    "Evening beside the pond. Roz, a young goose and a small squirrel lie back in the grass, looking up at a sky full of stars. Fireflies float as small glowing dots around them.",
+    "In the garden, an angry young goose spreads his wings and runs toward the pond to take off. Roz stands tall behind him, and her long shadow falls across him.",
+    "At the top of a tall sea cliff, a young goose perches at the very edge, looking down at broken robot parts scattered on the rocky shore far below. Roz walks up quietly behind him."
+  ],
+  "part-12": [
+    "At the edge of a cliff, a huge mother bear and a young bear hold Roz's legs in their mouths and lower her headfirst over the side. Below, Roz reaches down with her long arms toward a bear cub clinging to a small tree growing out of the rock wall. Roz's right foot is missing.",
+    "A large mother bear walks through the forest carrying Roz on her back. A young goose rides on the bear's broad shoulders. A line of animals follows behind them like a parade.",
+    "In the garden outside the round lodge, a beaver gnaws a block of wood into the shape of a boot while three fat raccoons tie vines around Roz's leg. A woodpecker pecks at a pine tree, and sticky resin drips down its bark. A small squirrel watches from a branch."
+  ],
+  "part-13": [
+    "Inside the round lodge, Roz sits on the floor, slumped and switched off, with her eye dark. A young goose stands on a stone behind her, nervously reaching his bill toward a small round button on the back of her head.",
+    "Autumn. Roz walks slowly through the forest as leaves drift down around her and cover the ground. Her right foot is a carved wooden boot. Two frogs sit on a rock, enjoying the last warm sunlight.",
+    "A V formation of geese flies south across a pale autumn sky. Roz stands at the top of a bare tree, watching them go. A few falling leaves drift in the air."
+  ],
+  "part-14": [
+    "Winter is beginning. Roz stands alone and still in a bare, gray garden beside the round lodge, watching ice form on the pond. Snowflakes drift down and pile up on her head and shoulders.",
+    "Winter. The round lodge sits half-buried in deep snow, with warm light glowing from its doorway. Small animals huddle together inside around a fire: a squirrel, hares, an owl, a fox and an opossum.",
+    "A snowy winter night across the island. Several round lodges, each glowing warmly from its doorway, dot the white landscape. In the foreground, Roz walks across a frozen pond beside a huge bull moose."
+  ],
+  "part-15": [
+    "A snowy forest at night. Roz bursts out through the wall of a burning lodge into the deep snow, shielding a tiny baby hare in her arms. Flames and smoke rise behind her, and a mother hare waits nearby.",
+    "Early spring. Snow is melting around the round lodge, and small flowers are poking up through the ground. Animals leave the lodge in ones and twos while Roz stands in the doorway watching them go.",
+    "Spring. Roz walks across a flowering meadow toward a winding river, carrying a big wooden barrel full of water. A grumpy pike with big teeth pokes his head out of the top."
+  ],
+  "part-16": [
+    "Roz leaps through a spring meadow alongside a group of deer, her long legs stretched mid-jump just like theirs. Small birds fly around her, and a fox trots close behind.",
+    "A perfect V formation of geese glides down over the trees toward a pond. In the garden in front of the round lodge, the small, graceful goose leading them lands on Roz's shoulder.",
+    "Inside the lodge by firelight, a young goose stands and talks with his wings slightly raised, as if telling a long story. Roz sits across the fire, listening closely."
+  ],
+  "part-17": [
+    "Dusk in a wide meadow. Roz walks out of the dark forest holding a flaming torch high, wearing a shaggy dress of mud and wildflowers. A crowd of animals waits around a huge, tall stack of logs.",
+    "Night in a wide meadow. A huge bonfire burns in the center while Roz dances, wearing a shaggy dress of mud and wildflowers. Animals circle the fire, and birds swirl above it like a tornado of feathers.",
+    "Sunrise on the craggy mountain peak. Roz sits on a rock with a young goose beside her, both looking out over the island and the sea. Far away in the southern sky, a small triangular airship is flying toward them."
+  ],
+  "part-18": [
+    "Three large, bulky, shiny robots stand side by side in a meadow like a wall, facing the forest edge. A sleek triangular airship rests behind them at the foot of a mountain.",
+    "In a swampy forest, a big, bulky, shiny robot is stuck waist-deep in thick mud while a swarm of birds dives at his face. Three raccoons scurry away through the weeds, dragging his long silver rifle.",
+    "A roaring river rushes toward the edge of a tall waterfall. A young bear clings to a rock in the rapids just above the falls, while hundreds of fish crowd around her and push her back upstream. Another young bear reaches out to her from a pile of logs."
+  ],
+  "part-19": [
+    "Rain in a thick forest. A tall tree topples down onto a big, bulky, scratched-up robot as he runs between the trunks. In a pond nearby, two beavers dive back into the water.",
+    "A misty rocky shore scattered with old robot parts. Roz lies camouflaged under a clump of seaweed while a tall, bulky robot looms over her. Geese circle overhead in the fog.",
+    "A misty, rocky shore. All that is left of Roz, just her head and torso with no arms or legs, rests among scattered robot parts. A young goose hugs her face with his wings, while otters and geese gather around, trying to fit a robot arm back onto her body."
+  ],
+  "part-20": [
+    "Inside the round lodge by firelight, Roz, just a broken head and torso, is propped up against the wall. Her closest friends sit around the fire: a young goose, an old goose, a beaver, a fox, an owl, a doe, a squirrel and an old turtle. A huge bear pokes her head in through the doorway.",
+    "Light mist. Roz, broken and with no arms or legs, sits in the open doorway of a sleek triangular airship. A young goose on her shoulder presses his head against her face. A huge crowd of animals of every kind fills the meadow in front of them.",
+    "A sleek triangular airship rises into gray, misty clouds above the island. Below, a huge crowd of animals looks up to watch it go, with a single goose in front."
+  ]
 }

@@ -18,16 +18,14 @@ eleventyComputed:
     <p class="lede">{{ part.chapterNames | join(" · ") }}</p>
   </header>
 
-  <figure class="picture{% if not part.image %} picture--placeholder{% endif %}">
-    {%- if part.image %}
-    <img src="{{ part.image.src }}"
-         {%- if part.image.srcset %} srcset="{{ part.image.srcset }}" sizes="(min-width: 42rem) 40rem, calc(100vw - 2rem)"{% endif %}
-         width="1536" height="1024" fetchpriority="high" decoding="async"
-         alt="{{ part.imageAlt }}">
-    {%- else %}
+  {%- if part.images[0] %}
+  {% set img = part.images[0] %}{% set eager = true %}
+  {% include "picture.njk" %}
+  {%- else %}
+  <figure class="picture picture--placeholder">
     {% include "svg/island-scene.svg" %}
-    {%- endif %}
   </figure>
+  {%- endif %}
 
   <section class="section" aria-labelledby="words-heading">
     <h2 id="words-heading">Words to know</h2>
@@ -35,7 +33,12 @@ eleventyComputed:
     {% include "words.njk" %}
   </section>
 
+  {%- if part.images[1] %}
+  {% set img = part.images[1] %}{% set eager = false %}
+  {% include "picture.njk" %}
+  {%- else %}
   {% include "divider.njk" %}
+  {%- endif %}
 
   <section class="section" aria-labelledby="questions-heading">
     <h2 id="questions-heading">Let’s think</h2>
@@ -51,6 +54,11 @@ eleventyComputed:
       {%- endif %}
     </ol>
   </section>
+
+  {%- if part.images[2] %}
+  {% set img = part.images[2] %}{% set eager = false %}
+  {% include "picture.njk" %}
+  {%- endif %}
 
   <div class="read-toggle">
     <button type="button" class="button" data-read-toggle="{{ part.part }}" aria-pressed="false" hidden>

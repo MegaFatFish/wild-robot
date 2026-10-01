@@ -214,6 +214,11 @@ a {
   border: 1px solid var(--moss-deep);
 }
 
+/* the second and third images sit between sections, spaced like the divider */
+.section + .picture {
+  margin-top: 2.5rem;
+}
+
 .picture img,
 .picture svg {
   display: block;
@@ -504,7 +509,8 @@ a {
   .pager,
   .read-toggle,
   .divider,
-  .picture--placeholder {
+  .picture--placeholder,
+  .picture--extra {
     display: none;
   }
 

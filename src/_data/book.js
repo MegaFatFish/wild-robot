@@ -29,13 +29,18 @@ function toWord(entry) {
   return typeof entry === "string" ? { word: entry } : entry;
 }
 
-// Drop src/img/parts/part-03.jpg (or .webp/.png) in and it shows up on part 3.
-// Smaller copies named part-03-800.jpg / part-03-1200.jpg are offered to phones via srcset.
-function findImage(partNumber) {
-  const name = `part-${String(partNumber).padStart(2, "0")}`;
-  const ext = IMAGE_EXTS.find((e) => existsSync(new URL(`${name}.${e}`, imageDir)));
-  if (!ext) return null;
+// Each part has three images: src/img/parts/part-03-1.jpg, part-03-2.jpg, part-03-3.jpg
+// (or .webp/.png), shown in that order down the page. Missing ones are skipped.
+// Smaller copies named part-03-1-800.jpg / part-03-1-1200.jpg are offered to phones via srcset.
+function findImages(partNumber, alts = []) {
+  return [1, 2, 3].flatMap((n) => {
+    const name = `part-${String(partNumber).padStart(2, "0")}-${n}`;
+    const ext = IMAGE_EXTS.find((e) => existsSync(new URL(`${name}.${e}`, imageDir)));
+    return ext ? [{ ...imageSources(name, ext), alt: alts[n - 1] ?? "" }] : [];
+  });
+}
 
+function imageSources(name, ext) {
   const sizes = IMAGE_WIDTHS.filter((w) => existsSync(new URL(`${name}-${w}.${ext}`, imageDir)));
   return {
     src: `/img/parts/${name}.${ext}`,
@@ -68,8 +73,7 @@ export default function () {
         questions: part.questions,
         thinkingQuestion: part.thinkingQuestion ?? null,
         extraQuestion: part.extraQuestion ?? null,
-        image: part.image ? { src: part.image, srcset: null } : findImage(part.part),
-        imageAlt: part.imageAlt ?? "",
+        images: findImages(part.part, part.imageAlts),
       };
     }),
   };

@@ -1,0 +1,8 @@
+{#- One part image. Set `img` (from part.images) and `eager` before including. -#}
+<figure class="picture{% if not eager %} picture--extra{% endif %}">
+  <img src="{{ img.src }}"
+       {%- if img.srcset %} srcset="{{ img.srcset }}" sizes="(min-width: 42rem) 40rem, calc(100vw - 2rem)"{% endif %}
+       width="1536" height="1024" decoding="async"
+       {%- if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %}
+       alt="{{ img.alt }}">
+</figure>

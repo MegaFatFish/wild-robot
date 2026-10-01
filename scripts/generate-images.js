@@ -1,12 +1,18 @@
-// Generates part images from image-prompts.json, using OpenAI or Gemini.
-//   npm run images          -> every part that doesn't have an image yet
-//   npm run images -- 3 7   -> only parts 3 and 7 (overwrites them)
+// Generates part images from image-prompts.json (three per part), using OpenAI or Gemini.
+//   npm run images            -> every image that doesn't exist yet
+//   npm run images -- 3 7     -> all three images of parts 3 and 7 (overwrites them)
+//   npm run images -- 3-2     -> only the second image of part 3 (overwrites it)
 // Needs OPEN_AI_API or GEMINI_API in .env and the style reference picture at reference.png.
+// The PNG from the API is kept in image-originals/, and macOS's sips turns it into
+// src/img/parts/part-03-2.jpg plus -1200 and -800 copies for the srcset.
 // IMAGE_PROVIDER=openai|gemini picks one; otherwise OpenAI is used when its key is set.
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 
 const root = new URL("../", import.meta.url);
 const outDir = new URL("src/img/parts/", root);
+const originalsDir = new URL("image-originals/", root);
+const EXISTING_EXTS = ["jpg", "jpeg", "png", "webp"];
 
 process.loadEnvFile(new URL(".env", root));
 const provider = process.env.IMAGE_PROVIDER ?? (process.env.OPEN_AI_API ? "openai" : "gemini");
@@ -69,31 +75,44 @@ async function generateGemini(prompt) {
 
 const generate = provider === "gemini" ? generateGemini : generateOpenAI;
 
-const requested = process.argv.slice(2).map(Number);
+// "3" -> every image of part 3, "3-2" -> just the second one
+const requested = process.argv.slice(2).map((arg) => arg.split("-").map(Number));
 const parts = requested.length
   ? requested
-  : Object.keys(prompts).map((key) => Number(key.split("-")[1]));
+  : Object.keys(prompts).map((key) => [Number(key.split("-")[1])]);
 
-for (const part of parts) {
-  const scene = prompts[`part-${part}`];
-  if (!scene) {
-    console.warn(`part ${part}: no prompt, skipping`);
+for (const [part, only] of parts) {
+  const scenes = prompts[`part-${part}`];
+  if (!scenes) {
+    console.warn(`part ${part}: no prompts, skipping`);
     continue;
   }
 
-  const name = `part-${String(part).padStart(2, "0")}.png`;
-  const file = new URL(name, outDir);
-  if (!requested.length && existsSync(file)) {
-    console.log(`part ${part}: already exists, skipping`);
-    continue;
-  }
+  for (const [i, scene] of scenes.entries()) {
+    const n = i + 1;
+    if (only && only !== n) continue;
 
-  console.log(`part ${part}: generating with ${provider}…`);
-  try {
-    const image = await generate(`Match the art style of the attached reference image.\n\n${style}\n\nScene: ${scene}`);
-    writeFileSync(file, image);
-    console.log(`part ${part}: saved src/img/parts/${name}`);
-  } catch (err) {
-    console.error(`part ${part}: ${err.message}`);
+    const base = `part-${String(part).padStart(2, "0")}-${n}`;
+    const label = `part ${part} image ${n}`;
+    if (!requested.length && EXISTING_EXTS.some((e) => existsSync(new URL(`${base}.${e}`, outDir)))) {
+      console.log(`${label}: already exists, skipping`);
+      continue;
+    }
+
+    console.log(`${label}: generating with ${provider}…`);
+    try {
+      const image = await generate(`Match the art style of the attached reference image.\n\n${style}\n\nScene: ${scene}`);
+      mkdirSync(originalsDir, { recursive: true });
+      const original = new URL(`${base}.png`, originalsDir).pathname;
+      writeFileSync(original, image);
+      for (const [width, suffix] of [[null, ""], [1200, "-1200"], [800, "-800"]]) {
+        const resize = width ? ["--resampleWidth", String(width)] : [];
+        const out = new URL(`${base}${suffix}.jpg`, outDir).pathname;
+        execFileSync("sips", ["-s", "format", "jpeg", "-s", "formatOptions", "70", ...resize, original, "--out", out], { stdio: "ignore" });
+      }
+      console.log(`${label}: saved src/img/parts/${base}.jpg (+ -1200, -800)`);
+    } catch (err) {
+      console.error(`${label}: ${err.message}`);
+    }
   }
 }
