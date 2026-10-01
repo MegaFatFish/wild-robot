@@ -5,43 +5,53 @@
       "glossary": [
         {
           "word": "hurricane",
-          "meaning": "a huge storm with very strong winds and heavy rain"
+          "meaning": "a huge storm with very strong winds and heavy rain",
+          "swedish": "orkan"
         },
         {
           "word": "torsos",
-          "meaning": "the middle parts of bodies, without the head, arms or legs"
+          "meaning": "the middle parts of bodies, without the head, arms or legs",
+          "swedish": "bålar"
         },
         {
           "word": "gash",
-          "meaning": "a long, deep cut or crack"
+          "meaning": "a long, deep cut or crack",
+          "swedish": "reva"
         },
         {
           "word": "hatchling",
-          "meaning": "a baby animal that has just come out of its egg"
+          "meaning": "a baby animal that has just come out of its egg",
+          "swedish": "nykläckt unge"
         },
         {
           "word": "skittered",
-          "meaning": "moved quickly and lightly, bouncing along"
+          "meaning": "moved quickly and lightly, bouncing along",
+          "swedish": "kilade"
         },
         {
           "word": "smudge",
-          "meaning": "a small, blurry mark"
+          "meaning": "a small, blurry mark",
+          "swedish": "fläck"
         },
         {
           "word": "romping",
-          "meaning": "playing in a rough, happy, lively way"
+          "meaning": "playing in a rough, happy, lively way",
+          "swedish": "busande"
         },
         {
           "word": "overlooking",
-          "meaning": "sitting above something, with a view down onto it"
+          "meaning": "sitting above something, with a view down onto it",
+          "swedish": "med utsikt över"
         },
         {
           "word": "curiosity",
-          "meaning": "the wish to find out about something"
+          "meaning": "the wish to find out about something",
+          "swedish": "nyfikenhet"
         },
         {
           "word": "restrained",
-          "meaning": "held back so it could not move"
+          "meaning": "held back so it could not move",
+          "swedish": "fastspänd"
         }
       ],
       "questions": [
@@ -63,15 +73,18 @@
           "glossary": [
             {
               "word": "transporting",
-              "meaning": "carrying things from one place to another"
+              "meaning": "carrying things from one place to another",
+              "swedish": "transporterade"
             },
             {
               "word": "smudge",
-              "meaning": "a small, blurry mark"
+              "meaning": "a small, blurry mark",
+              "swedish": "fläck"
             },
             {
               "word": "skittered",
-              "meaning": "moved quickly and lightly, bouncing along"
+              "meaning": "moved quickly and lightly, bouncing along",
+              "swedish": "kilade"
             }
           ],
           "questions": [
@@ -86,15 +99,18 @@
           "glossary": [
             {
               "word": "romping",
-              "meaning": "playing in a rough, happy, lively way"
+              "meaning": "playing in a rough, happy, lively way",
+              "swedish": "busande"
             },
             {
               "word": "clinking",
-              "meaning": "making a short, light ringing sound, like glass or metal tapping"
+              "meaning": "making a short, light ringing sound, like glass or metal tapping",
+              "swedish": "klirrande"
             },
             {
               "word": "overlooking",
-              "meaning": "sitting above something, with a view down onto it"
+              "meaning": "sitting above something, with a view down onto it",
+              "swedish": "med utsikt över"
             }
           ],
           "questions": [
@@ -109,15 +125,18 @@
           "glossary": [
             {
               "word": "activating",
-              "meaning": "switching on and starting to work"
+              "meaning": "switching on and starting to work",
+              "swedish": "aktiverar"
             },
             {
               "word": "communicate",
-              "meaning": "to share ideas and information by talking, signing or writing"
+              "meaning": "to share ideas and information by talking, signing or writing",
+              "swedish": "kommunicera"
             },
             {
               "word": "online",
-              "meaning": "switched on and working"
+              "meaning": "switched on and working",
+              "swedish": "påslagen"
             }
           ],
           "questions": [
@@ -132,15 +151,18 @@
           "glossary": [
             {
               "word": "curiosity",
-              "meaning": "the wish to find out about something"
+              "meaning": "the wish to find out about something",
+              "swedish": "nyfikenhet"
             },
             {
               "word": "absorbing",
-              "meaning": "taking something in, like a sponge takes in water"
+              "meaning": "taking something in, like a sponge takes in water",
+              "swedish": "absorberar"
             },
             {
               "word": "restrained",
-              "meaning": "held back so it could not move"
+              "meaning": "held back so it could not move",
+              "swedish": "fastspänd"
             }
           ],
           "questions": [
@@ -156,43 +178,53 @@
       "glossary": [
         {
           "word": "gravesite",
-          "meaning": "a place where the dead lie"
+          "meaning": "a place where the dead lie",
+          "swedish": "gravplats"
         },
         {
           "word": "engulfed",
-          "meaning": "completely covered or swallowed up"
+          "meaning": "completely covered or swallowed up",
+          "swedish": "uppslukad"
         },
         {
           "word": "technique",
-          "meaning": "a special way of doing something"
+          "meaning": "a special way of doing something",
+          "swedish": "teknik"
         },
         {
           "word": "awkwardly",
-          "meaning": "in a clumsy, not very smooth way"
+          "meaning": "in a clumsy, not very smooth way",
+          "swedish": "klumpigt"
         },
         {
           "word": "lingered",
-          "meaning": "stayed a bit longer than needed"
+          "meaning": "stayed a bit longer than needed",
+          "swedish": "dröjde sig kvar"
         },
         {
           "word": "scuttled",
-          "meaning": "ran with short, quick steps"
+          "meaning": "ran with short, quick steps",
+          "swedish": "kilade"
         },
         {
           "word": "standoff",
-          "meaning": "a moment when two sides face each other and neither moves"
+          "meaning": "a moment when two sides face each other and neither moves",
+          "swedish": "dödläge"
         },
         {
           "word": "footholds",
-          "meaning": "places where a foot can rest safely while climbing"
+          "meaning": "places where a foot can rest safely while climbing",
+          "swedish": "fotfästen"
         },
         {
           "word": "jagged",
-          "meaning": "rough and sharp, with uneven points"
+          "meaning": "rough and sharp, with uneven points",
+          "swedish": "taggig"
         },
         {
           "word": "towered",
-          "meaning": "stood very tall above everything else"
+          "meaning": "stood very tall above everything else",
+          "swedish": "tornade upp sig"
         }
       ],
       "questions": [
@@ -214,15 +246,18 @@
           "glossary": [
             {
               "word": "lingered",
-              "meaning": "stayed a bit longer than needed"
+              "meaning": "stayed a bit longer than needed",
+              "swedish": "dröjde sig kvar"
             },
             {
               "word": "functioning",
-              "meaning": "working the way it should"
+              "meaning": "working the way it should",
+              "swedish": "fungerande"
             },
             {
               "word": "urging",
-              "meaning": "strongly pushing someone to do something"
+              "meaning": "strongly pushing someone to do something",
+              "swedish": "manade"
             }
           ],
           "questions": [
@@ -237,15 +272,18 @@
           "glossary": [
             {
               "word": "scuttled",
-              "meaning": "ran with short, quick steps"
+              "meaning": "ran with short, quick steps",
+              "swedish": "kilade"
             },
             {
               "word": "standoff",
-              "meaning": "a moment when two sides face each other and neither moves"
+              "meaning": "a moment when two sides face each other and neither moves",
+              "swedish": "dödläge"
             },
             {
               "word": "footholds",
-              "meaning": "places where a foot can rest safely while climbing"
+              "meaning": "places where a foot can rest safely while climbing",
+              "swedish": "fotfästen"
             }
           ],
           "questions": [
@@ -260,15 +298,18 @@
           "glossary": [
             {
               "word": "jagged",
-              "meaning": "rough and sharp, with uneven points"
+              "meaning": "rough and sharp, with uneven points",
+              "swedish": "taggig"
             },
             {
               "word": "timber",
-              "meaning": "wood from trees, or a fallen tree"
+              "meaning": "wood from trees, or a fallen tree",
+              "swedish": "timmer"
             },
             {
               "word": "irregular",
-              "meaning": "uneven, not in a neat or regular shape"
+              "meaning": "uneven, not in a neat or regular shape",
+              "swedish": "oregelbunden"
             }
           ],
           "questions": [
@@ -283,15 +324,18 @@
           "glossary": [
             {
               "word": "gust",
-              "meaning": "a sudden, strong rush of wind"
+              "meaning": "a sudden, strong rush of wind",
+              "swedish": "vindby"
             },
             {
               "word": "towered",
-              "meaning": "stood very tall above everything else"
+              "meaning": "stood very tall above everything else",
+              "swedish": "tornade upp sig"
             },
             {
               "word": "trunks",
-              "meaning": "the thick main stems of trees"
+              "meaning": "the thick main stems of trees",
+              "swedish": "stammar"
             }
           ],
           "questions": [
@@ -307,43 +351,53 @@
       "glossary": [
         {
           "word": "teeming",
-          "meaning": "full of lots of living things moving around"
+          "meaning": "full of lots of living things moving around",
+          "swedish": "myllrande"
         },
         {
           "word": "shelter",
-          "meaning": "a place that keeps you safe from danger or bad weather"
+          "meaning": "a place that keeps you safe from danger or bad weather",
+          "swedish": "skydd"
         },
         {
           "word": "anchored",
-          "meaning": "held firmly in place so it would not move"
+          "meaning": "held firmly in place so it would not move",
+          "swedish": "förankrad"
         },
         {
           "word": "whisked",
-          "meaning": "carried away very quickly"
+          "meaning": "carried away very quickly",
+          "swedish": "sveptes iväg"
         },
         {
           "word": "outcrops",
-          "meaning": "big rocks that stick up out of the ground"
+          "meaning": "big rocks that stick up out of the ground",
+          "swedish": "klippformationer"
         },
         {
           "word": "foothills",
-          "meaning": "low hills at the bottom of a mountain"
+          "meaning": "low hills at the bottom of a mountain",
+          "swedish": "förberg"
         },
         {
           "word": "artificial",
-          "meaning": "made by people or machines, not by nature"
+          "meaning": "made by people or machines, not by nature",
+          "swedish": "konstgjord"
         },
         {
           "word": "conserve",
-          "meaning": "to save something so it is not used up"
+          "meaning": "to save something so it is not used up",
+          "swedish": "spara"
         },
         {
           "word": "mudslide",
-          "meaning": "a large amount of wet mud sliding quickly down a hill"
+          "meaning": "a large amount of wet mud sliding quickly down a hill",
+          "swedish": "lerskred"
         },
         {
           "word": "frantically",
-          "meaning": "in a wild, panicked hurry"
+          "meaning": "in a wild, panicked hurry",
+          "swedish": "panikartat"
         }
       ],
       "questions": [
@@ -365,15 +419,18 @@
           "glossary": [
             {
               "word": "outcrops",
-              "meaning": "big rocks that stick up out of the ground"
+              "meaning": "big rocks that stick up out of the ground",
+              "swedish": "klippformationer"
             },
             {
               "word": "foothills",
-              "meaning": "low hills at the bottom of a mountain"
+              "meaning": "low hills at the bottom of a mountain",
+              "swedish": "förberg"
             },
             {
               "word": "artificial",
-              "meaning": "made by people or machines, not by nature"
+              "meaning": "made by people or machines, not by nature",
+              "swedish": "konstgjord"
             }
           ],
           "questions": [
@@ -388,15 +445,18 @@
           "glossary": [
             {
               "word": "warehouse",
-              "meaning": "a large building where goods are kept before they are sold"
+              "meaning": "a large building where goods are kept before they are sold",
+              "swedish": "lagerlokal"
             },
             {
               "word": "ashore",
-              "meaning": "onto the land from the sea"
+              "meaning": "onto the land from the sea",
+              "swedish": "i land"
             },
             {
               "word": "stored",
-              "meaning": "kept somewhere until it was needed"
+              "meaning": "kept somewhere until it was needed",
+              "swedish": "förvarade"
             }
           ],
           "questions": [
@@ -411,15 +471,18 @@
           "glossary": [
             {
               "word": "conserve",
-              "meaning": "to save something so it is not used up"
+              "meaning": "to save something so it is not used up",
+              "swedish": "spara"
             },
             {
               "word": "illuminating",
-              "meaning": "lighting something up"
+              "meaning": "lighting something up",
+              "swedish": "lyste upp"
             },
             {
               "word": "nonessential",
-              "meaning": "not really needed"
+              "meaning": "not really needed",
+              "swedish": "icke nödvändig"
             }
           ],
           "questions": [
@@ -434,15 +497,18 @@
           "glossary": [
             {
               "word": "mudslide",
-              "meaning": "a large amount of wet mud sliding quickly down a hill"
+              "meaning": "a large amount of wet mud sliding quickly down a hill",
+              "swedish": "lerskred"
             },
             {
               "word": "frantically",
-              "meaning": "in a wild, panicked hurry"
+              "meaning": "in a wild, panicked hurry",
+              "swedish": "panikartat"
             },
             {
               "word": "pelting",
-              "meaning": "hitting over and over again"
+              "meaning": "hitting over and over again",
+              "swedish": "piskande"
             }
           ],
           "questions": [
@@ -458,43 +524,53 @@
       "glossary": [
         {
           "word": "aftermath",
-          "meaning": "what is left after something bad has happened"
+          "meaning": "what is left after something bad has happened",
+          "swedish": "efterspel"
         },
         {
           "word": "lurking",
-          "meaning": "hiding and waiting, often up to no good"
+          "meaning": "hiding and waiting, often up to no good",
+          "swedish": "lurade"
         },
         {
           "word": "vanished",
-          "meaning": "disappeared suddenly"
+          "meaning": "disappeared suddenly",
+          "swedish": "försvann"
         },
         {
           "word": "resin",
-          "meaning": "a thick, sticky liquid that comes out of pine trees"
+          "meaning": "a thick, sticky liquid that comes out of pine trees",
+          "swedish": "kåda"
         },
         {
           "word": "debris",
-          "meaning": "broken pieces and rubbish lying around"
+          "meaning": "broken pieces and rubbish lying around",
+          "swedish": "bråte"
         },
         {
           "word": "submerged",
-          "meaning": "completely under water"
+          "meaning": "completely under water",
+          "swedish": "under vatten"
         },
         {
           "word": "refuge",
-          "meaning": "a safe place to go when there is danger"
+          "meaning": "a safe place to go when there is danger",
+          "swedish": "tillflykt"
         },
         {
           "word": "instinct",
-          "meaning": "something an animal knows how to do without being taught"
+          "meaning": "something an animal knows how to do without being taught",
+          "swedish": "instinkt"
         },
         {
           "word": "lobbed",
-          "meaning": "threw something gently in a high curve"
+          "meaning": "threw something gently in a high curve",
+          "swedish": "lobbade"
         },
         {
           "word": "frenzy",
-          "meaning": "a state of wild excitement or anger"
+          "meaning": "a state of wild excitement or anger",
+          "swedish": "vansinne"
         }
       ],
       "questions": [
@@ -516,15 +592,18 @@
           "glossary": [
             {
               "word": "debris",
-              "meaning": "broken pieces and rubbish lying around"
+              "meaning": "broken pieces and rubbish lying around",
+              "swedish": "bråte"
             },
             {
               "word": "submerged",
-              "meaning": "completely under water"
+              "meaning": "completely under water",
+              "swedish": "under vatten"
             },
             {
               "word": "refuge",
-              "meaning": "a safe place to go when there is danger"
+              "meaning": "a safe place to go when there is danger",
+              "swedish": "tillflykt"
             }
           ],
           "questions": [
@@ -539,15 +618,18 @@
           "glossary": [
             {
               "word": "instinct",
-              "meaning": "something an animal knows how to do without being taught"
+              "meaning": "something an animal knows how to do without being taught",
+              "swedish": "instinkt"
             },
             {
               "word": "outrun",
-              "meaning": "to run faster than someone and get away"
+              "meaning": "to run faster than someone and get away",
+              "swedish": "springa ifrån"
             },
             {
               "word": "attackers",
-              "meaning": "those who attack or try to hurt someone"
+              "meaning": "those who attack or try to hurt someone",
+              "swedish": "angripare"
             }
           ],
           "questions": [
@@ -562,15 +644,18 @@
           "glossary": [
             {
               "word": "lobbed",
-              "meaning": "threw something gently in a high curve"
+              "meaning": "threw something gently in a high curve",
+              "swedish": "lobbade"
             },
             {
               "word": "frenzy",
-              "meaning": "a state of wild excitement or anger"
+              "meaning": "a state of wild excitement or anger",
+              "swedish": "vansinne"
             },
             {
               "word": "accuracy",
-              "meaning": "the skill of hitting exactly what you aim at"
+              "meaning": "the skill of hitting exactly what you aim at",
+              "swedish": "träffsäkerhet"
             }
           ],
           "questions": [
@@ -585,15 +670,18 @@
           "glossary": [
             {
               "word": "delicate",
-              "meaning": "fine and easy to break"
+              "meaning": "fine and easy to break",
+              "swedish": "ömtålig"
             },
             {
               "word": "screeching",
-              "meaning": "making a loud, high, harsh sound"
+              "meaning": "making a loud, high, harsh sound",
+              "swedish": "skrikande"
             },
             {
               "word": "messier",
-              "meaning": "even more untidy and dirty"
+              "meaning": "even more untidy and dirty",
+              "swedish": "stökigare"
             }
           ],
           "questions": [
@@ -609,43 +697,53 @@
       "glossary": [
         {
           "word": "camouflaged",
-          "meaning": "colored or covered so it blends in and is hard to see"
+          "meaning": "colored or covered so it blends in and is hard to see",
+          "swedish": "kamouflerad"
         },
         {
           "word": "peculiar",
-          "meaning": "strange or unusual"
+          "meaning": "strange or unusual",
+          "swedish": "egendomlig"
         },
         {
           "word": "observed",
-          "meaning": "watched carefully"
+          "meaning": "watched carefully",
+          "swedish": "observerade"
         },
         {
           "word": "landscape",
-          "meaning": "everything you can see in an area of land, like hills, trees and rocks"
+          "meaning": "everything you can see in an area of land, like hills, trees and rocks",
+          "swedish": "landskap"
         },
         {
           "word": "antennae",
-          "meaning": "the two thin feelers on an insect's head"
+          "meaning": "the two thin feelers on an insect's head",
+          "swedish": "antenner"
         },
         {
           "word": "spindly",
-          "meaning": "long, thin and weak-looking"
+          "meaning": "long, thin and weak-looking",
+          "swedish": "spinkig"
         },
         {
           "word": "disguise",
-          "meaning": "to change how something looks so no one recognizes it"
+          "meaning": "to change how something looks so no one recognizes it",
+          "swedish": "förklä"
         },
         {
           "word": "bramble",
-          "meaning": "a prickly bush, like a blackberry bush"
+          "meaning": "a prickly bush, like a blackberry bush",
+          "swedish": "björnbärssnår"
         },
         {
           "word": "intricate",
-          "meaning": "having lots of small, detailed parts"
+          "meaning": "having lots of small, detailed parts",
+          "swedish": "invecklad"
         },
         {
           "word": "tadpoles",
-          "meaning": "baby frogs that live in water and have tails"
+          "meaning": "baby frogs that live in water and have tails",
+          "swedish": "grodyngel"
         }
       ],
       "questions": [
@@ -667,15 +765,18 @@
           "glossary": [
             {
               "word": "antennae",
-              "meaning": "the two thin feelers on an insect's head"
+              "meaning": "the two thin feelers on an insect's head",
+              "swedish": "antenner"
             },
             {
               "word": "spindly",
-              "meaning": "long, thin and weak-looking"
+              "meaning": "long, thin and weak-looking",
+              "swedish": "spinkig"
             },
             {
               "word": "rigorous",
-              "meaning": "very careful and thorough"
+              "meaning": "very careful and thorough",
+              "swedish": "noggrann"
             }
           ],
           "questions": [
@@ -690,15 +791,18 @@
           "glossary": [
             {
               "word": "disguise",
-              "meaning": "to change how something looks so no one recognizes it"
+              "meaning": "to change how something looks so no one recognizes it",
+              "swedish": "förklä"
             },
             {
               "word": "bramble",
-              "meaning": "a prickly bush, like a blackberry bush"
+              "meaning": "a prickly bush, like a blackberry bush",
+              "swedish": "björnbärssnår"
             },
             {
               "word": "unseen",
-              "meaning": "not seen by anyone"
+              "meaning": "not seen by anyone",
+              "swedish": "osedd"
             }
           ],
           "questions": [
@@ -713,15 +817,18 @@
           "glossary": [
             {
               "word": "intricate",
-              "meaning": "having lots of small, detailed parts"
+              "meaning": "having lots of small, detailed parts",
+              "swedish": "invecklad"
             },
             {
               "word": "carcasses",
-              "meaning": "the bodies of dead animals"
+              "meaning": "the bodies of dead animals",
+              "swedish": "kadaver"
             },
             {
               "word": "tadpoles",
-              "meaning": "baby frogs that live in water and have tails"
+              "meaning": "baby frogs that live in water and have tails",
+              "swedish": "grodyngel"
             }
           ],
           "questions": [
@@ -736,15 +843,18 @@
           "glossary": [
             {
               "word": "species",
-              "meaning": "a kind or type of animal or plant"
+              "meaning": "a kind or type of animal or plant",
+              "swedish": "art"
             },
             {
               "word": "accent",
-              "meaning": "the special way a group of people or animals pronounce words"
+              "meaning": "the special way a group of people or animals pronounce words",
+              "swedish": "brytning"
             },
             {
               "word": "nectar",
-              "meaning": "the sweet liquid inside flowers that bees collect"
+              "meaning": "the sweet liquid inside flowers that bees collect",
+              "swedish": "nektar"
             }
           ],
           "questions": [
@@ -760,43 +870,53 @@
       "glossary": [
         {
           "word": "truce",
-          "meaning": "an agreement to stop fighting for a while"
+          "meaning": "an agreement to stop fighting for a while",
+          "swedish": "vapenvila"
         },
         {
           "word": "gathering",
-          "meaning": "a meeting where many come together"
+          "meaning": "a meeting where many come together",
+          "swedish": "sammankomst"
         },
         {
           "word": "agony",
-          "meaning": "very great pain"
+          "meaning": "very great pain",
+          "swedish": "plåga"
         },
         {
           "word": "rubble",
-          "meaning": "broken pieces of rock, stone or wood"
+          "meaning": "broken pieces of rock, stone or wood",
+          "swedish": "spillror"
         },
         {
           "word": "residents",
-          "meaning": "those who live in a place"
+          "meaning": "those who live in a place",
+          "swedish": "invånare"
         },
         {
           "word": "disbelief",
-          "meaning": "the feeling of not being able to believe something"
+          "meaning": "the feeling of not being able to believe something",
+          "swedish": "misstro"
         },
         {
           "word": "prowl",
-          "meaning": "moving around quietly, as if hunting"
+          "meaning": "moving around quietly, as if hunting",
+          "swedish": "smyga omkring"
         },
         {
           "word": "quills",
-          "meaning": "long, sharp spines on a porcupine's body"
+          "meaning": "long, sharp spines on a porcupine's body",
+          "swedish": "taggar"
         },
         {
           "word": "winced",
-          "meaning": "made a quick face because of pain"
+          "meaning": "made a quick face because of pain",
+          "swedish": "grimaserade"
         },
         {
           "word": "plummeting",
-          "meaning": "falling straight down very fast"
+          "meaning": "falling straight down very fast",
+          "swedish": "störtdök"
         }
       ],
       "questions": [
@@ -818,15 +938,18 @@
           "glossary": [
             {
               "word": "residents",
-              "meaning": "those who live in a place"
+              "meaning": "those who live in a place",
+              "swedish": "invånare"
             },
             {
               "word": "disbelief",
-              "meaning": "the feeling of not being able to believe something"
+              "meaning": "the feeling of not being able to believe something",
+              "swedish": "misstro"
             },
             {
               "word": "unnatural",
-              "meaning": "not normal, not what you find in nature"
+              "meaning": "not normal, not what you find in nature",
+              "swedish": "onaturlig"
             }
           ],
           "questions": [
@@ -841,15 +964,18 @@
           "glossary": [
             {
               "word": "prowl",
-              "meaning": "moving around quietly, as if hunting"
+              "meaning": "moving around quietly, as if hunting",
+              "swedish": "smyga omkring"
             },
             {
               "word": "camouflages",
-              "meaning": "hides by blending in with the surroundings"
+              "meaning": "hides by blending in with the surroundings",
+              "swedish": "kamouflerar"
             },
             {
               "word": "spreading",
-              "meaning": "moving out to reach more and more places"
+              "meaning": "moving out to reach more and more places",
+              "swedish": "spred sig"
             }
           ],
           "questions": [
@@ -864,15 +990,18 @@
           "glossary": [
             {
               "word": "quills",
-              "meaning": "long, sharp spines on a porcupine's body"
+              "meaning": "long, sharp spines on a porcupine's body",
+              "swedish": "taggar"
             },
             {
               "word": "winced",
-              "meaning": "made a quick face because of pain"
+              "meaning": "made a quick face because of pain",
+              "swedish": "grimaserade"
             },
             {
               "word": "yelped",
-              "meaning": "gave a short, sharp cry of pain"
+              "meaning": "gave a short, sharp cry of pain",
+              "swedish": "gnällde"
             }
           ],
           "questions": [
@@ -887,15 +1016,18 @@
           "glossary": [
             {
               "word": "plummeting",
-              "meaning": "falling straight down very fast"
+              "meaning": "falling straight down very fast",
+              "swedish": "störtdök"
             },
             {
               "word": "pulverized",
-              "meaning": "crushed into tiny pieces or powder"
+              "meaning": "crushed into tiny pieces or powder",
+              "swedish": "pulveriserad"
             },
             {
               "word": "carnage",
-              "meaning": "a scene where many have been killed or badly hurt"
+              "meaning": "a scene where many have been killed or badly hurt",
+              "swedish": "blodbad"
             }
           ],
           "questions": [
@@ -911,43 +1043,53 @@
       "glossary": [
         {
           "word": "performer",
-          "meaning": "someone who acts, sings or dances for others to watch"
+          "meaning": "someone who acts, sings or dances for others to watch",
+          "swedish": "artist"
         },
         {
           "word": "demeanor",
-          "meaning": "the way someone looks and behaves"
+          "meaning": "the way someone looks and behaves",
+          "swedish": "uppträdande"
         },
         {
           "word": "adopted",
-          "meaning": "took someone else's child into your family as your own"
+          "meaning": "took someone else's child into your family as your own",
+          "swedish": "adopterade"
         },
         {
           "word": "runt",
-          "meaning": "the smallest and weakest baby in a family of animals"
+          "meaning": "the smallest and weakest baby in a family of animals",
+          "swedish": "kullens minsta"
         },
         {
           "word": "fragile",
-          "meaning": "easily broken"
+          "meaning": "easily broken",
+          "swedish": "bräcklig"
         },
         {
           "word": "cradled",
-          "meaning": "held gently and carefully, like a baby"
+          "meaning": "held gently and carefully, like a baby",
+          "swedish": "vaggade"
         },
         {
           "word": "marsupial",
-          "meaning": "an animal whose mother carries her babies in a pouch, like a kangaroo or opossum"
+          "meaning": "an animal whose mother carries her babies in a pouch, like a kangaroo or opossum",
+          "swedish": "pungdjur"
         },
         {
           "word": "stench",
-          "meaning": "a very strong, bad smell"
+          "meaning": "a very strong, bad smell",
+          "swedish": "stank"
         },
         {
           "word": "orphan",
-          "meaning": "a child whose parents have died"
+          "meaning": "a child whose parents have died",
+          "swedish": "föräldralös"
         },
         {
           "word": "miracle",
-          "meaning": "something amazing that seems almost impossible"
+          "meaning": "something amazing that seems almost impossible",
+          "swedish": "mirakel"
         }
       ],
       "questions": [
@@ -969,15 +1111,18 @@
           "glossary": [
             {
               "word": "fragile",
-              "meaning": "easily broken"
+              "meaning": "easily broken",
+              "swedish": "bräcklig"
             },
             {
               "word": "unhatched",
-              "meaning": "still inside the egg"
+              "meaning": "still inside the egg",
+              "swedish": "okläckt"
             },
             {
               "word": "cradled",
-              "meaning": "held gently and carefully, like a baby"
+              "meaning": "held gently and carefully, like a baby",
+              "swedish": "vaggade"
             }
           ],
           "questions": [
@@ -992,15 +1137,18 @@
           "glossary": [
             {
               "word": "marsupial",
-              "meaning": "an animal whose mother carries her babies in a pouch, like a kangaroo or opossum"
+              "meaning": "an animal whose mother carries her babies in a pouch, like a kangaroo or opossum",
+              "swedish": "pungdjur"
             },
             {
               "word": "stench",
-              "meaning": "a very strong, bad smell"
+              "meaning": "a very strong, bad smell",
+              "swedish": "stank"
             },
             {
               "word": "acquaintance",
-              "meaning": "knowing someone a little, after meeting them"
+              "meaning": "knowing someone a little, after meeting them",
+              "swedish": "bekantskap"
             }
           ],
           "questions": [
@@ -1015,15 +1163,18 @@
           "glossary": [
             {
               "word": "eggshell",
-              "meaning": "the hard outer covering of an egg"
+              "meaning": "the hard outer covering of an egg",
+              "swedish": "äggskal"
             },
             {
               "word": "crunch",
-              "meaning": "a loud cracking sound, like something being crushed"
+              "meaning": "a loud cracking sound, like something being crushed",
+              "swedish": "knastrande"
             },
             {
               "word": "helpful",
-              "meaning": "able to help"
+              "meaning": "able to help",
+              "swedish": "hjälpsam"
             }
           ],
           "questions": [
@@ -1038,15 +1189,18 @@
           "glossary": [
             {
               "word": "orphan",
-              "meaning": "a child whose parents have died"
+              "meaning": "a child whose parents have died",
+              "swedish": "föräldralös"
             },
             {
               "word": "motherhood",
-              "meaning": "being a mother and doing a mother's job"
+              "meaning": "being a mother and doing a mother's job",
+              "swedish": "moderskap"
             },
             {
               "word": "miracle",
-              "meaning": "something amazing that seems almost impossible"
+              "meaning": "something amazing that seems almost impossible",
+              "swedish": "mirakel"
             }
           ],
           "questions": [
@@ -1062,43 +1216,53 @@
       "glossary": [
         {
           "word": "dam",
-          "meaning": "a wall built across a stream or river to hold back the water"
+          "meaning": "a wall built across a stream or river to hold back the water",
+          "swedish": "damm"
         },
         {
           "word": "lodge",
-          "meaning": "a beaver's home, built from sticks and mud"
+          "meaning": "a beaver's home, built from sticks and mud",
+          "swedish": "bäverhydda"
         },
         {
           "word": "ignited",
-          "meaning": "caught fire"
+          "meaning": "caught fire",
+          "swedish": "antändes"
         },
         {
           "word": "inspecting",
-          "meaning": "looking at something very carefully to check it"
+          "meaning": "looking at something very carefully to check it",
+          "swedish": "inspekterade"
         },
         {
           "word": "policy",
-          "meaning": "a rule someone always follows"
+          "meaning": "a rule someone always follows",
+          "swedish": "princip"
         },
         {
           "word": "stubborn",
-          "meaning": "refusing to change your mind"
+          "meaning": "refusing to change your mind",
+          "swedish": "envis"
         },
         {
           "word": "trickle",
-          "meaning": "a very small, thin flow of water"
+          "meaning": "a very small, thin flow of water",
+          "swedish": "strimma"
         },
         {
           "word": "trench",
-          "meaning": "a long, narrow ditch dug in the ground"
+          "meaning": "a long, narrow ditch dug in the ground",
+          "swedish": "dike"
         },
         {
           "word": "handiwork",
-          "meaning": "something you have made with your own hands"
+          "meaning": "something you have made with your own hands",
+          "swedish": "hantverk"
         },
         {
           "word": "agreement",
-          "meaning": "saying yes to a plan or deal together"
+          "meaning": "saying yes to a plan or deal together",
+          "swedish": "överenskommelse"
         }
       ],
       "questions": [
@@ -1120,15 +1284,18 @@
           "glossary": [
             {
               "word": "policy",
-              "meaning": "a rule someone always follows"
+              "meaning": "a rule someone always follows",
+              "swedish": "princip"
             },
             {
               "word": "stubborn",
-              "meaning": "refusing to change your mind"
+              "meaning": "refusing to change your mind",
+              "swedish": "envis"
             },
             {
               "word": "trickle",
-              "meaning": "a very small, thin flow of water"
+              "meaning": "a very small, thin flow of water",
+              "swedish": "strimma"
             }
           ],
           "questions": [
@@ -1143,15 +1310,18 @@
           "glossary": [
             {
               "word": "campfire",
-              "meaning": "a small outdoor fire for warmth or cooking"
+              "meaning": "a small outdoor fire for warmth or cooking",
+              "swedish": "lägereld"
             },
             {
               "word": "trench",
-              "meaning": "a long, narrow ditch dug in the ground"
+              "meaning": "a long, narrow ditch dug in the ground",
+              "swedish": "dike"
             },
             {
               "word": "handiwork",
-              "meaning": "something you have made with your own hands"
+              "meaning": "something you have made with your own hands",
+              "swedish": "hantverk"
             }
           ],
           "questions": [
@@ -1166,11 +1336,13 @@
           "glossary": [
             {
               "word": "cushion",
-              "meaning": "a soft pad to sit or lie on"
+              "meaning": "a soft pad to sit or lie on",
+              "swedish": "dyna"
             },
             {
               "word": "settling",
-              "meaning": "getting comfortable in a new place"
+              "meaning": "getting comfortable in a new place",
+              "swedish": "slog sig ner"
             }
           ],
           "questions": [
@@ -1185,7 +1357,8 @@
           "glossary": [
             {
               "word": "agreement",
-              "meaning": "saying yes to a plan or deal together"
+              "meaning": "saying yes to a plan or deal together",
+              "swedish": "överenskommelse"
             }
           ],
           "questions": [
@@ -1201,43 +1374,53 @@
       "glossary": [
         {
           "word": "festive",
-          "meaning": "happy and cheerful, like a party"
+          "meaning": "happy and cheerful, like a party",
+          "swedish": "festlig"
         },
         {
           "word": "meandering",
-          "meaning": "wandering slowly with no hurry, taking a winding path"
+          "meaning": "wandering slowly with no hurry, taking a winding path",
+          "swedish": "slingrande"
         },
         {
           "word": "tranquil",
-          "meaning": "calm and peaceful"
+          "meaning": "calm and peaceful",
+          "swedish": "lugn"
         },
         {
           "word": "escorted",
-          "meaning": "went with someone to keep them safe"
+          "meaning": "went with someone to keep them safe",
+          "swedish": "eskorterade"
         },
         {
           "word": "transplanted",
-          "meaning": "dug up a plant and planted it somewhere else"
+          "meaning": "dug up a plant and planted it somewhere else",
+          "swedish": "planterade om"
         },
         {
           "word": "burrowing",
-          "meaning": "digging holes or tunnels in the ground"
+          "meaning": "digging holes or tunnels in the ground",
+          "swedish": "grävande"
         },
         {
           "word": "attentive",
-          "meaning": "paying close attention and caring"
+          "meaning": "paying close attention and caring",
+          "swedish": "uppmärksam"
         },
         {
           "word": "tottering",
-          "meaning": "walking in a wobbly, unsteady way"
+          "meaning": "walking in a wobbly, unsteady way",
+          "swedish": "vinglande"
         },
         {
           "word": "gratitude",
-          "meaning": "the feeling of being thankful"
+          "meaning": "the feeling of being thankful",
+          "swedish": "tacksamhet"
         },
         {
           "word": "conflicted",
-          "meaning": "torn between two different choices"
+          "meaning": "torn between two different choices",
+          "swedish": "kluven"
         }
       ],
       "questions": [
@@ -1259,15 +1442,18 @@
           "glossary": [
             {
               "word": "fertilized",
-              "meaning": "made the soil richer so plants grow better"
+              "meaning": "made the soil richer so plants grow better",
+              "swedish": "gödslade"
             },
             {
               "word": "transplanted",
-              "meaning": "dug up a plant and planted it somewhere else"
+              "meaning": "dug up a plant and planted it somewhere else",
+              "swedish": "planterade om"
             },
             {
               "word": "burrowing",
-              "meaning": "digging holes or tunnels in the ground"
+              "meaning": "digging holes or tunnels in the ground",
+              "swedish": "grävande"
             }
           ],
           "questions": [
@@ -1282,15 +1468,18 @@
           "glossary": [
             {
               "word": "parenting",
-              "meaning": "taking care of and raising children"
+              "meaning": "taking care of and raising children",
+              "swedish": "föräldraskap"
             },
             {
               "word": "attentive",
-              "meaning": "paying close attention and caring"
+              "meaning": "paying close attention and caring",
+              "swedish": "uppmärksam"
             },
             {
               "word": "tottering",
-              "meaning": "walking in a wobbly, unsteady way"
+              "meaning": "walking in a wobbly, unsteady way",
+              "swedish": "vinglande"
             }
           ],
           "questions": [
@@ -1305,15 +1494,18 @@
           "glossary": [
             {
               "word": "paddle",
-              "meaning": "to move your feet or hands through water to swim"
+              "meaning": "to move your feet or hands through water to swim",
+              "swedish": "paddla"
             },
             {
               "word": "gratitude",
-              "meaning": "the feeling of being thankful"
+              "meaning": "the feeling of being thankful",
+              "swedish": "tacksamhet"
             },
             {
               "word": "conflicted",
-              "meaning": "torn between two different choices"
+              "meaning": "torn between two different choices",
+              "swedish": "kluven"
             }
           ],
           "questions": [
@@ -1328,15 +1520,18 @@
           "glossary": [
             {
               "word": "edible",
-              "meaning": "safe to eat"
+              "meaning": "safe to eat",
+              "swedish": "ätlig"
             },
             {
               "word": "digest",
-              "meaning": "to break down food in your body"
+              "meaning": "to break down food in your body",
+              "swedish": "smälta"
             },
             {
               "word": "nightmares",
-              "meaning": "scary dreams"
+              "meaning": "scary dreams",
+              "swedish": "mardrömmar"
             }
           ],
           "questions": [
@@ -1352,43 +1547,53 @@
       "glossary": [
         {
           "word": "drey",
-          "meaning": "a squirrel's nest"
+          "meaning": "a squirrel's nest",
+          "swedish": "ekorrbo"
         },
         {
           "word": "speechless",
-          "meaning": "so surprised or happy that you can't say anything"
+          "meaning": "so surprised or happy that you can't say anything",
+          "swedish": "mållös"
         },
         {
           "word": "soar",
-          "meaning": "to fly high in the air without flapping much"
+          "meaning": "to fly high in the air without flapping much",
+          "swedish": "sväva"
         },
         {
           "word": "horizon",
-          "meaning": "the line far away where the sky seems to meet the land or sea"
+          "meaning": "the line far away where the sky seems to meet the land or sea",
+          "swedish": "horisont"
         },
         {
           "word": "patience",
-          "meaning": "being able to wait calmly without getting annoyed"
+          "meaning": "being able to wait calmly without getting annoyed",
+          "swedish": "tålamod"
         },
         {
           "word": "rambled",
-          "meaning": "talked on and on, jumping from one thing to another"
+          "meaning": "talked on and on, jumping from one thing to another",
+          "swedish": "babblade"
         },
         {
           "word": "hollow",
-          "meaning": "empty inside"
+          "meaning": "empty inside",
+          "swedish": "ihålig"
         },
         {
           "word": "amusement",
-          "meaning": "the feeling of finding something funny"
+          "meaning": "the feeling of finding something funny",
+          "swedish": "munterhet"
         },
         {
           "word": "veering",
-          "meaning": "turning suddenly to one side"
+          "meaning": "turning suddenly to one side",
+          "swedish": "svängde"
         },
         {
           "word": "vessel",
-          "meaning": "a ship or large boat"
+          "meaning": "a ship or large boat",
+          "swedish": "fartyg"
         }
       ],
       "questions": [
@@ -1410,15 +1615,18 @@
           "glossary": [
             {
               "word": "patience",
-              "meaning": "being able to wait calmly without getting annoyed"
+              "meaning": "being able to wait calmly without getting annoyed",
+              "swedish": "tålamod"
             },
             {
               "word": "rambled",
-              "meaning": "talked on and on, jumping from one thing to another"
+              "meaning": "talked on and on, jumping from one thing to another",
+              "swedish": "babblade"
             },
             {
               "word": "spying",
-              "meaning": "secretly watching someone"
+              "meaning": "secretly watching someone",
+              "swedish": "spionerade"
             }
           ],
           "questions": [
@@ -1433,15 +1641,18 @@
           "glossary": [
             {
               "word": "hollow",
-              "meaning": "empty inside"
+              "meaning": "empty inside",
+              "swedish": "ihålig"
             },
             {
               "word": "listener",
-              "meaning": "someone who listens"
+              "meaning": "someone who listens",
+              "swedish": "lyssnare"
             },
             {
               "word": "amusement",
-              "meaning": "the feeling of finding something funny"
+              "meaning": "the feeling of finding something funny",
+              "swedish": "munterhet"
             }
           ],
           "questions": [
@@ -1456,15 +1667,18 @@
           "glossary": [
             {
               "word": "adjustments",
-              "meaning": "small changes to make something work better"
+              "meaning": "small changes to make something work better",
+              "swedish": "justeringar"
             },
             {
               "word": "veering",
-              "meaning": "turning suddenly to one side"
+              "meaning": "turning suddenly to one side",
+              "swedish": "svängde"
             },
             {
               "word": "seagull",
-              "meaning": "a gray and white bird that lives near the sea"
+              "meaning": "a gray and white bird that lives near the sea",
+              "swedish": "fiskmås"
             }
           ],
           "questions": [
@@ -1479,15 +1693,18 @@
           "glossary": [
             {
               "word": "vessel",
-              "meaning": "a ship or large boat"
+              "meaning": "a ship or large boat",
+              "swedish": "fartyg"
             },
             {
               "word": "fanatic",
-              "meaning": "someone who loves something extremely much"
+              "meaning": "someone who loves something extremely much",
+              "swedish": "fantast"
             },
             {
               "word": "transport",
-              "meaning": "moving people or things from one place to another"
+              "meaning": "moving people or things from one place to another",
+              "swedish": "transport"
             }
           ],
           "questions": [
@@ -1503,43 +1720,53 @@
       "glossary": [
         {
           "word": "marveled",
-          "meaning": "looked at something with amazement"
+          "meaning": "looked at something with amazement",
+          "swedish": "förundrades"
         },
         {
           "word": "dreary",
-          "meaning": "gray, dull and gloomy"
+          "meaning": "gray, dull and gloomy",
+          "swedish": "trist"
         },
         {
           "word": "moody",
-          "meaning": "having feelings that change quickly, often grumpy"
+          "meaning": "having feelings that change quickly, often grumpy",
+          "swedish": "lynnig"
         },
         {
           "word": "galloped",
-          "meaning": "ran very fast"
+          "meaning": "ran very fast",
+          "swedish": "galopperade"
         },
         {
           "word": "celestial",
-          "meaning": "in or from the sky or outer space"
+          "meaning": "in or from the sky or outer space",
+          "swedish": "himmelsk"
         },
         {
           "word": "astronomer",
-          "meaning": "a scientist who studies stars and planets"
+          "meaning": "a scientist who studies stars and planets",
+          "swedish": "astronom"
         },
         {
           "word": "offspring",
-          "meaning": "an animal's babies or young"
+          "meaning": "an animal's babies or young",
+          "swedish": "avkomma"
         },
         {
           "word": "sweltering",
-          "meaning": "uncomfortably hot"
+          "meaning": "uncomfortably hot",
+          "swedish": "tryckande het"
         },
         {
           "word": "weathered",
-          "meaning": "worn and marked from being out in the wind, rain and sun"
+          "meaning": "worn and marked from being out in the wind, rain and sun",
+          "swedish": "väderbiten"
         },
         {
           "word": "adolescent",
-          "meaning": "a young person or animal who is growing up, between child and adult"
+          "meaning": "a young person or animal who is growing up, between child and adult",
+          "swedish": "tonåring"
         }
       ],
       "questions": [
@@ -1561,15 +1788,18 @@
           "glossary": [
             {
               "word": "celestial",
-              "meaning": "in or from the sky or outer space"
+              "meaning": "in or from the sky or outer space",
+              "swedish": "himmelsk"
             },
             {
               "word": "astronomer",
-              "meaning": "a scientist who studies stars and planets"
+              "meaning": "a scientist who studies stars and planets",
+              "swedish": "astronom"
             },
             {
               "word": "fireflies",
-              "meaning": "small beetles whose bodies glow in the dark"
+              "meaning": "small beetles whose bodies glow in the dark",
+              "swedish": "eldflugor"
             }
           ],
           "questions": [
@@ -1584,15 +1814,18 @@
           "glossary": [
             {
               "word": "offspring",
-              "meaning": "an animal's babies or young"
+              "meaning": "an animal's babies or young",
+              "swedish": "avkomma"
             },
             {
               "word": "sweltering",
-              "meaning": "uncomfortably hot"
+              "meaning": "uncomfortably hot",
+              "swedish": "tryckande het"
             },
             {
               "word": "weathered",
-              "meaning": "worn and marked from being out in the wind, rain and sun"
+              "meaning": "worn and marked from being out in the wind, rain and sun",
+              "swedish": "väderbiten"
             }
           ],
           "questions": [
@@ -1607,15 +1840,18 @@
           "glossary": [
             {
               "word": "inoperative",
-              "meaning": "not working"
+              "meaning": "not working",
+              "swedish": "ur funktion"
             },
             {
               "word": "puffed",
-              "meaning": "pushed out and made bigger"
+              "meaning": "pushed out and made bigger",
+              "swedish": "putade ut"
             },
             {
               "word": "shadow",
-              "meaning": "the dark shape made when something blocks the light"
+              "meaning": "the dark shape made when something blocks the light",
+              "swedish": "skugga"
             }
           ],
           "questions": [
@@ -1630,15 +1866,18 @@
           "glossary": [
             {
               "word": "adolescent",
-              "meaning": "a young person or animal who is growing up, between child and adult"
+              "meaning": "a young person or animal who is growing up, between child and adult",
+              "swedish": "tonåring"
             },
             {
               "word": "predator",
-              "meaning": "an animal that hunts and eats other animals"
+              "meaning": "an animal that hunts and eats other animals",
+              "swedish": "rovdjur"
             },
             {
               "word": "northward",
-              "meaning": "towards the north"
+              "meaning": "towards the north",
+              "swedish": "norrut"
             }
           ],
           "questions": [
@@ -1654,43 +1893,53 @@
       "glossary": [
         {
           "word": "looming",
-          "meaning": "standing tall above, in a big and scary way"
+          "meaning": "standing tall above, in a big and scary way",
+          "swedish": "hotfullt uppdykande"
         },
         {
           "word": "rumors",
-          "meaning": "stories passed around that may or may not be true"
+          "meaning": "stories passed around that may or may not be true",
+          "swedish": "rykten"
         },
         {
           "word": "detached",
-          "meaning": "came loose and separated"
+          "meaning": "came loose and separated",
+          "swedish": "lossnade"
         },
         {
           "word": "nimble",
-          "meaning": "quick and clever with movements"
+          "meaning": "quick and clever with movements",
+          "swedish": "smidig"
         },
         {
           "word": "machinery",
-          "meaning": "machines, or the moving parts inside a machine"
+          "meaning": "machines, or the moving parts inside a machine",
+          "swedish": "maskineri"
         },
         {
           "word": "furrowed",
-          "meaning": "wrinkled up in a frown"
+          "meaning": "wrinkled up in a frown",
+          "swedish": "rynkade"
         },
         {
           "word": "sarcasm",
-          "meaning": "saying the opposite of what you mean, in a mocking way"
+          "meaning": "saying the opposite of what you mean, in a mocking way",
+          "swedish": "sarkasm"
         },
         {
           "word": "intimidated",
-          "meaning": "made to feel frightened"
+          "meaning": "made to feel frightened",
+          "swedish": "skrämd"
         },
         {
           "word": "procession",
-          "meaning": "a group moving forward in a line, like a parade"
+          "meaning": "a group moving forward in a line, like a parade",
+          "swedish": "procession"
         },
         {
           "word": "indestructible",
-          "meaning": "impossible to break or destroy"
+          "meaning": "impossible to break or destroy",
+          "swedish": "oförstörbar"
         }
       ],
       "questions": [
@@ -1712,15 +1961,18 @@
           "glossary": [
             {
               "word": "machinery",
-              "meaning": "machines, or the moving parts inside a machine"
+              "meaning": "machines, or the moving parts inside a machine",
+              "swedish": "maskineri"
             },
             {
               "word": "orphaned",
-              "meaning": "left without parents because they have died"
+              "meaning": "left without parents because they have died",
+              "swedish": "föräldralös"
             },
             {
               "word": "furrowed",
-              "meaning": "wrinkled up in a frown"
+              "meaning": "wrinkled up in a frown",
+              "swedish": "rynkade"
             }
           ],
           "questions": [
@@ -1735,15 +1987,18 @@
           "glossary": [
             {
               "word": "sarcasm",
-              "meaning": "saying the opposite of what you mean, in a mocking way"
+              "meaning": "saying the opposite of what you mean, in a mocking way",
+              "swedish": "sarkasm"
             },
             {
               "word": "intimidated",
-              "meaning": "made to feel frightened"
+              "meaning": "made to feel frightened",
+              "swedish": "skrämd"
             },
             {
               "word": "stupor",
-              "meaning": "a dazed state where you can hardly think or move"
+              "meaning": "a dazed state where you can hardly think or move",
+              "swedish": "dvala"
             }
           ],
           "questions": [
@@ -1758,15 +2013,18 @@
           "glossary": [
             {
               "word": "procession",
-              "meaning": "a group moving forward in a line, like a parade"
+              "meaning": "a group moving forward in a line, like a parade",
+              "swedish": "procession"
             },
             {
               "word": "forgiveness",
-              "meaning": "stopping being angry with someone for what they did"
+              "meaning": "stopping being angry with someone for what they did",
+              "swedish": "förlåtelse"
             },
             {
               "word": "undergrowth",
-              "meaning": "bushes and plants growing low under the trees"
+              "meaning": "bushes and plants growing low under the trees",
+              "swedish": "undervegetation"
             }
           ],
           "questions": [
@@ -1781,15 +2039,18 @@
           "glossary": [
             {
               "word": "durable",
-              "meaning": "strong and long-lasting"
+              "meaning": "strong and long-lasting",
+              "swedish": "slitstark"
             },
             {
               "word": "modifications",
-              "meaning": "small changes to make something better"
+              "meaning": "small changes to make something better",
+              "swedish": "modifieringar"
             },
             {
               "word": "indestructible",
-              "meaning": "impossible to break or destroy"
+              "meaning": "impossible to break or destroy",
+              "swedish": "oförstörbar"
             }
           ],
           "questions": [
@@ -1805,43 +2066,53 @@
       "glossary": [
         {
           "word": "formation",
-          "meaning": "a special shape that a group makes, like geese flying in a V"
+          "meaning": "a special shape that a group makes, like geese flying in a V",
+          "swedish": "formation"
         },
         {
           "word": "airborne",
-          "meaning": "up in the air, flying"
+          "meaning": "up in the air, flying",
+          "swedish": "luftburen"
         },
         {
           "word": "hibernation",
-          "meaning": "a long, deep sleep some animals have through the winter"
+          "meaning": "a long, deep sleep some animals have through the winter",
+          "swedish": "vintersömn"
         },
         {
           "word": "migratory",
-          "meaning": "travelling to a different place each season"
+          "meaning": "travelling to a different place each season",
+          "swedish": "flyttande"
         },
         {
           "word": "updraft",
-          "meaning": "air moving upward, which birds can ride"
+          "meaning": "air moving upward, which birds can ride",
+          "swedish": "uppvind"
         },
         {
           "word": "gaggle",
-          "meaning": "a group of geese"
+          "meaning": "a group of geese",
+          "swedish": "gåsflock"
         },
         {
           "word": "exceptional",
-          "meaning": "much better than usual"
+          "meaning": "much better than usual",
+          "swedish": "exceptionell"
         },
         {
           "word": "withered",
-          "meaning": "dried up and shrank"
+          "meaning": "dried up and shrank",
+          "swedish": "vissnade"
         },
         {
           "word": "destined",
-          "meaning": "certain to do something, as if it had been planned"
+          "meaning": "certain to do something, as if it had been planned",
+          "swedish": "förutbestämd"
         },
         {
           "word": "edibles",
-          "meaning": "things that are safe to eat"
+          "meaning": "things that are safe to eat",
+          "swedish": "ätbara saker"
         }
       ],
       "questions": [
@@ -1863,15 +2134,18 @@
           "glossary": [
             {
               "word": "updraft",
-              "meaning": "air moving upward, which birds can ride"
+              "meaning": "air moving upward, which birds can ride",
+              "swedish": "uppvind"
             },
             {
               "word": "gaggle",
-              "meaning": "a group of geese"
+              "meaning": "a group of geese",
+              "swedish": "gåsflock"
             },
             {
               "word": "exceptional",
-              "meaning": "much better than usual"
+              "meaning": "much better than usual",
+              "swedish": "exceptionell"
             }
           ],
           "questions": [
@@ -1886,15 +2160,18 @@
           "glossary": [
             {
               "word": "switch",
-              "meaning": "to turn something on or off"
+              "meaning": "to turn something on or off",
+              "swedish": "strömbrytare"
             },
             {
               "word": "wondering",
-              "meaning": "thinking about something and asking yourself questions about it"
+              "meaning": "thinking about something and asking yourself questions about it",
+              "swedish": "undrade"
             },
             {
               "word": "heart",
-              "meaning": "the part of the body that pumps blood; it races when you're scared"
+              "meaning": "the part of the body that pumps blood; it races when you're scared",
+              "swedish": "hjärta"
             }
           ],
           "questions": [
@@ -1909,15 +2186,18 @@
           "glossary": [
             {
               "word": "withered",
-              "meaning": "dried up and shrank"
+              "meaning": "dried up and shrank",
+              "swedish": "vissnade"
             },
             {
               "word": "destined",
-              "meaning": "certain to do something, as if it had been planned"
+              "meaning": "certain to do something, as if it had been planned",
+              "swedish": "förutbestämd"
             },
             {
               "word": "edibles",
-              "meaning": "things that are safe to eat"
+              "meaning": "things that are safe to eat",
+              "swedish": "ätbara saker"
             }
           ],
           "questions": [
@@ -1932,15 +2212,18 @@
           "glossary": [
             {
               "word": "migrate",
-              "meaning": "to travel to another place when the seasons change"
+              "meaning": "to travel to another place when the seasons change",
+              "swedish": "flytta"
             },
             {
               "word": "upcoming",
-              "meaning": "happening soon"
+              "meaning": "happening soon",
+              "swedish": "kommande"
             },
             {
               "word": "depending",
-              "meaning": "changing because of something else"
+              "meaning": "changing because of something else",
+              "swedish": "beroende"
             }
           ],
           "questions": [
@@ -1956,43 +2239,53 @@
       "glossary": [
         {
           "word": "fitfully",
-          "meaning": "restlessly, often waking up"
+          "meaning": "restlessly, often waking up",
+          "swedish": "oroligt"
         },
         {
           "word": "brittle",
-          "meaning": "hard but easily snapped"
+          "meaning": "hard but easily snapped",
+          "swedish": "spröd"
         },
         {
           "word": "lodgers",
-          "meaning": "those who stay in someone else's home for a while"
+          "meaning": "those who stay in someone else's home for a while",
+          "swedish": "inneboende"
         },
         {
           "word": "roused",
-          "meaning": "woken up"
+          "meaning": "woken up",
+          "swedish": "väckte"
         },
         {
           "word": "disorganized",
-          "meaning": "messy and without order"
+          "meaning": "messy and without order",
+          "swedish": "oorganiserad"
         },
         {
           "word": "latticework",
-          "meaning": "strips crossed over each other in a criss-cross pattern"
+          "meaning": "strips crossed over each other in a criss-cross pattern",
+          "swedish": "spaljé"
         },
         {
           "word": "devastating",
-          "meaning": "causing terrible damage"
+          "meaning": "causing terrible damage",
+          "swedish": "förödande"
         },
         {
           "word": "kindling",
-          "meaning": "small sticks and twigs used to start a fire"
+          "meaning": "small sticks and twigs used to start a fire",
+          "swedish": "tändved"
         },
         {
           "word": "carnivorous",
-          "meaning": "eating meat"
+          "meaning": "eating meat",
+          "swedish": "köttätande"
         },
         {
           "word": "frigid",
-          "meaning": "freezing cold"
+          "meaning": "freezing cold",
+          "swedish": "iskall"
         }
       ],
       "questions": [
@@ -2014,15 +2307,18 @@
           "glossary": [
             {
               "word": "takeoff",
-              "meaning": "the moment a bird or aircraft leaves the ground"
+              "meaning": "the moment a bird or aircraft leaves the ground",
+              "swedish": "start"
             },
             {
               "word": "disorganized",
-              "meaning": "messy and without order"
+              "meaning": "messy and without order",
+              "swedish": "oorganiserad"
             },
             {
               "word": "preparations",
-              "meaning": "things done to get ready"
+              "meaning": "things done to get ready",
+              "swedish": "förberedelser"
             }
           ],
           "questions": [
@@ -2037,15 +2333,18 @@
           "glossary": [
             {
               "word": "hibernated",
-              "meaning": "slept deeply through the winter"
+              "meaning": "slept deeply through the winter",
+              "swedish": "gick i ide"
             },
             {
               "word": "latticework",
-              "meaning": "strips crossed over each other in a criss-cross pattern"
+              "meaning": "strips crossed over each other in a criss-cross pattern",
+              "swedish": "spaljé"
             },
             {
               "word": "devastating",
-              "meaning": "causing terrible damage"
+              "meaning": "causing terrible damage",
+              "swedish": "förödande"
             }
           ],
           "questions": [
@@ -2060,15 +2359,18 @@
           "glossary": [
             {
               "word": "kindling",
-              "meaning": "small sticks and twigs used to start a fire"
+              "meaning": "small sticks and twigs used to start a fire",
+              "swedish": "tändved"
             },
             {
               "word": "carnivorous",
-              "meaning": "eating meat"
+              "meaning": "eating meat",
+              "swedish": "köttätande"
             },
             {
               "word": "coziness",
-              "meaning": "a warm, comfortable, safe feeling"
+              "meaning": "a warm, comfortable, safe feeling",
+              "swedish": "mysighet"
             }
           ],
           "questions": [
@@ -2083,15 +2385,18 @@
           "glossary": [
             {
               "word": "frigid",
-              "meaning": "freezing cold"
+              "meaning": "freezing cold",
+              "swedish": "iskall"
             },
             {
               "word": "snowdrifts",
-              "meaning": "deep piles of snow blown together by the wind"
+              "meaning": "deep piles of snow blown together by the wind",
+              "swedish": "snödrivor"
             },
             {
               "word": "expertise",
-              "meaning": "special skill or knowledge"
+              "meaning": "special skill or knowledge",
+              "swedish": "expertis"
             }
           ],
           "questions": [
@@ -2107,43 +2412,53 @@
       "glossary": [
         {
           "word": "plume",
-          "meaning": "a long cloud of smoke rising into the air"
+          "meaning": "a long cloud of smoke rising into the air",
+          "swedish": "rökpelare"
         },
         {
           "word": "charred",
-          "meaning": "burned and blackened"
+          "meaning": "burned and blackened",
+          "swedish": "förkolnad"
         },
         {
           "word": "purpose",
-          "meaning": "the reason something exists or what it is meant to do"
+          "meaning": "the reason something exists or what it is meant to do",
+          "swedish": "syfte"
         },
         {
           "word": "remedied",
-          "meaning": "fixed or put right"
+          "meaning": "fixed or put right",
+          "swedish": "åtgärdade"
         },
         {
           "word": "smothering",
-          "meaning": "covering something so completely that it gets no air"
+          "meaning": "covering something so completely that it gets no air",
+          "swedish": "kvävande"
         },
         {
           "word": "famine",
-          "meaning": "a time when there is not enough food"
+          "meaning": "a time when there is not enough food",
+          "swedish": "hungersnöd"
         },
         {
           "word": "harmonious",
-          "meaning": "peaceful and friendly, getting along well"
+          "meaning": "peaceful and friendly, getting along well",
+          "swedish": "harmonisk"
         },
         {
           "word": "scavenge",
-          "meaning": "to search for food or useful things others have left"
+          "meaning": "to search for food or useful things others have left",
+          "swedish": "leta föda"
         },
         {
           "word": "nourished",
-          "meaning": "gave what is needed to grow and be healthy"
+          "meaning": "gave what is needed to grow and be healthy",
+          "swedish": "gav näring"
         },
         {
           "word": "nuisance",
-          "meaning": "someone or something that is annoying"
+          "meaning": "someone or something that is annoying",
+          "swedish": "plåga"
         }
       ],
       "questions": [
@@ -2165,15 +2480,18 @@
           "glossary": [
             {
               "word": "foundation",
-              "meaning": "the bottom part a building stands on"
+              "meaning": "the bottom part a building stands on",
+              "swedish": "grund"
             },
             {
               "word": "smothering",
-              "meaning": "covering something so completely that it gets no air"
+              "meaning": "covering something so completely that it gets no air",
+              "swedish": "kvävande"
             },
             {
               "word": "emergencies",
-              "meaning": "sudden, dangerous situations that need help fast"
+              "meaning": "sudden, dangerous situations that need help fast",
+              "swedish": "nödsituationer"
             }
           ],
           "questions": [
@@ -2188,15 +2506,18 @@
           "glossary": [
             {
               "word": "famine",
-              "meaning": "a time when there is not enough food"
+              "meaning": "a time when there is not enough food",
+              "swedish": "hungersnöd"
             },
             {
               "word": "harmonious",
-              "meaning": "peaceful and friendly, getting along well"
+              "meaning": "peaceful and friendly, getting along well",
+              "swedish": "harmonisk"
             },
             {
               "word": "scavenge",
-              "meaning": "to search for food or useful things others have left"
+              "meaning": "to search for food or useful things others have left",
+              "swedish": "leta föda"
             }
           ],
           "questions": [
@@ -2211,15 +2532,18 @@
           "glossary": [
             {
               "word": "nourished",
-              "meaning": "gave what is needed to grow and be healthy"
+              "meaning": "gave what is needed to grow and be healthy",
+              "swedish": "gav näring"
             },
             {
               "word": "dazzling",
-              "meaning": "so bright and beautiful it amazes you"
+              "meaning": "so bright and beautiful it amazes you",
+              "swedish": "bländande"
             },
             {
               "word": "bitterest",
-              "meaning": "the coldest and harshest"
+              "meaning": "the coldest and harshest",
+              "swedish": "bistraste"
             }
           ],
           "questions": [
@@ -2234,15 +2558,18 @@
           "glossary": [
             {
               "word": "barrel",
-              "meaning": "a big round container made of wood"
+              "meaning": "a big round container made of wood",
+              "swedish": "tunna"
             },
             {
               "word": "nuisance",
-              "meaning": "someone or something that is annoying"
+              "meaning": "someone or something that is annoying",
+              "swedish": "plåga"
             },
             {
               "word": "waterways",
-              "meaning": "rivers, streams and other water that boats or fish can travel along"
+              "meaning": "rivers, streams and other water that boats or fish can travel along",
+              "swedish": "vattenvägar"
             }
           ],
           "questions": [
@@ -2258,43 +2585,53 @@
       "glossary": [
         {
           "word": "wildness",
-          "meaning": "being wild and free, not tame"
+          "meaning": "being wild and free, not tame",
+          "swedish": "vildhet"
         },
         {
           "word": "separation",
-          "meaning": "being apart from each other"
+          "meaning": "being apart from each other",
+          "swedish": "separation"
         },
         {
           "word": "humans",
-          "meaning": "people"
+          "meaning": "people",
+          "swedish": "människor"
         },
         {
           "word": "factory",
-          "meaning": "a building where things are made by machines"
+          "meaning": "a building where things are made by machines",
+          "swedish": "fabrik"
         },
         {
           "word": "barren",
-          "meaning": "dry and empty, where almost nothing grows"
+          "meaning": "dry and empty, where almost nothing grows",
+          "swedish": "karg"
         },
         {
           "word": "sunbathed",
-          "meaning": "lay in the sun to get warm"
+          "meaning": "lay in the sun to get warm",
+          "swedish": "solade"
         },
         {
           "word": "overtaken",
-          "meaning": "slowly taken over or replaced"
+          "meaning": "slowly taken over or replaced",
+          "swedish": "övertagen"
         },
         {
           "word": "greenhouse",
-          "meaning": "a glass building that keeps plants warm so they can grow"
+          "meaning": "a glass building that keeps plants warm so they can grow",
+          "swedish": "växthus"
         },
         {
           "word": "mainland",
-          "meaning": "the large main land of a country, not an island"
+          "meaning": "the large main land of a country, not an island",
+          "swedish": "fastland"
         },
         {
           "word": "blizzards",
-          "meaning": "very bad snowstorms with strong wind"
+          "meaning": "very bad snowstorms with strong wind",
+          "swedish": "snöstormar"
         }
       ],
       "questions": [
@@ -2316,15 +2653,18 @@
           "glossary": [
             {
               "word": "barren",
-              "meaning": "dry and empty, where almost nothing grows"
+              "meaning": "dry and empty, where almost nothing grows",
+              "swedish": "karg"
             },
             {
               "word": "sunbathed",
-              "meaning": "lay in the sun to get warm"
+              "meaning": "lay in the sun to get warm",
+              "swedish": "solade"
             },
             {
               "word": "romped",
-              "meaning": "played in a rough, happy way"
+              "meaning": "played in a rough, happy way",
+              "swedish": "busade"
             }
           ],
           "questions": [
@@ -2339,11 +2679,13 @@
           "glossary": [
             {
               "word": "overtaken",
-              "meaning": "slowly taken over or replaced"
+              "meaning": "slowly taken over or replaced",
+              "swedish": "övertagen"
             },
             {
               "word": "honk",
-              "meaning": "the loud call a goose makes"
+              "meaning": "the loud call a goose makes",
+              "swedish": "snattrande"
             }
           ],
           "questions": [
@@ -2358,15 +2700,18 @@
           "glossary": [
             {
               "word": "greenhouse",
-              "meaning": "a glass building that keeps plants warm so they can grow"
+              "meaning": "a glass building that keeps plants warm so they can grow",
+              "swedish": "växthus"
             },
             {
               "word": "mainland",
-              "meaning": "the large main land of a country, not an island"
+              "meaning": "the large main land of a country, not an island",
+              "swedish": "fastland"
             },
             {
               "word": "snowstorm",
-              "meaning": "a storm with lots of snow and strong wind"
+              "meaning": "a storm with lots of snow and strong wind",
+              "swedish": "snöstorm"
             }
           ],
           "questions": [
@@ -2381,15 +2726,18 @@
           "glossary": [
             {
               "word": "blizzards",
-              "meaning": "very bad snowstorms with strong wind"
+              "meaning": "very bad snowstorms with strong wind",
+              "swedish": "snöstormar"
             },
             {
               "word": "forged",
-              "meaning": "made or built with effort"
+              "meaning": "made or built with effort",
+              "swedish": "smidde"
             },
             {
               "word": "gestures",
-              "meaning": "movements of the body used to show meaning"
+              "meaning": "movements of the body used to show meaning",
+              "swedish": "gester"
             }
           ],
           "questions": [
@@ -2405,43 +2753,53 @@
       "glossary": [
         {
           "word": "celebration",
-          "meaning": "a happy event, like a party, to mark something special"
+          "meaning": "a happy event, like a party, to mark something special",
+          "swedish": "firande"
         },
         {
           "word": "bonfire",
-          "meaning": "a very big outdoor fire"
+          "meaning": "a very big outdoor fire",
+          "swedish": "brasa"
         },
         {
           "word": "sleek",
-          "meaning": "smooth, shiny and neatly shaped"
+          "meaning": "smooth, shiny and neatly shaped",
+          "swedish": "slimmad"
         },
         {
           "word": "flush",
-          "meaning": "lined up perfectly, with no gaps"
+          "meaning": "lined up perfectly, with no gaps",
+          "swedish": "jäms med"
         },
         {
           "word": "generation",
-          "meaning": "all the young born around the same time"
+          "meaning": "all the young born around the same time",
+          "swedish": "generation"
         },
         {
           "word": "moonless",
-          "meaning": "without the moon in the sky"
+          "meaning": "without the moon in the sky",
+          "swedish": "månlös"
         },
         {
           "word": "embers",
-          "meaning": "small glowing pieces left from a fire"
+          "meaning": "small glowing pieces left from a fire",
+          "swedish": "glöd"
         },
         {
           "word": "slithered",
-          "meaning": "moved by sliding along the ground, like a snake"
+          "meaning": "moved by sliding along the ground, like a snake",
+          "swedish": "slingrade sig"
         },
         {
           "word": "smoldering",
-          "meaning": "burning slowly with smoke but no flames"
+          "meaning": "burning slowly with smoke but no flames",
+          "swedish": "pyrande"
         },
         {
           "word": "dwindled",
-          "meaning": "got smaller and smaller"
+          "meaning": "got smaller and smaller",
+          "swedish": "minskade"
         }
       ],
       "questions": [
@@ -2463,15 +2821,18 @@
           "glossary": [
             {
               "word": "announcement",
-              "meaning": "an important message told to everyone"
+              "meaning": "an important message told to everyone",
+              "swedish": "tillkännagivande"
             },
             {
               "word": "generation",
-              "meaning": "all the young born around the same time"
+              "meaning": "all the young born around the same time",
+              "swedish": "generation"
             },
             {
               "word": "moonless",
-              "meaning": "without the moon in the sky"
+              "meaning": "without the moon in the sky",
+              "swedish": "månlös"
             }
           ],
           "questions": [
@@ -2486,15 +2847,18 @@
           "glossary": [
             {
               "word": "embers",
-              "meaning": "small glowing pieces left from a fire"
+              "meaning": "small glowing pieces left from a fire",
+              "swedish": "glöd"
             },
             {
               "word": "tornado",
-              "meaning": "a spinning column of wind shaped like a funnel"
+              "meaning": "a spinning column of wind shaped like a funnel",
+              "swedish": "tornado"
             },
             {
               "word": "slithered",
-              "meaning": "moved by sliding along the ground, like a snake"
+              "meaning": "moved by sliding along the ground, like a snake",
+              "swedish": "slingrade sig"
             }
           ],
           "questions": [
@@ -2509,15 +2873,18 @@
           "glossary": [
             {
               "word": "smoldering",
-              "meaning": "burning slowly with smoke but no flames"
+              "meaning": "burning slowly with smoke but no flames",
+              "swedish": "pyrande"
             },
             {
               "word": "dwindled",
-              "meaning": "got smaller and smaller"
+              "meaning": "got smaller and smaller",
+              "swedish": "minskade"
             },
             {
               "word": "rays",
-              "meaning": "narrow beams of light"
+              "meaning": "narrow beams of light",
+              "swedish": "strålar"
             }
           ],
           "questions": [
@@ -2532,15 +2899,18 @@
           "glossary": [
             {
               "word": "identical",
-              "meaning": "exactly the same"
+              "meaning": "exactly the same",
+              "swedish": "identisk"
             },
             {
               "word": "bulkier",
-              "meaning": "bigger and heavier"
+              "meaning": "bigger and heavier",
+              "swedish": "klumpigare"
             },
             {
               "word": "triangle",
-              "meaning": "a shape with three sides and three corners"
+              "meaning": "a shape with three sides and three corners",
+              "swedish": "triangel"
             }
           ],
           "questions": [
@@ -2556,43 +2926,53 @@
       "glossary": [
         {
           "word": "property",
-          "meaning": "something that belongs to someone"
+          "meaning": "something that belongs to someone",
+          "swedish": "egendom"
         },
         {
           "word": "defective",
-          "meaning": "not working properly, faulty"
+          "meaning": "not working properly, faulty",
+          "swedish": "defekt"
         },
         {
           "word": "assault",
-          "meaning": "a violent attack"
+          "meaning": "a violent attack",
+          "swedish": "angrepp"
         },
         {
           "word": "avalanche",
-          "meaning": "a huge amount of snow or rock falling down all at once"
+          "meaning": "a huge amount of snow or rock falling down all at once",
+          "swedish": "lavin"
         },
         {
           "word": "refurbish",
-          "meaning": "to repair and make like new again"
+          "meaning": "to repair and make like new again",
+          "swedish": "renovera"
         },
         {
           "word": "intruders",
-          "meaning": "those who come into a place where they are not welcome"
+          "meaning": "those who come into a place where they are not welcome",
+          "swedish": "inkräktare"
         },
         {
           "word": "bombardment",
-          "meaning": "a heavy, continuous attack"
+          "meaning": "a heavy, continuous attack",
+          "swedish": "bombardemang"
         },
         {
           "word": "coordinated",
-          "meaning": "planned so everyone works together"
+          "meaning": "planned so everyone works together",
+          "swedish": "samordnad"
         },
         {
           "word": "scruff",
-          "meaning": "the loose skin on the back of an animal's neck"
+          "meaning": "the loose skin on the back of an animal's neck",
+          "swedish": "nackskinn"
         },
         {
           "word": "rapids",
-          "meaning": "a part of a river where water flows very fast over rocks"
+          "meaning": "a part of a river where water flows very fast over rocks",
+          "swedish": "forsar"
         }
       ],
       "questions": [
@@ -2614,15 +2994,18 @@
           "glossary": [
             {
               "word": "refurbish",
-              "meaning": "to repair and make like new again"
+              "meaning": "to repair and make like new again",
+              "swedish": "renovera"
             },
             {
               "word": "defectiveness",
-              "meaning": "being faulty or broken"
+              "meaning": "being faulty or broken",
+              "swedish": "defekthet"
             },
             {
               "word": "deactivation",
-              "meaning": "switching something off so it stops working"
+              "meaning": "switching something off so it stops working",
+              "swedish": "avaktivering"
             }
           ],
           "questions": [
@@ -2637,15 +3020,18 @@
           "glossary": [
             {
               "word": "intruders",
-              "meaning": "those who come into a place where they are not welcome"
+              "meaning": "those who come into a place where they are not welcome",
+              "swedish": "inkräktare"
             },
             {
               "word": "pattern",
-              "meaning": "a set way that something is done again and again"
+              "meaning": "a set way that something is done again and again",
+              "swedish": "mönster"
             },
             {
               "word": "surfaces",
-              "meaning": "the outside layers or tops of things"
+              "meaning": "the outside layers or tops of things",
+              "swedish": "ytor"
             }
           ],
           "questions": [
@@ -2660,15 +3046,18 @@
           "glossary": [
             {
               "word": "bombardment",
-              "meaning": "a heavy, continuous attack"
+              "meaning": "a heavy, continuous attack",
+              "swedish": "bombardemang"
             },
             {
               "word": "coordinated",
-              "meaning": "planned so everyone works together"
+              "meaning": "planned so everyone works together",
+              "swedish": "samordnad"
             },
             {
               "word": "antlers",
-              "meaning": "the branch-like horns on a deer's head"
+              "meaning": "the branch-like horns on a deer's head",
+              "swedish": "horn"
             }
           ],
           "questions": [
@@ -2683,15 +3072,18 @@
           "glossary": [
             {
               "word": "torpedoes",
-              "meaning": "fast weapons that shoot through water"
+              "meaning": "fast weapons that shoot through water",
+              "swedish": "torpeder"
             },
             {
               "word": "scruff",
-              "meaning": "the loose skin on the back of an animal's neck"
+              "meaning": "the loose skin on the back of an animal's neck",
+              "swedish": "nackskinn"
             },
             {
               "word": "rapids",
-              "meaning": "a part of a river where water flows very fast over rocks"
+              "meaning": "a part of a river where water flows very fast over rocks",
+              "swedish": "forsar"
             }
           ],
           "questions": [
@@ -2707,43 +3099,53 @@
       "glossary": [
         {
           "word": "signal",
-          "meaning": "a message sent out, like a beep or a radio wave"
+          "meaning": "a message sent out, like a beep or a radio wave",
+          "swedish": "signal"
         },
         {
           "word": "malfunctioning",
-          "meaning": "not working properly"
+          "meaning": "not working properly",
+          "swedish": "felfungerande"
         },
         {
           "word": "deactivated",
-          "meaning": "switched off"
+          "meaning": "switched off",
+          "swedish": "avaktiverad"
         },
         {
           "word": "garbled",
-          "meaning": "jumbled up and hard to understand"
+          "meaning": "jumbled up and hard to understand",
+          "swedish": "förvrängd"
         },
         {
           "word": "stampede",
-          "meaning": "a crowd of animals running together in a rush"
+          "meaning": "a crowd of animals running together in a rush",
+          "swedish": "panikartad flykt"
         },
         {
           "word": "craters",
-          "meaning": "big holes in the ground"
+          "meaning": "big holes in the ground",
+          "swedish": "kratrar"
         },
         {
           "word": "relentless",
-          "meaning": "never stopping or giving up"
+          "meaning": "never stopping or giving up",
+          "swedish": "obeveklig"
         },
         {
           "word": "grappled",
-          "meaning": "struggled and wrestled"
+          "meaning": "struggled and wrestled",
+          "swedish": "brottades"
         },
         {
           "word": "talons",
-          "meaning": "the sharp claws of a bird of prey"
+          "meaning": "the sharp claws of a bird of prey",
+          "swedish": "klor"
         },
         {
           "word": "mangled",
-          "meaning": "badly crushed and twisted"
+          "meaning": "badly crushed and twisted",
+          "swedish": "sönderslagen"
         }
       ],
       "questions": [
@@ -2765,15 +3167,18 @@
           "glossary": [
             {
               "word": "stampede",
-              "meaning": "a crowd of animals running together in a rush"
+              "meaning": "a crowd of animals running together in a rush",
+              "swedish": "panikartad flykt"
             },
             {
               "word": "craters",
-              "meaning": "big holes in the ground"
+              "meaning": "big holes in the ground",
+              "swedish": "kratrar"
             },
             {
               "word": "relentless",
-              "meaning": "never stopping or giving up"
+              "meaning": "never stopping or giving up",
+              "swedish": "obeveklig"
             }
           ],
           "questions": [
@@ -2788,15 +3193,18 @@
           "glossary": [
             {
               "word": "explosion",
-              "meaning": "a sudden, loud burst that blows things apart"
+              "meaning": "a sudden, loud burst that blows things apart",
+              "swedish": "explosion"
             },
             {
               "word": "grappled",
-              "meaning": "struggled and wrestled"
+              "meaning": "struggled and wrestled",
+              "swedish": "brottades"
             },
             {
               "word": "combat",
-              "meaning": "fighting"
+              "meaning": "fighting",
+              "swedish": "strid"
             }
           ],
           "questions": [
@@ -2811,15 +3219,18 @@
           "glossary": [
             {
               "word": "talons",
-              "meaning": "the sharp claws of a bird of prey"
+              "meaning": "the sharp claws of a bird of prey",
+              "swedish": "klor"
             },
             {
               "word": "rebooted",
-              "meaning": "switched back on and started up again"
+              "meaning": "switched back on and started up again",
+              "swedish": "startade om"
             },
             {
               "word": "mission",
-              "meaning": "an important job someone has been sent to do"
+              "meaning": "an important job someone has been sent to do",
+              "swedish": "uppdrag"
             }
           ],
           "questions": [
@@ -2834,15 +3245,18 @@
           "glossary": [
             {
               "word": "mangled",
-              "meaning": "badly crushed and twisted"
+              "meaning": "badly crushed and twisted",
+              "swedish": "sönderslagen"
             },
             {
               "word": "sadness",
-              "meaning": "the feeling of being sad"
+              "meaning": "the feeling of being sad",
+              "swedish": "sorg"
             },
             {
               "word": "trembling",
-              "meaning": "shaking, often because of fear or strong feelings"
+              "meaning": "shaking, often because of fear or strong feelings",
+              "swedish": "darrande"
             }
           ],
           "questions": [
@@ -2858,43 +3272,53 @@
       "glossary": [
         {
           "word": "frail",
-          "meaning": "weak and easily hurt"
+          "meaning": "weak and easily hurt",
+          "swedish": "skröplig"
         },
         {
           "word": "decisions",
-          "meaning": "choices you make after thinking"
+          "meaning": "choices you make after thinking",
+          "swedish": "beslut"
         },
         {
           "word": "send-off",
-          "meaning": "a goodbye party or gathering for someone who is leaving"
+          "meaning": "a goodbye party or gathering for someone who is leaving",
+          "swedish": "avskedsfest"
         },
         {
           "word": "stark",
-          "meaning": "very clear and big"
+          "meaning": "very clear and big",
+          "swedish": "tydlig"
         },
         {
           "word": "eternally",
-          "meaning": "forever"
+          "meaning": "forever",
+          "swedish": "evigt"
         },
         {
           "word": "tempers",
-          "meaning": "angry moods"
+          "meaning": "angry moods",
+          "swedish": "humör"
         },
         {
           "word": "wisest",
-          "meaning": "the most wise, knowing the most"
+          "meaning": "the most wise, knowing the most",
+          "swedish": "klokaste"
         },
         {
           "word": "retrieving",
-          "meaning": "getting something and bringing it back"
+          "meaning": "getting something and bringing it back",
+          "swedish": "hämtade"
         },
         {
           "word": "hollering",
-          "meaning": "shouting loudly"
+          "meaning": "shouting loudly",
+          "swedish": "skrikande"
         },
         {
           "word": "glitch",
-          "meaning": "a small fault that makes something not work as it should"
+          "meaning": "a small fault that makes something not work as it should",
+          "swedish": "fel"
         }
       ],
       "questions": [
@@ -2916,15 +3340,18 @@
           "glossary": [
             {
               "word": "eternally",
-              "meaning": "forever"
+              "meaning": "forever",
+              "swedish": "evigt"
             },
             {
               "word": "tempers",
-              "meaning": "angry moods"
+              "meaning": "angry moods",
+              "swedish": "humör"
             },
             {
               "word": "wisest",
-              "meaning": "the most wise, knowing the most"
+              "meaning": "the most wise, knowing the most",
+              "swedish": "klokaste"
             }
           ],
           "questions": [
@@ -2939,15 +3366,18 @@
           "glossary": [
             {
               "word": "retrieving",
-              "meaning": "getting something and bringing it back"
+              "meaning": "getting something and bringing it back",
+              "swedish": "hämtade"
             },
             {
               "word": "scraps",
-              "meaning": "small leftover pieces"
+              "meaning": "small leftover pieces",
+              "swedish": "rester"
             },
             {
               "word": "hollering",
-              "meaning": "shouting loudly"
+              "meaning": "shouting loudly",
+              "swedish": "skrikande"
             }
           ],
           "questions": [
@@ -2972,15 +3402,18 @@
           "glossary": [
             {
               "word": "glitch",
-              "meaning": "a small fault that makes something not work as it should"
+              "meaning": "a small fault that makes something not work as it should",
+              "swedish": "fel"
             },
             {
               "word": "miraculous",
-              "meaning": "amazing, like a miracle"
+              "meaning": "amazing, like a miracle",
+              "swedish": "mirakulös"
             },
             {
               "word": "recorded",
-              "meaning": "saved so it can be looked at again later"
+              "meaning": "saved so it can be looked at again later",
+              "swedish": "inspelad"
             }
           ],
           "questions": [

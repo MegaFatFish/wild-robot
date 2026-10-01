@@ -1,11 +1,16 @@
-{# Expects `words`: a list of { word, meaning? }. Words with a meaning open on tap. #}
+{# Expects `words`: a list of { word, meaning?, swedish? }. Words with a meaning or translation open on tap. #}
 <ul class="chips">
   {%- for w in words %}
   <li>
-    {%- if w.meaning %}
+    {%- if w.meaning or w.swedish %}
     <details class="chip chip--meaning">
       <summary>{{ w.word }}</summary>
+      {%- if w.swedish %}
+      <span class="swedish" lang="sv">{{ w.swedish }}</span>
+      {%- endif %}
+      {%- if w.meaning %}
       <span class="meaning">{{ w.meaning }}</span>
+      {%- endif %}
     </details>
     {%- else %}
     <span class="chip">{{ w.word }}</span>
