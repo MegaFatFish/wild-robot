@@ -18,26 +18,26 @@ eleventyComputed:
     <p class="lede">{{ part.chapterNames | join(" · ") }}</p>
   </header>
 
-  {%- if part.images[0] %}
-  {% set img = part.images[0] %}{% set eager = true %}
-  {% include "picture.njk" %}
-  {%- else %}
-  <figure class="picture picture--placeholder">
-    {% include "svg/island-scene.svg" %}
-  </figure>
-  {%- endif %}
-
   <section class="section" aria-labelledby="words-heading">
     <h2 id="words-heading">Words to know</h2>
     {% set words = part.glossary %}
     {% include "words.njk" %}
   </section>
 
-  {%- if part.images[1] %}
-  {% set img = part.images[1] %}{% set eager = false %}
-  {% include "picture.njk" %}
+  {%- if part.images | length %}
+  <div class="gallery gallery--{{ part.images | length }}">
+    {%- for img in part.images %}
+    {% set eager = loop.first %}
+    {% include "picture.njk" %}
+    {%- endfor %}
+  </div>
+  <dialog class="lightbox">
+    <form method="dialog"><button aria-label="Close picture"><img alt=""></button></form>
+  </dialog>
   {%- else %}
-  {% include "divider.njk" %}
+  <figure class="picture picture--placeholder">
+    {% include "svg/island-scene.svg" %}
+  </figure>
   {%- endif %}
 
   <section class="section" aria-labelledby="questions-heading">
@@ -54,11 +54,6 @@ eleventyComputed:
       {%- endif %}
     </ol>
   </section>
-
-  {%- if part.images[2] %}
-  {% set img = part.images[2] %}{% set eager = false %}
-  {% include "picture.njk" %}
-  {%- endif %}
 
   <div class="read-toggle">
     <button type="button" class="button" data-read-toggle="{{ part.part }}" aria-pressed="false" hidden>

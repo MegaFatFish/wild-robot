@@ -1,8 +1,8 @@
 {#- One part image. Set `img` (from part.images) and `eager` before including. -#}
 <figure class="picture{% if not eager %} picture--extra{% endif %}">
-  <img src="{{ img.src }}"
-       {%- if img.srcset %} srcset="{{ img.srcset }}" sizes="(min-width: 42rem) 40rem, calc(100vw - 2rem)"{% endif %}
+  <a class="picture-link" href="{{ img.src }}"><img src="{{ img.src }}"
+       {%- if img.srcset %} srcset="{{ img.srcset }}" sizes="{% if eager %}(min-width: 64em) 40rem, calc(100vw - 2rem){% else %}(min-width: 64em) 20rem, calc(100vw - 2rem){% endif %}"{% endif %}
        width="1536" height="1024" decoding="async"
        {%- if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %}
-       alt="{{ img.alt }}">
+       alt="{{ img.alt }}"></a>
 </figure>

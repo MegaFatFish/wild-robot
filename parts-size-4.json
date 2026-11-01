@@ -49,9 +49,9 @@
           "swedish": "nyfikenhet"
         },
         {
-          "word": "restrained",
-          "meaning": "held back so it could not move",
-          "swedish": "fastspänd"
+          "word": "crate",
+          "meaning": "a big wooden box used for sending things",
+          "swedish": "låda"
         }
       ],
       "questions": [
@@ -59,7 +59,7 @@
         "Why did Roz survive when the other four robots were broken?",
         "How did the otters accidentally switch Roz on?"
       ],
-      "thinkingQuestion": "Roz has just climbed out of her crate and knows nothing about the world. What do you think the island animals will think when they see her? What do you think she will do first?",
+      "thinkingQuestion": "Roz has just climbed out of her crate and knows nothing about the world. What do you think the island animals will think when they see her?",
       "extraQuestion": "Roz says she will complete any task she is given, but there is nobody on the island to give her one. If you woke up somewhere completely new, what would you do first?",
       "imageAlts": [
         "Five wooden crates float on a calm sea, with a small green island far away on the horizon.",
@@ -182,9 +182,9 @@
           "swedish": "gravplats"
         },
         {
-          "word": "engulfed",
-          "meaning": "completely covered or swallowed up",
-          "swedish": "uppslukad"
+          "word": "pinecone",
+          "meaning": "the hard, scaly cone that grows on a pine tree and holds its seeds",
+          "swedish": "kotte"
         },
         {
           "word": "technique",
@@ -350,14 +350,14 @@
       "part": 3,
       "glossary": [
         {
-          "word": "teeming",
-          "meaning": "full of lots of living things moving around",
-          "swedish": "myllrande"
+          "word": "horizon",
+          "meaning": "the line far away where the land or sea seems to meet the sky",
+          "swedish": "horisont"
         },
         {
-          "word": "shelter",
-          "meaning": "a place that keeps you safe from danger or bad weather",
-          "swedish": "skydd"
+          "word": "factory",
+          "meaning": "a big building where things are made by machines",
+          "swedish": "fabrik"
         },
         {
           "word": "anchored",
@@ -375,9 +375,9 @@
           "swedish": "klippformationer"
         },
         {
-          "word": "foothills",
-          "meaning": "low hills at the bottom of a mountain",
-          "swedish": "förberg"
+          "word": "mountain",
+          "meaning": "a very high hill with steep sides",
+          "swedish": "berg"
         },
         {
           "word": "artificial",
@@ -523,9 +523,9 @@
       "part": 4,
       "glossary": [
         {
-          "word": "aftermath",
-          "meaning": "what is left after something bad has happened",
-          "swedish": "efterspel"
+          "word": "shelter",
+          "meaning": "a place that keeps you safe from danger or bad weather",
+          "swedish": "skydd"
         },
         {
           "word": "lurking",
@@ -701,9 +701,9 @@
           "swedish": "kamouflerad"
         },
         {
-          "word": "peculiar",
-          "meaning": "strange or unusual",
-          "swedish": "egendomlig"
+          "word": "desire",
+          "meaning": "a strong wish to have or do something",
+          "swedish": "önskan"
         },
         {
           "word": "observed",
@@ -736,9 +736,9 @@
           "swedish": "björnbärssnår"
         },
         {
-          "word": "intricate",
-          "meaning": "having lots of small, detailed parts",
-          "swedish": "invecklad"
+          "word": "fog",
+          "meaning": "a thick cloud close to the ground that makes it hard to see",
+          "swedish": "dimma"
         },
         {
           "word": "tadpoles",
@@ -909,9 +909,9 @@
           "swedish": "taggar"
         },
         {
-          "word": "winced",
-          "meaning": "made a quick face because of pain",
-          "swedish": "grimaserade"
+          "word": "probably",
+          "meaning": "almost certainly; very likely",
+          "swedish": "förmodligen"
         },
         {
           "word": "plummeting",
@@ -1047,9 +1047,9 @@
           "swedish": "artist"
         },
         {
-          "word": "demeanor",
-          "meaning": "the way someone looks and behaves",
-          "swedish": "uppträdande"
+          "word": "frightened",
+          "meaning": "feeling scared",
+          "swedish": "rädd"
         },
         {
           "word": "adopted",
@@ -1057,9 +1057,9 @@
           "swedish": "adopterade"
         },
         {
-          "word": "runt",
-          "meaning": "the smallest and weakest baby in a family of animals",
-          "swedish": "kullens minsta"
+          "word": "branch",
+          "meaning": "a part of a tree that grows out from the trunk",
+          "swedish": "gren"
         },
         {
           "word": "fragile",
@@ -1373,14 +1373,14 @@
       "part": 9,
       "glossary": [
         {
-          "word": "festive",
-          "meaning": "happy and cheerful, like a party",
-          "swedish": "festlig"
+          "word": "soil",
+          "meaning": "the top layer of the ground, where plants grow",
+          "swedish": "jord"
         },
         {
-          "word": "meandering",
-          "meaning": "wandering slowly with no hurry, taking a winding path",
-          "swedish": "slingrande"
+          "word": "fertilizer",
+          "meaning": "something put on soil to help plants grow",
+          "swedish": "gödsel"
         },
         {
           "word": "tranquil",
@@ -1403,14 +1403,14 @@
           "swedish": "grävande"
         },
         {
-          "word": "attentive",
-          "meaning": "paying close attention and caring",
-          "swedish": "uppmärksam"
+          "word": "pike",
+          "meaning": "a big fish with sharp teeth that lives in lakes and rivers",
+          "swedish": "gädda"
         },
         {
-          "word": "tottering",
-          "meaning": "walking in a wobbly, unsteady way",
-          "swedish": "vinglande"
+          "word": "rarely",
+          "meaning": "not often",
+          "swedish": "sällan"
         },
         {
           "word": "gratitude",
@@ -1581,14 +1581,14 @@
           "swedish": "ihålig"
         },
         {
-          "word": "amusement",
-          "meaning": "the feeling of finding something funny",
-          "swedish": "munterhet"
+          "word": "explore",
+          "meaning": "to travel around a place to find out about it",
+          "swedish": "utforska"
         },
         {
-          "word": "veering",
-          "meaning": "turning suddenly to one side",
-          "swedish": "svängde"
+          "word": "conversation",
+          "meaning": "a talk between two or more people",
+          "swedish": "samtal"
         },
         {
           "word": "vessel",

@@ -29,6 +29,18 @@
       document.querySelectorAll("details").forEach((d) => (d.open = true));
     });
 
+    // Tap a picture to see it big; tap again or press Esc to close.
+    document.querySelectorAll(".picture-link").forEach((link) => {
+      link.addEventListener("click", (e) => {
+        const box = document.querySelector(".lightbox");
+        const img = box.querySelector("img");
+        e.preventDefault();
+        img.src = link.href;
+        img.alt = link.querySelector("img").alt;
+        box.showModal();
+      });
+    });
+
     // "I've read this part" is remembered in this browser only.
     // Storage can be blocked (private windows), so the page works without it.
     (() => {
