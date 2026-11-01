@@ -32,7 +32,8 @@ eleventyComputed:
     {%- endfor %}
   </div>
   <dialog class="lightbox">
-    <form method="dialog"><button aria-label="Close picture"><img alt=""></button></form>
+    <form method="dialog"><button class="lightbox-close" aria-label="Close picture">×</button></form>
+    <img alt="">
   </dialog>
   {%- else %}
   <figure class="picture picture--placeholder">

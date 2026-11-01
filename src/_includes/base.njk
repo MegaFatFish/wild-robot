@@ -29,7 +29,8 @@
       document.querySelectorAll("details").forEach((d) => (d.open = true));
     });
 
-    // Tap a picture to see it big; tap again or press Esc to close.
+    // Tap a picture to see it big; tap anywhere, the ×, or press Esc to close.
+    document.querySelector(".lightbox")?.addEventListener("click", (e) => e.currentTarget.close());
     document.querySelectorAll(".picture-link").forEach((link) => {
       link.addEventListener("click", (e) => {
         const box = document.querySelector(".lightbox");

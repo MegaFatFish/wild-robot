@@ -258,11 +258,10 @@ a {
   border-radius: var(--radius);
 }
 
-/* Wide screens: break out of the text column so all images fit in one view.
+/* Wider screens: side by side, so all images fit in one view.
    With three, the first is large on the left and the other two stack beside it. */
-@media (min-width: 64em) {
+@media (min-width: 40em) {
   .gallery {
-    margin-inline: calc(50% - min(30rem, 50vw - var(--gutter)));
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
@@ -290,18 +289,29 @@ a {
   padding: 0;
   border: 0;
   background: none;
+  cursor: zoom-out;
 }
 
 .lightbox::backdrop {
   background: rgb(46 58 51 / 0.85); /* --ink */
 }
 
-.lightbox button {
-  display: block;
-  padding: 0;
+.lightbox-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: grid;
+  place-items: center;
   border: 0;
-  background: none;
-  cursor: zoom-out;
+  border-radius: 50%;
+  background: var(--paper);
+  color: var(--forest-deep);
+  font: inherit;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
 }
 
 .lightbox img {
